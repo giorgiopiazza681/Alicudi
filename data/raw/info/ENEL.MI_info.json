@@ -1,0 +1,23 @@
+{
+  "symbol": "ENEL.MI",
+  "marketCap": 86567709379.65355,
+  "currency": "EUR",
+  "lastPrice": 8.72599983215332,
+  "fiftyTwoWeekLow": 8.182000160217285,
+  "fiftyTwoWeekHigh": 10.3100004196167,
+  "sharesOutstanding": 9920663654,
+  "shortName": "ENEL",
+  "longName": "Enel SpA",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "trailingPE": 20.77619,
+  "forwardPE": 11.535614,
+  "priceToBook": 3.5072348,
+  "enterpriseToEbitda": 8.298,
+  "profitMargins": 0.05711,
+  "operatingMargins": 0.18218,
+  "returnOnEquity": 0.122559994,
+  "debtToEquity": 147.743,
+  "totalDebt": 73377996800,
+  "dividendYield": 5.89
+}

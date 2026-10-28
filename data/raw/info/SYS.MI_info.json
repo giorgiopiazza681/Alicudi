@@ -1,0 +1,23 @@
+{
+  "symbol": "SYS.MI",
+  "marketCap": 258160614.70441818,
+  "currency": "EUR",
+  "lastPrice": 8.579999923706055,
+  "fiftyTwoWeekLow": 4.28000020980835,
+  "fiftyTwoWeekHigh": 8.9399995803833,
+  "sharesOutstanding": 30088650,
+  "shortName": "SYS-DAT",
+  "longName": "SYS-DAT S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "trailingPE": 34.32,
+  "forwardPE": 22.502558,
+  "priceToBook": 4.2793016,
+  "enterpriseToEbitda": 16.945,
+  "profitMargins": 0.0796,
+  "operatingMargins": 0.1114,
+  "returnOnEquity": 0.12562999,
+  "debtToEquity": 13.997,
+  "totalDebt": 8715060,
+  "dividendYield": 0.46
+}

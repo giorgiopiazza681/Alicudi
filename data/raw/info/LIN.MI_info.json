@@ -1,0 +1,16 @@
+{
+  "symbol": "LIN.MI",
+  "shortName": "Linificio e Canapificio Nazionale S.p.A.",
+  "longName": "Linificio e Canapificio Nazionale S.p.A.",
+  "sector": "Consumer Cyclical",
+  "marketCap": 95000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2008-03-28",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 16.21460171290811,
+  "enterpriseToEbitda": 7.842808103382603,
+  "returnOnEquity": 0.16115707273796978,
+  "operatingMargins": 0.10526118719633475,
+  "debtToEquity": 39.51661690737726
+}

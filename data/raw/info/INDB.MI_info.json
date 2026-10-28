@@ -1,0 +1,23 @@
+{
+  "symbol": "INDB.MI",
+  "marketCap": 93747985.55,
+  "currency": "EUR",
+  "lastPrice": 17.95,
+  "fiftyTwoWeekLow": 17.350000381469727,
+  "fiftyTwoWeekHigh": 21.0,
+  "sharesOutstanding": 5222729,
+  "shortName": "INDEL B",
+  "longName": "Indel B S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "trailingPE": 18.894737,
+  "forwardPE": 7.953106,
+  "priceToBook": 0.6648641,
+  "enterpriseToEbitda": 6.123,
+  "profitMargins": 0.02307,
+  "operatingMargins": 0.058369998,
+  "returnOnEquity": 0.03603,
+  "debtToEquity": 28.864,
+  "totalDebt": 40974000,
+  "dividendYield": 3.34
+}

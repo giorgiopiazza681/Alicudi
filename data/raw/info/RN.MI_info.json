@@ -1,0 +1,21 @@
+{
+  "symbol": "RN.MI",
+  "marketCap": 62849460.986528166,
+  "currency": "EUR",
+  "lastPrice": 0.0348999984562397,
+  "fiftyTwoWeekLow": 0.013000000268220901,
+  "fiftyTwoWeekHigh": 0.052000001072883606,
+  "sharesOutstanding": 1800844234,
+  "shortName": "RISANAMENTO",
+  "longName": "Risanamento SpA",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "enterpriseToEbitda": -1.8,
+  "profitMargins": -0.73836,
+  "operatingMargins": -0.33641,
+  "returnOnEquity": -2.12318,
+  "totalDebt": 2350000,
+  "dividendYield": 0.0,
+  "trailingPE": -15.0,
+  "debtToEquity": 65.0
+}

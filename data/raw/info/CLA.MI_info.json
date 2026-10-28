@@ -1,0 +1,17 @@
+{
+  "symbol": "CLA.MI",
+  "shortName": "Clabo S.p.A.",
+  "longName": "Clabo S.p.A.",
+  "isin": "IT0005091324",
+  "marketCap": 18000000,
+  "status": "DELISTED_VOLUNTARY",
+  "delisted": true,
+  "delisting_date": "2025-06-13",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Industrials",
+  "trailingPE": 14.5,
+  "enterpriseToEbitda": 8.41,
+  "returnOnEquity": 0.095,
+  "operatingMargins": 0.07125000000000001,
+  "debtToEquity": 65.0
+}

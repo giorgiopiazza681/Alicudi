@@ -1,0 +1,23 @@
+{
+  "symbol": "ITD.MI",
+  "marketCap": 136892222.16705894,
+  "currency": "EUR",
+  "lastPrice": 8.800000190734863,
+  "fiftyTwoWeekLow": 8.319999694824219,
+  "fiftyTwoWeekHigh": 10.949999809265137,
+  "sharesOutstanding": 15555934,
+  "shortName": "INTRED",
+  "longName": "Intred S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "trailingPE": 17.254902,
+  "forwardPE": 13.946118,
+  "priceToBook": 1.9932051,
+  "enterpriseToEbitda": 7.294,
+  "profitMargins": 0.1424,
+  "operatingMargins": 0.21736,
+  "returnOnEquity": 0.125,
+  "debtToEquity": 73.697,
+  "totalDebt": 51579028,
+  "dividendYield": 0.67
+}

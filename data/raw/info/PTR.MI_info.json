@@ -1,0 +1,22 @@
+{
+  "symbol": "PTR.MI",
+  "marketCap": 35491992.08661175,
+  "currency": "EUR",
+  "lastPrice": 2.380000114440918,
+  "fiftyTwoWeekLow": 2.180000066757202,
+  "fiftyTwoWeekHigh": 4.190000057220459,
+  "sharesOutstanding": 14912601,
+  "shortName": "PATTERN",
+  "longName": "Pattern S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "forwardPE": 14.875001,
+  "priceToBook": 1.0778986,
+  "enterpriseToEbitda": 9.555,
+  "profitMargins": -0.025309999,
+  "operatingMargins": -0.00477,
+  "returnOnEquity": -0.04616,
+  "debtToEquity": 111.949,
+  "totalDebt": 41832144,
+  "dividendYield": 1.46
+}

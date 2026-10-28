@@ -1,0 +1,23 @@
+{
+  "symbol": "ANIM.MI",
+  "marketCap": 2422857774.6200056,
+  "currency": "EUR",
+  "lastPrice": 7.449999809265137,
+  "fiftyTwoWeekLow": 5.869999885559082,
+  "fiftyTwoWeekHigh": 7.489999771118164,
+  "sharesOutstanding": 325215817,
+  "shortName": "ANIMA HOLDING",
+  "longName": "Anima Holding SpA",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "trailingPE": 8.9759035,
+  "forwardPE": 9.090687,
+  "priceToBook": 1.2314049,
+  "enterpriseToEbitda": 3.926,
+  "profitMargins": 0.18681,
+  "operatingMargins": 0.22219,
+  "returnOnEquity": 0.14846,
+  "debtToEquity": 31.05,
+  "totalDebt": 611097984,
+  "dividendYield": 6.69
+}

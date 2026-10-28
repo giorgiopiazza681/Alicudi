@@ -1,0 +1,16 @@
+{
+  "symbol": "PAN.MI",
+  "shortName": "Panariagroup Industrie Ceramiche S.p.A.",
+  "longName": "Panariagroup Industrie Ceramiche S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 84000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-07-22",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 12.8,
+  "enterpriseToEbitda": 6.2,
+  "returnOnEquity": 0.11,
+  "operatingMargins": 0.078,
+  "debtToEquity": 82.0
+}

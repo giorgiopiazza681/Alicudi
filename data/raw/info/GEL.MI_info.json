@@ -1,0 +1,22 @@
+{
+  "symbol": "GEL.MI",
+  "marketCap": 15052560.598134995,
+  "currency": "EUR",
+  "lastPrice": 2.4000000953674316,
+  "fiftyTwoWeekLow": 1.9800000190734863,
+  "fiftyTwoWeekHigh": 3.259999990463257,
+  "sharesOutstanding": 6271900,
+  "shortName": "GEL",
+  "longName": "Gel S.p.A.",
+  "sector": "Industrials",
+  "industry": "Pollution & Treatment Controls",
+  "trailingPE": 24.0,
+  "priceToBook": 1.4184397,
+  "enterpriseToEbitda": 10.323,
+  "profitMargins": 0.03521,
+  "operatingMargins": 0.08789,
+  "returnOnEquity": 0.051119998,
+  "debtToEquity": 63.725,
+  "totalDebt": 7028764,
+  "dividendYield": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "SRG.MI",
+  "marketCap": 18607955917.704327,
+  "currency": "EUR",
+  "lastPrice": 5.544000148773193,
+  "fiftyTwoWeekLow": 5.067999839782715,
+  "fiftyTwoWeekHigh": 6.869999885559082,
+  "sharesOutstanding": 3356413315,
+  "shortName": "SNAM",
+  "longName": "Snam S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "trailingPE": 16.8,
+  "forwardPE": 12.68766,
+  "priceToBook": 2.2490873,
+  "enterpriseToEbitda": 12.341,
+  "profitMargins": 0.28639,
+  "operatingMargins": 0.49075,
+  "returnOnEquity": 0.1238,
+  "debtToEquity": 234.16,
+  "totalDebt": 21812000768,
+  "dividendYield": 5.45
+}

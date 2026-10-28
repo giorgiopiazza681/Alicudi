@@ -1,0 +1,23 @@
+{
+  "symbol": "REY.MI",
+  "marketCap": 4570092199.664978,
+  "currency": "EUR",
+  "lastPrice": 125.80000305175781,
+  "fiftyTwoWeekLow": 76.6500015258789,
+  "fiftyTwoWeekHigh": 129.0,
+  "sharesOutstanding": 36328236,
+  "shortName": "REPLY",
+  "longName": "Reply S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "trailingPE": 22.831215,
+  "forwardPE": 15.118885,
+  "priceToBook": 3.0382073,
+  "enterpriseToEbitda": 9.724,
+  "profitMargins": 0.10175,
+  "operatingMargins": 0.15726,
+  "returnOnEquity": 0.18087,
+  "debtToEquity": 11.87,
+  "totalDebt": 179792992,
+  "dividendYield": 1.07
+}

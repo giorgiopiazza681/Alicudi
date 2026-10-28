@@ -1,0 +1,23 @@
+{
+  "symbol": "BFG.MI",
+  "marketCap": 1958359614.3536825,
+  "currency": "EUR",
+  "lastPrice": 7.480000019073486,
+  "fiftyTwoWeekLow": 3.9700000286102295,
+  "fiftyTwoWeekHigh": 8.199999809265137,
+  "sharesOutstanding": 261812782,
+  "shortName": "B.F.",
+  "longName": "B.F. S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "trailingPE": 149.59999,
+  "forwardPE": 53.933235,
+  "priceToBook": 1.8588469,
+  "enterpriseToEbitda": 16.373,
+  "profitMargins": 0.0060900003,
+  "operatingMargins": 0.04496,
+  "returnOnEquity": 0.03244,
+  "debtToEquity": 64.985,
+  "totalDebt": 777539968,
+  "dividendYield": 0.5
+}

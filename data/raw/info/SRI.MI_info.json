@@ -1,0 +1,17 @@
+{
+  "symbol": "SRI.MI",
+  "shortName": "Servizi Italia S.p.A.",
+  "longName": "Servizi Italia S.p.A.",
+  "isin": "IT0003814537",
+  "marketCap": 75000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-12-17",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Healthcare",
+  "trailingPE": 10.2,
+  "enterpriseToEbitda": 4.8,
+  "returnOnEquity": 0.115,
+  "operatingMargins": 0.085,
+  "debtToEquity": 88.0
+}

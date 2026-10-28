@@ -1,0 +1,23 @@
+{
+  "symbol": "LTMC.MI",
+  "marketCap": 5625841736.61791,
+  "currency": "EUR",
+  "lastPrice": 24.309999465942383,
+  "fiftyTwoWeekLow": 18.65999984741211,
+  "fiftyTwoWeekHigh": 28.290000915527344,
+  "sharesOutstanding": 231420891,
+  "shortName": "LOTTOMATICA GROUP",
+  "longName": "Lottomatica Group S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Gambling",
+  "trailingPE": 27.01111,
+  "forwardPE": 10.8297615,
+  "priceToBook": 25.244028,
+  "enterpriseToEbitda": 12.017,
+  "profitMargins": 0.096370004,
+  "operatingMargins": 0.21338,
+  "returnOnEquity": 0.54611,
+  "debtToEquity": 889.71,
+  "totalDebt": 2513733120,
+  "dividendYield": 1.76
+}

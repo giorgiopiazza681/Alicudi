@@ -1,0 +1,21 @@
+{
+  "symbol": "ISP.MI",
+  "marketCap": 108418190737.1192,
+  "currency": "EUR",
+  "lastPrice": 6.24399995803833,
+  "fiftyTwoWeekLow": 4.813499927520752,
+  "fiftyTwoWeekHigh": 6.936999797821045,
+  "sharesOutstanding": 17363579671,
+  "shortName": "INTESA SANPAOLO",
+  "longName": "Intesa Sanpaolo S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 11.15,
+  "forwardPE": 9.55003,
+  "priceToBook": 1.5969309,
+  "profitMargins": 0.36964,
+  "operatingMargins": 0.6389,
+  "returnOnEquity": 0.14261,
+  "totalDebt": 265553002496,
+  "dividendYield": 5.84
+}

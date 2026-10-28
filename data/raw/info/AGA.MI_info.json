@@ -1,0 +1,17 @@
+{
+  "symbol": "AGA.MI",
+  "shortName": "Agatos S.p.A.",
+  "longName": "Agatos S.p.A.",
+  "isin": "IT0005421919",
+  "marketCap": 8500000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2023-09-28",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Utilities",
+  "trailingPE": -8.5,
+  "enterpriseToEbitda": 22.0,
+  "returnOnEquity": -0.32,
+  "operatingMargins": -0.18,
+  "debtToEquity": 290.0
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PSF.MI",
+  "shortName": "Poligrafica S. Faustino S.p.A.",
+  "longName": "Poligrafica S. Faustino S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 14000000,
+  "status": "DELISTED_MERGER",
+  "delisted": true,
+  "delisting_date": "2021-11-09",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.5,
+  "enterpriseToEbitda": 8.41,
+  "returnOnEquity": 0.095,
+  "operatingMargins": 0.07125000000000001,
+  "debtToEquity": 65.0
+}

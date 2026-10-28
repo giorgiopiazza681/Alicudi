@@ -1,0 +1,16 @@
+{
+  "symbol": "AST.MI",
+  "shortName": "Astaldi S.p.A.",
+  "longName": "Astaldi S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 95000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2021-08-02",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 5.8,
+  "enterpriseToEbitda": 8.9,
+  "returnOnEquity": 0.075,
+  "operatingMargins": 0.048,
+  "debtToEquity": 380.0
+}

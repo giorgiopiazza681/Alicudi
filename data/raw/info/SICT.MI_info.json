@@ -1,0 +1,16 @@
+{
+  "symbol": "SICT.MI",
+  "shortName": "SICIT Group S.p.A.",
+  "longName": "SICIT Group S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 335000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-08-05",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 15.2,
+  "enterpriseToEbitda": 8.6,
+  "returnOnEquity": 0.215,
+  "operatingMargins": 0.24,
+  "debtToEquity": 15.0
+}

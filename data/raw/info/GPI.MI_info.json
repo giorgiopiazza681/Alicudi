@@ -1,0 +1,23 @@
+{
+  "symbol": "GPI.MI",
+  "marketCap": 421194736.0359802,
+  "currency": "EUR",
+  "lastPrice": 14.579999923706055,
+  "fiftyTwoWeekLow": 13.180000305175781,
+  "fiftyTwoWeekHigh": 18.68000030517578,
+  "sharesOutstanding": 28888528,
+  "shortName": "GPI",
+  "longName": "GPI S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "trailingPE": 25.578947,
+  "forwardPE": 14.028132,
+  "priceToBook": 1.3771607,
+  "enterpriseToEbitda": 8.139,
+  "profitMargins": 0.02964,
+  "operatingMargins": 0.10492,
+  "returnOnEquity": 0.050019998,
+  "debtToEquity": 182.555,
+  "totalDebt": 552054016,
+  "dividendYield": 4.27
+}

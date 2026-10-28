@@ -1,0 +1,21 @@
+{
+  "symbol": "BMPS.MI",
+  "marketCap": 33975592609.113113,
+  "currency": "EUR",
+  "lastPrice": 11.182000160217285,
+  "fiftyTwoWeekLow": 6.836999893188477,
+  "fiftyTwoWeekHigh": 12.083999633789062,
+  "sharesOutstanding": 3038418183,
+  "shortName": "BANCA MONTE PASCHI SIENA",
+  "longName": "Banca Monte dei Paschi di Siena S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 9.396638,
+  "forwardPE": 12.537561,
+  "priceToBook": 1.2867665,
+  "profitMargins": 0.52342,
+  "operatingMargins": 0.54271,
+  "returnOnEquity": 0.15022,
+  "totalDebt": 74527899648,
+  "dividendYield": 7.39
+}

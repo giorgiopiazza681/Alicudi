@@ -1,0 +1,22 @@
+{
+  "symbol": "MARP.MI",
+  "marketCap": 14023350.303947926,
+  "currency": "EUR",
+  "lastPrice": 2.200000047683716,
+  "fiftyTwoWeekLow": 2.0399999618530273,
+  "fiftyTwoWeekHigh": 2.5399999618530273,
+  "sharesOutstanding": 6374250,
+  "shortName": "MARZOCCHI POMPE",
+  "longName": "Marzocchi Pompe S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "trailingPE": 20.0,
+  "priceToBook": 0.6746397,
+  "enterpriseToEbitda": 7.308,
+  "profitMargins": 0.01898,
+  "operatingMargins": 0.055419996,
+  "returnOnEquity": 0.03441,
+  "debtToEquity": 90.902,
+  "totalDebt": 19161124,
+  "dividendYield": 2.68
+}

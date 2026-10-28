@@ -1,0 +1,11 @@
+{
+  "symbol": "MON.MI",
+  "shortName": "Monrif S.p.A.",
+  "longName": "Monrif S.p.A.",
+  "isin": "IT0000066016",
+  "marketCap": 25000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-05-07",
+  "data_source": "euronext_encrypted_archive"
+}

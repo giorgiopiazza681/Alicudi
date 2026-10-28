@@ -1,0 +1,17 @@
+{
+  "symbol": "SEB.MI",
+  "shortName": "Sebino S.p.A.",
+  "longName": "Sebino S.p.A.",
+  "isin": "IT0005413510",
+  "marketCap": 98000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-09-12",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Industrials",
+  "trailingPE": 9.8,
+  "enterpriseToEbitda": 5.5,
+  "returnOnEquity": 0.192,
+  "operatingMargins": 0.148,
+  "debtToEquity": 20.0
+}

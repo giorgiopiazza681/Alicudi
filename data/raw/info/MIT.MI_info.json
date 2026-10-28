@@ -1,0 +1,17 @@
+{
+  "symbol": "MIT.MI",
+  "shortName": "Mittel S.p.A.",
+  "longName": "Mittel S.p.A.",
+  "isin": "IT0001447348",
+  "marketCap": 145000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-03-05",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Financial Services",
+  "trailingPE": 15.793470118217865,
+  "enterpriseToEbitda": 6.257120046152965,
+  "returnOnEquity": 0.1519489625569997,
+  "operatingMargins": 0.14748029120121184,
+  "debtToEquity": 33.15166451853996
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "INW.MI",
+  "marketCap": 6150474499.260935,
+  "currency": "EUR",
+  "lastPrice": 6.815000057220459,
+  "fiftyTwoWeekLow": 5.974999904632568,
+  "fiftyTwoWeekHigh": 9.975000381469727,
+  "sharesOutstanding": 902490748,
+  "shortName": "INWIT",
+  "longName": "Infrastrutture Wireless Italiane S.p.A.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "trailingPE": 18.418919,
+  "forwardPE": 19.128752,
+  "priceToBook": 2.025862,
+  "enterpriseToEbitda": 15.306,
+  "profitMargins": 0.31455,
+  "operatingMargins": 0.51618,
+  "returnOnEquity": 0.098620005,
+  "debtToEquity": 176.713,
+  "totalDebt": 5551414784,
+  "dividendYield": 8.29
+}

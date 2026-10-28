@@ -1,0 +1,23 @@
+{
+  "symbol": "PRO.MI",
+  "marketCap": 99780302.57981515,
+  "currency": "EUR",
+  "lastPrice": 1.5099999904632568,
+  "fiftyTwoWeekLow": 1.4550000429153442,
+  "fiftyTwoWeekHigh": 2.0399999618530273,
+  "sharesOutstanding": 66079671,
+  "shortName": "BCA PROFILO",
+  "longName": "Banca Profilo S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 11.615385,
+  "forwardPE": 9.556961,
+  "priceToBook": 0.6180925,
+  "profitMargins": 0.17358999,
+  "operatingMargins": 0.00369,
+  "returnOnEquity": 0.05441,
+  "totalDebt": 1116445056,
+  "dividendYield": 4.55,
+  "enterpriseToEbitda": 6.736923299999999,
+  "debtToEquity": 65.0
+}

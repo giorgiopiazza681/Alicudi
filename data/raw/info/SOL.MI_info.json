@@ -1,0 +1,23 @@
+{
+  "symbol": "SOL.MI",
+  "marketCap": 5242459930.801392,
+  "currency": "EUR",
+  "lastPrice": 57.79999923706055,
+  "fiftyTwoWeekLow": 44.849998474121094,
+  "fiftyTwoWeekHigh": 64.0,
+  "sharesOutstanding": 90700000,
+  "shortName": "SOL",
+  "longName": "SOL S.p.A.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "trailingPE": 30.26178,
+  "forwardPE": 25.265882,
+  "priceToBook": 4.426744,
+  "enterpriseToEbitda": 13.777,
+  "profitMargins": 0.09238,
+  "operatingMargins": 0.15451999,
+  "returnOnEquity": 0.15574001,
+  "debtToEquity": 70.987,
+  "totalDebt": 878275008,
+  "dividendYield": 0.78
+}

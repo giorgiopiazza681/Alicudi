@@ -1,0 +1,23 @@
+{
+  "symbol": "PIRC.MI",
+  "marketCap": 7236162575.879923,
+  "currency": "EUR",
+  "lastPrice": 6.670000076293945,
+  "fiftyTwoWeekLow": 5.309999942779541,
+  "fiftyTwoWeekHigh": 7.164999961853027,
+  "sharesOutstanding": 1084881933,
+  "shortName": "PIRELLI & C",
+  "longName": "Pirelli & C. S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "trailingPE": 13.34,
+  "forwardPE": 11.482381,
+  "priceToBook": 1.1312754,
+  "enterpriseToEbitda": 7.049,
+  "profitMargins": 0.07462,
+  "operatingMargins": 0.13876,
+  "returnOnEquity": 0.09134,
+  "debtToEquity": 46.887,
+  "totalDebt": 3134385920,
+  "dividendYield": 3.57
+}

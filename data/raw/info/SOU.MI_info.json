@@ -1,0 +1,16 @@
+{
+  "symbol": "SOU.MI",
+  "shortName": "Sourcesense S.p.A.",
+  "longName": "Sourcesense S.p.A.",
+  "sector": "Technology",
+  "marketCap": 35000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-11-04",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.791959290179028,
+  "enterpriseToEbitda": 7.5074433593893435,
+  "returnOnEquity": 0.1463146965573211,
+  "operatingMargins": 0.17719096459034656,
+  "debtToEquity": 41.348101917787496
+}

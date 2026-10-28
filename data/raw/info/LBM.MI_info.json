@@ -1,0 +1,17 @@
+{
+  "symbol": "LBM.MI",
+  "shortName": "Labomar S.p.A.",
+  "longName": "Labomar S.p.A.",
+  "isin": "IT0005421646",
+  "marketCap": 185000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-09-06",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Healthcare",
+  "trailingPE": 15.4,
+  "enterpriseToEbitda": 8.2,
+  "returnOnEquity": 0.152,
+  "operatingMargins": 0.138,
+  "debtToEquity": 45.0
+}

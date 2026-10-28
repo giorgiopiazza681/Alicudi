@@ -1,0 +1,23 @@
+{
+  "symbol": "A2A.MI",
+  "marketCap": 7025989012.637541,
+  "currency": "EUR",
+  "lastPrice": 2.24399995803833,
+  "fiftyTwoWeekLow": 2.128999948501587,
+  "fiftyTwoWeekHigh": 2.74399995803833,
+  "sharesOutstanding": 3131011205,
+  "shortName": "A2A",
+  "longName": "A2A S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "trailingPE": 10.2,
+  "forwardPE": 10.626509,
+  "priceToBook": 1.3501805,
+  "enterpriseToEbitda": 6.44,
+  "profitMargins": 0.04423,
+  "operatingMargins": 0.065120004,
+  "returnOnEquity": 0.11337,
+  "debtToEquity": 113.764,
+  "totalDebt": 7414000128,
+  "dividendYield": 4.62
+}

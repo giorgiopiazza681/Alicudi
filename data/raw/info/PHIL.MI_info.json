@@ -1,0 +1,23 @@
+{
+  "symbol": "PHIL.MI",
+  "marketCap": 895142064.0,
+  "currency": "EUR",
+  "lastPrice": 22.25,
+  "fiftyTwoWeekLow": 19.559999465942383,
+  "fiftyTwoWeekHigh": 26.0,
+  "sharesOutstanding": 40231104,
+  "shortName": "PHILOGEN",
+  "longName": "Philogen S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "trailingPE": 3.9874554,
+  "forwardPE": -89.24632,
+  "priceToBook": 2.699915,
+  "enterpriseToEbitda": 2.254,
+  "profitMargins": 0.71361,
+  "operatingMargins": -5.78819,
+  "returnOnEquity": 0.98353,
+  "debtToEquity": 3.45,
+  "totalDebt": 11443000,
+  "dividendYield": 3.15
+}

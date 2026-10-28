@@ -1,0 +1,21 @@
+{
+  "symbol": "BGN.MI",
+  "marketCap": 6839256093.588169,
+  "currency": "EUR",
+  "lastPrice": 59.95000076293945,
+  "fiftyTwoWeekLow": 45.880001068115234,
+  "fiftyTwoWeekHigh": 69.75,
+  "sharesOutstanding": 114082669,
+  "shortName": "BANCA GENERALI",
+  "longName": "Banca Generali S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 13.032609,
+  "forwardPE": 15.591516,
+  "priceToBook": 4.8656764,
+  "profitMargins": 0.46145,
+  "operatingMargins": 0.73657995,
+  "returnOnEquity": 0.36488,
+  "totalDebt": 1978036992,
+  "dividendYield": 4.6
+}

@@ -1,0 +1,11 @@
+{
+  "symbol": "TOD.MI",
+  "shortName": "Tod's S.p.A.",
+  "longName": "Tod's S.p.A.",
+  "isin": "IT0003007728",
+  "marketCap": 1420000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-06-07",
+  "data_source": "euronext_encrypted_archive"
+}

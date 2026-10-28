@@ -1,0 +1,21 @@
+{
+  "symbol": "CFL.MI",
+  "marketCap": 12228498.24,
+  "currency": "EUR",
+  "lastPrice": 2.02,
+  "fiftyTwoWeekLow": 1.5700000524520874,
+  "fiftyTwoWeekHigh": 4.179999828338623,
+  "sharesOutstanding": 6053712,
+  "shortName": "COFLE",
+  "longName": "Cofle S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "forwardPE": 5.7223797,
+  "priceToBook": 0.8350558,
+  "enterpriseToEbitda": -13.79,
+  "profitMargins": -0.17545,
+  "operatingMargins": -0.1543,
+  "returnOnEquity": -0.42875,
+  "debtToEquity": 148.091,
+  "totalDebt": 24501952
+}

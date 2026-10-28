@@ -1,0 +1,16 @@
+{
+  "symbol": "CRES.MI",
+  "shortName": "Coima Res S.p.A.",
+  "longName": "Coima Res S.p.A.",
+  "sector": "Real Estate",
+  "marketCap": 361000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-08-12",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 11.5,
+  "enterpriseToEbitda": 9.5,
+  "returnOnEquity": 0.095,
+  "operatingMargins": 0.42,
+  "debtToEquity": 78.0
+}

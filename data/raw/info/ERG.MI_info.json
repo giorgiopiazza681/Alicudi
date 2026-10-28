@@ -1,0 +1,23 @@
+{
+  "symbol": "ERG.MI",
+  "marketCap": 3223968621.1587524,
+  "currency": "EUR",
+  "lastPrice": 22.18000030517578,
+  "fiftyTwoWeekLow": 20.399999618530273,
+  "fiftyTwoWeekHigh": 26.18000030517578,
+  "sharesOutstanding": 145354760,
+  "shortName": "ERG",
+  "longName": "ERG S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "trailingPE": 40.32727,
+  "forwardPE": 19.012026,
+  "priceToBook": 1.7062851,
+  "enterpriseToEbitda": 10.328,
+  "profitMargins": 0.06622,
+  "operatingMargins": 0.30765,
+  "returnOnEquity": 0.04065,
+  "debtToEquity": 137.035,
+  "totalDebt": 2673253120,
+  "dividendYield": 4.47
+}

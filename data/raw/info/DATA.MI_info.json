@@ -1,0 +1,23 @@
+{
+  "symbol": "DATA.MI",
+  "marketCap": 26046435.72142124,
+  "currency": "EUR",
+  "lastPrice": 1.5549999475479126,
+  "fiftyTwoWeekLow": 1.3849999904632568,
+  "fiftyTwoWeekHigh": 1.9800000190734863,
+  "sharesOutstanding": 16750120,
+  "shortName": "DATRIX",
+  "longName": "Datrix S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "forwardPE": 15.694388,
+  "priceToBook": 2.8324223,
+  "enterpriseToEbitda": 18.778,
+  "profitMargins": -0.14159,
+  "operatingMargins": -0.18783002,
+  "returnOnEquity": -0.20497,
+  "debtToEquity": 51.983,
+  "totalDebt": 4781353,
+  "dividendYield": 0.0,
+  "trailingPE": 15.694388
+}

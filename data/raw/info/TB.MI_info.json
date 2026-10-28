@@ -1,0 +1,22 @@
+{
+  "symbol": "TB.MI",
+  "marketCap": 8986780.61174208,
+  "currency": "EUR",
+  "lastPrice": 0.3230000138282776,
+  "fiftyTwoWeekLow": 0.28600001335144043,
+  "fiftyTwoWeekHigh": 0.4659999907016754,
+  "sharesOutstanding": 27822849,
+  "shortName": "TRIBOO",
+  "longName": "Triboo S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "forwardPE": 2.9633029,
+  "priceToBook": 0.56369984,
+  "enterpriseToEbitda": 15.226,
+  "profitMargins": -0.0468,
+  "operatingMargins": -0.01827,
+  "returnOnEquity": -0.12831001,
+  "debtToEquity": 149.205,
+  "totalDebt": 24674000,
+  "dividendYield": 0.0
+}

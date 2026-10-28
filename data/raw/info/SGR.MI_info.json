@@ -1,0 +1,17 @@
+{
+  "symbol": "SGR.MI",
+  "shortName": "SAES Getters S.p.A.",
+  "longName": "SAES Getters S.p.A.",
+  "isin": "IT0001029492",
+  "marketCap": 470000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-07-09",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 14.2,
+  "enterpriseToEbitda": 7.8,
+  "returnOnEquity": 0.155,
+  "operatingMargins": 0.17,
+  "debtToEquity": 15.0
+}

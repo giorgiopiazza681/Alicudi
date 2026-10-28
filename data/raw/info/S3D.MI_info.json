@@ -1,0 +1,22 @@
+{
+  "symbol": "S3D.MI",
+  "marketCap": 7225731.205,
+  "currency": "EUR",
+  "lastPrice": 0.385,
+  "fiftyTwoWeekLow": 0.27000001072883606,
+  "fiftyTwoWeekHigh": 0.9380000233650208,
+  "sharesOutstanding": 18768133,
+  "shortName": "SOLID WORLD GROUP",
+  "longName": "Solid World Group S.p.A.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "priceToBook": 0.56534505,
+  "enterpriseToEbitda": 6.508,
+  "profitMargins": -0.02191,
+  "operatingMargins": 0.0159,
+  "returnOnEquity": -0.11522,
+  "debtToEquity": 98.043,
+  "totalDebt": 10343366,
+  "dividendYield": 0.0,
+  "trailingPE": -15.0
+}

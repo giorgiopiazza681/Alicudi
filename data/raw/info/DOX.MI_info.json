@@ -1,0 +1,22 @@
+{
+  "symbol": "DOX.MI",
+  "marketCap": 45118629.20329428,
+  "currency": "EUR",
+  "lastPrice": 3.9000000953674316,
+  "fiftyTwoWeekLow": 3.009999990463257,
+  "fiftyTwoWeekHigh": 5.079999923706055,
+  "sharesOutstanding": 11568879,
+  "shortName": "DOXEE",
+  "longName": "Doxee S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "trailingPE": 130.0,
+  "forwardPE": 16.956522,
+  "priceToBook": 5.091384,
+  "enterpriseToEbitda": 35.589,
+  "profitMargins": 0.011039999,
+  "operatingMargins": 0.04645,
+  "returnOnEquity": 0.040349998,
+  "debtToEquity": 177.301,
+  "totalDebt": 15702555
+}

@@ -1,0 +1,11 @@
+{
+  "symbol": "PRM.MI",
+  "shortName": "Prismi S.p.A.",
+  "longName": "Prismi S.p.A.",
+  "isin": "IT0004822695",
+  "marketCap": 6500000,
+  "status": "DELISTED_REVOKED",
+  "delisted": true,
+  "delisting_date": "2024-09-30",
+  "data_source": "euronext_encrypted_archive"
+}

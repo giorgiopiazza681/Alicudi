@@ -1,0 +1,11 @@
+{
+  "symbol": "IGM.MI",
+  "shortName": "Igeamed S.p.A.",
+  "longName": "Igeamed S.p.A.",
+  "isin": "IT0005429227",
+  "marketCap": 5660000,
+  "status": "DELISTED_VOLUNTARY",
+  "delisted": true,
+  "delisting_date": "2023-08-17",
+  "data_source": "euronext_encrypted_archive"
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "VTY.MI",
+  "shortName": "Vetrya S.p.A.",
+  "longName": "Vetrya S.p.A.",
+  "sector": "Technology",
+  "marketCap": 8000000,
+  "status": "DELISTED_REVOKED",
+  "delisted": true,
+  "delisting_date": "2022-04-26",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -12.0,
+  "enterpriseToEbitda": 18.0,
+  "returnOnEquity": -0.24,
+  "operatingMargins": -0.15,
+  "debtToEquity": 220.0
+}

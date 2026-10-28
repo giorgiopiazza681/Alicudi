@@ -1,0 +1,23 @@
+{
+  "symbol": "IP.MI",
+  "marketCap": 3787595316.49662,
+  "currency": "EUR",
+  "lastPrice": 36.040000915527344,
+  "fiftyTwoWeekLow": 30.100000381469727,
+  "fiftyTwoWeekHigh": 51.29999923706055,
+  "sharesOutstanding": 105094207,
+  "shortName": "INTERPUMP GROUP",
+  "longName": "Interpump Group S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "trailingPE": 18.02,
+  "forwardPE": 15.042679,
+  "priceToBook": 1.7581345,
+  "enterpriseToEbitda": 9.456,
+  "profitMargins": 0.102180004,
+  "operatingMargins": 0.17125,
+  "returnOnEquity": 0.102510005,
+  "debtToEquity": 31.196,
+  "totalDebt": 675324032,
+  "dividendYield": 0.94
+}

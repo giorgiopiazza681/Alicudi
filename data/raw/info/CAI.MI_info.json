@@ -1,0 +1,23 @@
+{
+  "symbol": "CAI.MI",
+  "marketCap": 250528241.96364212,
+  "currency": "EUR",
+  "lastPrice": 2.0850000381469727,
+  "fiftyTwoWeekLow": 2.0899999141693115,
+  "fiftyTwoWeekHigh": 2.9600000381469727,
+  "sharesOutstanding": 120157428,
+  "shortName": "CAIRO COMMUNICATION",
+  "longName": "Cairo Communication S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "trailingPE": 6.95,
+  "forwardPE": 7.1896553,
+  "priceToBook": 0.4432398,
+  "enterpriseToEbitda": 5.024,
+  "profitMargins": 0.03432,
+  "operatingMargins": 0.15377,
+  "returnOnEquity": 0.06254,
+  "debtToEquity": 20.506,
+  "totalDebt": 190400000,
+  "dividendYield": 8.55
+}

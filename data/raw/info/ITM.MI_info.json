@@ -1,0 +1,23 @@
+{
+  "symbol": "ITM.MI",
+  "marketCap": 1052793326.8854256,
+  "currency": "EUR",
+  "lastPrice": 25.049999237060547,
+  "fiftyTwoWeekLow": 24.350000381469727,
+  "fiftyTwoWeekHigh": 33.900001525878906,
+  "sharesOutstanding": 42027679,
+  "shortName": "ITALMOBILIARE",
+  "longName": "Italmobiliare S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "trailingPE": 16.925674,
+  "forwardPE": 10.872489,
+  "priceToBook": 0.73083204,
+  "enterpriseToEbitda": 11.0,
+  "profitMargins": 0.07898,
+  "operatingMargins": 0.07921,
+  "returnOnEquity": 0.04598,
+  "debtToEquity": 36.437,
+  "totalDebt": 594921024,
+  "dividendYield": 4.37
+}

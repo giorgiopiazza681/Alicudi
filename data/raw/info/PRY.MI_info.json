@@ -1,0 +1,23 @@
+{
+  "symbol": "PRY.MI",
+  "marketCap": 37199767565.711975,
+  "currency": "EUR",
+  "lastPrice": 124.30000305175781,
+  "fiftyTwoWeekLow": 79.16000366210938,
+  "fiftyTwoWeekHigh": 157.25,
+  "sharesOutstanding": 299274068,
+  "shortName": "PRYSMIAN",
+  "longName": "Prysmian S.p.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "trailingPE": 26.44681,
+  "forwardPE": 20.279573,
+  "priceToBook": 5.121549,
+  "enterpriseToEbitda": 19.196,
+  "profitMargins": 0.066300005,
+  "operatingMargins": 0.08137,
+  "returnOnEquity": 0.22361,
+  "debtToEquity": 74.976,
+  "totalDebt": 5482999808,
+  "dividendYield": 0.69
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "CFV.MI",
+  "marketCap": 18951026.656993866,
+  "currency": "EUR",
+  "lastPrice": 2.119999885559082,
+  "fiftyTwoWeekLow": 1.7450000047683716,
+  "fiftyTwoWeekHigh": 2.4600000381469727,
+  "sharesOutstanding": 8939164,
+  "shortName": "CONFINVEST ORO",
+  "longName": "Confinvest Oro S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "trailingPE": 12.470588,
+  "priceToBook": 1.8580191,
+  "profitMargins": 0.0111,
+  "operatingMargins": 0.00988,
+  "returnOnEquity": 0.13898,
+  "debtToEquity": 45.342,
+  "totalDebt": 5361940,
+  "dividendYield": 1.57,
+  "enterpriseToEbitda": 7.232941039999999
+}

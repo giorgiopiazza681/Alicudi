@@ -1,0 +1,16 @@
+{
+  "symbol": "SCT.MI",
+  "shortName": "Socotherm S.p.A.",
+  "longName": "Socotherm S.p.A.",
+  "sector": "Energy",
+  "marketCap": 45000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2010-12-20",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -6.919475225908524,
+  "enterpriseToEbitda": 19.293389025840497,
+  "returnOnEquity": -0.3426162134492062,
+  "operatingMargins": -0.14707811094659878,
+  "debtToEquity": 374.86530760195615
+}

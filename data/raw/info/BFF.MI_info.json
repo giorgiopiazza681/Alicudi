@@ -1,0 +1,23 @@
+{
+  "symbol": "BFF.MI",
+  "marketCap": 381576335.9570341,
+  "currency": "EUR",
+  "lastPrice": 2.0199999809265137,
+  "fiftyTwoWeekLow": 1.2269999980926514,
+  "fiftyTwoWeekHigh": 11.600000381469727,
+  "sharesOutstanding": 188899178,
+  "shortName": "BFF BANK",
+  "longName": "BFF Bank S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "trailingPE": 22.444443,
+  "forwardPE": 3.282578,
+  "priceToBook": 0.40424252,
+  "profitMargins": 0.04942,
+  "operatingMargins": 0.32194,
+  "returnOnEquity": 0.01904,
+  "debtToEquity": 346.903,
+  "totalDebt": 3274746880,
+  "dividendYield": 0.0,
+  "enterpriseToEbitda": 13.01777694
+}

@@ -1,0 +1,11 @@
+{
+  "symbol": "DM.MI",
+  "shortName": "Digital Magics S.p.A.",
+  "longName": "Digital Magics S.p.A.",
+  "isin": "IT0004900160",
+  "marketCap": 32000000,
+  "status": "DELISTED_MERGER",
+  "delisted": true,
+  "delisting_date": "2024-04-02",
+  "data_source": "euronext_encrypted_archive"
+}

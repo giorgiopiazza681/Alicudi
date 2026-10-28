@@ -1,0 +1,23 @@
+{
+  "symbol": "RACE.MI",
+  "marketCap": 60539297194.34357,
+  "currency": "EUR",
+  "lastPrice": 345.1499938964844,
+  "fiftyTwoWeekLow": 269.0,
+  "fiftyTwoWeekHigh": 422.3999938964844,
+  "sharesOutstanding": 175399966,
+  "shortName": "FERRARI",
+  "longName": "Ferrari N.V.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "trailingPE": 37.394367,
+  "forwardPE": 31.226278,
+  "priceToBook": 16.596941,
+  "enterpriseToEbitda": 25.288,
+  "profitMargins": 0.2225,
+  "operatingMargins": 0.31065,
+  "returnOnEquity": 0.45439997,
+  "debtToEquity": 86.386,
+  "totalDebt": 3165647104,
+  "dividendYield": 1.05
+}

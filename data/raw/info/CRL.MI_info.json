@@ -1,0 +1,23 @@
+{
+  "symbol": "CRL.MI",
+  "marketCap": 3149799800.0,
+  "currency": "EUR",
+  "lastPrice": 28.0,
+  "fiftyTwoWeekLow": 19.600000381469727,
+  "fiftyTwoWeekHigh": 32.900001525878906,
+  "sharesOutstanding": 112492850,
+  "shortName": "CAREL INDUSTRIES",
+  "longName": "Carel Industries S.p.A.",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "trailingPE": 34.146343,
+  "forwardPE": 30.26896,
+  "priceToBook": 6.213937,
+  "enterpriseToEbitda": 24.431,
+  "profitMargins": 0.13397,
+  "operatingMargins": 0.17919001,
+  "returnOnEquity": 0.19642,
+  "debtToEquity": 23.26,
+  "totalDebt": 119243000,
+  "dividendYield": 0.67
+}

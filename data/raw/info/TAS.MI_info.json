@@ -1,0 +1,16 @@
+{
+  "symbol": "TAS.MI",
+  "shortName": "TAS Tecnologia Avanzata dei Sistemi S.p.A.",
+  "longName": "TAS Tecnologia Avanzata dei Sistemi S.p.A.",
+  "sector": "Technology",
+  "marketCap": 184000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-05-11",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.123548545823432,
+  "enterpriseToEbitda": 6.770623725133014,
+  "returnOnEquity": 0.12556959525233924,
+  "operatingMargins": 0.10967392079184889,
+  "debtToEquity": 69.34854574249647
+}

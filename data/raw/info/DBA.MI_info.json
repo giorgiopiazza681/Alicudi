@@ -1,0 +1,23 @@
+{
+  "symbol": "DBA.MI",
+  "marketCap": 49255516.49971008,
+  "currency": "EUR",
+  "lastPrice": 4.510000228881836,
+  "fiftyTwoWeekLow": 3.109999895095825,
+  "fiftyTwoWeekHigh": 4.800000190734863,
+  "sharesOutstanding": 10921400,
+  "shortName": "DBA GROUP",
+  "longName": "DBA Group S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 10.250001,
+  "forwardPE": 8.009235,
+  "priceToBook": 1.7630962,
+  "enterpriseToEbitda": 4.12,
+  "profitMargins": 0.03801,
+  "operatingMargins": 0.068169996,
+  "returnOnEquity": 0.20321,
+  "debtToEquity": 50.632,
+  "totalDebt": 14784529,
+  "dividendYield": 3.09
+}

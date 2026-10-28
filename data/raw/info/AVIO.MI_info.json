@@ -1,0 +1,23 @@
+{
+  "symbol": "AVIO.MI",
+  "marketCap": 1327175152.5,
+  "currency": "EUR",
+  "lastPrice": 28.75,
+  "fiftyTwoWeekLow": 23.299999237060547,
+  "fiftyTwoWeekHigh": 65.19999694824219,
+  "sharesOutstanding": 46162614,
+  "shortName": "AVIO",
+  "longName": "Avio S.p.A.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "trailingPE": 59.895836,
+  "forwardPE": 91.04152,
+  "priceToBook": 1.8921943,
+  "enterpriseToEbitda": 35.486,
+  "profitMargins": 0.0345,
+  "operatingMargins": -0.0018099999,
+  "returnOnEquity": 0.04054,
+  "debtToEquity": 1.372,
+  "totalDebt": 9765897,
+  "dividendYield": 0.51
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "SIT.MI",
+  "marketCap": 56589785.3267777,
+  "currency": "EUR",
+  "lastPrice": 2.299999952316284,
+  "fiftyTwoWeekLow": 1.9299999475479126,
+  "fiftyTwoWeekHigh": 3.0199999809265137,
+  "sharesOutstanding": 24604255,
+  "shortName": "SIT",
+  "longName": "SIT S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "trailingPE": 20.90909,
+  "forwardPE": 5.2272725,
+  "priceToBook": 0.5573056,
+  "enterpriseToEbitda": 5.474,
+  "profitMargins": 0.0076599997,
+  "operatingMargins": 0.03795,
+  "returnOnEquity": 0.028369999,
+  "debtToEquity": 134.074,
+  "totalDebt": 140052000,
+  "dividendYield": 0.0
+}

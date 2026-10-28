@@ -1,0 +1,16 @@
+{
+  "symbol": "NFW.MI",
+  "shortName": "Nice Footwear S.p.A.",
+  "longName": "Nice Footwear S.p.A.",
+  "sector": "Consumer Cyclical",
+  "marketCap": 24000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-03-08",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 10.63938033971315,
+  "enterpriseToEbitda": 7.07212188255518,
+  "returnOnEquity": 0.1942592291859645,
+  "operatingMargins": 0.16230239459994017,
+  "debtToEquity": 42.32505783026703
+}

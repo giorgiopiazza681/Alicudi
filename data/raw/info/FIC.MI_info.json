@@ -1,0 +1,22 @@
+{
+  "symbol": "FIC.MI",
+  "marketCap": 61110617.37921524,
+  "currency": "EUR",
+  "lastPrice": 17.649999618530273,
+  "fiftyTwoWeekLow": 16.299999237060547,
+  "fiftyTwoWeekHigh": 23.0,
+  "sharesOutstanding": 3462358,
+  "shortName": "FIRST CAPITAL",
+  "longName": "First Capital S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "trailingPE": 5.1608186,
+  "priceToBook": 0.6511714,
+  "enterpriseToEbitda": 5.779,
+  "profitMargins": 0.57944,
+  "operatingMargins": 0.48916999,
+  "returnOnEquity": 0.11276,
+  "debtToEquity": 29.057,
+  "totalDebt": 30684656,
+  "dividendYield": 0.0
+}

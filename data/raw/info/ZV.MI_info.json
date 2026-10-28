@@ -1,0 +1,23 @@
+{
+  "symbol": "ZV.MI",
+  "marketCap": 552540723.0823212,
+  "currency": "EUR",
+  "lastPrice": 6.260000228881836,
+  "fiftyTwoWeekLow": 6.03000020980835,
+  "fiftyTwoWeekHigh": 8.149999618530273,
+  "sharesOutstanding": 88265288,
+  "shortName": "ZIGNAGO VETRO",
+  "longName": "Zignago Vetro S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "trailingPE": 15.650001,
+  "forwardPE": 11.483921,
+  "priceToBook": 1.5452975,
+  "enterpriseToEbitda": 9.509,
+  "profitMargins": 0.07921,
+  "operatingMargins": 0.091029994,
+  "returnOnEquity": 0.10024,
+  "debtToEquity": 66.61,
+  "totalDebt": 238314000,
+  "dividendYield": 3.49
+}

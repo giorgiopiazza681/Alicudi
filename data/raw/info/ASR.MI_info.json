@@ -1,0 +1,16 @@
+{
+  "symbol": "ASR.MI",
+  "shortName": "A.S. Roma S.p.A.",
+  "longName": "A.S. Roma S.p.A.",
+  "sector": "Consumer Cyclical",
+  "marketCap": 270000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-09-14",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.304405892688838,
+  "enterpriseToEbitda": 8.637313003534256,
+  "returnOnEquity": 0.19376813901064432,
+  "operatingMargins": 0.16534179103974894,
+  "debtToEquity": 62.69801351651169
+}

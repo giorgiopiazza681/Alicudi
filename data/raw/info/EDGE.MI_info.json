@@ -1,0 +1,16 @@
+{
+  "symbol": "EDGE.MI",
+  "shortName": "Techedge S.p.A.",
+  "longName": "Techedge S.p.A.",
+  "sector": "Technology",
+  "marketCap": 145000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-03-03",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 15.793470118217865,
+  "enterpriseToEbitda": 6.257120046152965,
+  "returnOnEquity": 0.1519489625569997,
+  "operatingMargins": 0.14748029120121184,
+  "debtToEquity": 33.15166451853996
+}

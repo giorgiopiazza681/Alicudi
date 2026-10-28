@@ -1,0 +1,23 @@
+{
+  "symbol": "RCS.MI",
+  "marketCap": 435121401.9694757,
+  "currency": "EUR",
+  "lastPrice": 0.8410000205039978,
+  "fiftyTwoWeekLow": 0.8209999799728394,
+  "fiftyTwoWeekHigh": 1.059999942779541,
+  "sharesOutstanding": 517385721,
+  "shortName": "RCS MEDIAGROUP",
+  "longName": "RCS MediaGroup S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "trailingPE": 7.645455,
+  "forwardPE": 7.645455,
+  "priceToBook": 0.9460068,
+  "enterpriseToEbitda": 4.323,
+  "profitMargins": 0.06827,
+  "operatingMargins": 0.2014,
+  "returnOnEquity": 0.119799994,
+  "debtToEquity": 29.396,
+  "totalDebt": 135400000,
+  "dividendYield": 8.24
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "GHC.MI",
+  "marketCap": 475727801.31946564,
+  "currency": "EUR",
+  "lastPrice": 5.380000114440918,
+  "fiftyTwoWeekLow": 4.34499979019165,
+  "fiftyTwoWeekHigh": 5.949999809265137,
+  "sharesOutstanding": 88425240,
+  "shortName": "GAROFALO HEALTH CARE",
+  "longName": "Garofalo Health Care S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "trailingPE": 25.61905,
+  "forwardPE": 18.596613,
+  "priceToBook": 1.3731496,
+  "enterpriseToEbitda": 9.36,
+  "profitMargins": 0.038829997,
+  "operatingMargins": 0.13843,
+  "returnOnEquity": 0.054920003,
+  "debtToEquity": 68.032,
+  "totalDebt": 243079008,
+  "dividendYield": 1.73
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "MNL.MI",
+  "marketCap": 4017941.4000000004,
+  "currency": "EUR",
+  "lastPrice": 0.66,
+  "fiftyTwoWeekLow": 0.5320000052452087,
+  "fiftyTwoWeekHigh": 1.090000033378601,
+  "sharesOutstanding": 6087790,
+  "shortName": "MONNALISA",
+  "longName": "Monnalisa S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "forwardPE": -2.2758622,
+  "priceToBook": 0.72368425,
+  "enterpriseToEbitda": 5.781,
+  "profitMargins": -0.11374,
+  "operatingMargins": -0.08351,
+  "returnOnEquity": -0.72357005,
+  "debtToEquity": 579.571,
+  "totalDebt": 21016512,
+  "dividendYield": 0.0
+}

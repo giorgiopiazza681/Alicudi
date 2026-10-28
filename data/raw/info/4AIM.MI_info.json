@@ -1,0 +1,11 @@
+{
+  "symbol": "4AIM.MI",
+  "shortName": "4AIM SICAF S.p.A.",
+  "longName": "4AIM SICAF S.p.A.",
+  "isin": "IT0005204729",
+  "marketCap": 12000000,
+  "status": "DELISTED_VOLUNTARY",
+  "delisted": true,
+  "delisting_date": "2026-09-17",
+  "data_source": "euronext_encrypted_archive"
+}

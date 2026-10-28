@@ -1,0 +1,23 @@
+{
+  "symbol": "ELN.MI",
+  "marketCap": 1305810259.2354736,
+  "currency": "EUR",
+  "lastPrice": 16.280000686645508,
+  "fiftyTwoWeekLow": 10.699999809265137,
+  "fiftyTwoWeekHigh": 17.639999389648438,
+  "sharesOutstanding": 80209472,
+  "shortName": "EL.EN.",
+  "longName": "EL.En. S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "trailingPE": 28.068968,
+  "forwardPE": 18.863335,
+  "priceToBook": 3.1074636,
+  "enterpriseToEbitda": 12.204,
+  "profitMargins": 0.08437,
+  "operatingMargins": 0.14263,
+  "returnOnEquity": 0.14397,
+  "debtToEquity": 2.512,
+  "totalDebt": 10943487,
+  "dividendYield": 1.51
+}

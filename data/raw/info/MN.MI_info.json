@@ -1,0 +1,23 @@
+{
+  "symbol": "MN.MI",
+  "marketCap": 528224223.2767334,
+  "currency": "EUR",
+  "lastPrice": 2.0250000953674316,
+  "fiftyTwoWeekLow": 1.8680000305175781,
+  "fiftyTwoWeekHigh": 2.194999933242798,
+  "sharesOutstanding": 260851456,
+  "shortName": "MONDADORI EDIT",
+  "longName": "Arnoldo Mondadori Editore S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "trailingPE": 10.125,
+  "forwardPE": 8.542142,
+  "priceToBook": 1.8145161,
+  "enterpriseToEbitda": 8.954,
+  "profitMargins": 0.054250002,
+  "operatingMargins": 0.09274,
+  "returnOnEquity": 0.18361,
+  "debtToEquity": 129.372,
+  "totalDebt": 383545984,
+  "dividendYield": 7.51
+}

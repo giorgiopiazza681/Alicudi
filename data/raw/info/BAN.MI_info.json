@@ -1,0 +1,23 @@
+{
+  "symbol": "BAN.MI",
+  "marketCap": 240183728.1810918,
+  "currency": "EUR",
+  "lastPrice": 5.139999866485596,
+  "fiftyTwoWeekLow": 5.0,
+  "fiftyTwoWeekHigh": 7.739999771118164,
+  "sharesOutstanding": 46728353,
+  "shortName": "BASICNET",
+  "longName": "BasicNet S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "forwardPE": 18.357141,
+  "priceToBook": 0.8262337,
+  "enterpriseToEbitda": 93.102,
+  "profitMargins": -0.02923,
+  "operatingMargins": -0.11196,
+  "returnOnEquity": -0.029979998,
+  "debtToEquity": 121.325,
+  "totalDebt": 353520000,
+  "dividendYield": 3.03,
+  "trailingPE": 18.357141
+}

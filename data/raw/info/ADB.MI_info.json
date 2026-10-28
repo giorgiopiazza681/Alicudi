@@ -1,0 +1,23 @@
+{
+  "symbol": "ADB.MI",
+  "marketCap": 330188590.5027628,
+  "currency": "EUR",
+  "lastPrice": 9.140000343322754,
+  "fiftyTwoWeekLow": 8.5600004196167,
+  "fiftyTwoWeekHigh": 12.25,
+  "sharesOutstanding": 36125665,
+  "shortName": "AEROPORTO GUGLIELMO MARCONI DI ",
+  "longName": "Aeroporto Guglielmo Marconi di Bologna S.p.A.",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "trailingPE": 13.848485,
+  "forwardPE": 21.787844,
+  "priceToBook": 1.4577353,
+  "enterpriseToEbitda": 7.908,
+  "profitMargins": 0.1249,
+  "operatingMargins": 0.22106001,
+  "returnOnEquity": 0.107580006,
+  "debtToEquity": 45.401,
+  "totalDebt": 102839000,
+  "dividendYield": 3.78
+}

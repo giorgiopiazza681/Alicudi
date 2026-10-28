@@ -1,0 +1,16 @@
+{
+  "symbol": "RM.MI",
+  "shortName": "Reno De Medici S.p.A.",
+  "longName": "Reno De Medici S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 495000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-12-29",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 10.4,
+  "enterpriseToEbitda": 5.9,
+  "returnOnEquity": 0.162,
+  "operatingMargins": 0.112,
+  "debtToEquity": 48.0
+}

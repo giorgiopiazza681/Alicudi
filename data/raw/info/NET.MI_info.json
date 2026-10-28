@@ -1,0 +1,17 @@
+{
+  "symbol": "NET.MI",
+  "shortName": "Net Insurance S.p.A.",
+  "longName": "Net Insurance S.p.A.",
+  "isin": "IT0003324024",
+  "marketCap": 175000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-04-20",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Financial Services",
+  "trailingPE": 8.9,
+  "enterpriseToEbitda": 6.0,
+  "returnOnEquity": 0.158,
+  "operatingMargins": 0.19,
+  "debtToEquity": 25.0
+}

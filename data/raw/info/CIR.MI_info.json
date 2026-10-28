@@ -1,0 +1,23 @@
+{
+  "symbol": "CIR.MI",
+  "marketCap": 622106882.4162526,
+  "currency": "EUR",
+  "lastPrice": 0.7540000081062317,
+  "fiftyTwoWeekLow": 0.6340000033378601,
+  "fiftyTwoWeekHigh": 0.8009999990463257,
+  "sharesOutstanding": 825075432,
+  "shortName": "CIR",
+  "longName": "CIR S.p.A. - Compagnie Industriali Riunite",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "trailingPE": 10.771429,
+  "forwardPE": 10.475132,
+  "priceToBook": 0.87674415,
+  "enterpriseToEbitda": 9.722,
+  "profitMargins": 0.01792,
+  "operatingMargins": 0.06086,
+  "returnOnEquity": 0.05352,
+  "debtToEquity": 121.435,
+  "totalDebt": 1031084032,
+  "dividendYield": 0.0
+}

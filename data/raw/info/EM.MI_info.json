@@ -1,0 +1,23 @@
+{
+  "symbol": "EM.MI",
+  "marketCap": 128641709.07411587,
+  "currency": "EUR",
+  "lastPrice": 0.7900000214576721,
+  "fiftyTwoWeekLow": 0.777999997138977,
+  "fiftyTwoWeekHigh": 1.0440000295639038,
+  "sharesOutstanding": 162837602,
+  "shortName": "EMAK",
+  "longName": "Emak S.p.A.",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "trailingPE": 13.166667,
+  "forwardPE": 8.777778,
+  "priceToBook": 0.4364641,
+  "enterpriseToEbitda": 7.644,
+  "profitMargins": 0.01643,
+  "operatingMargins": 0.06692,
+  "returnOnEquity": 0.03501,
+  "debtToEquity": 91.129,
+  "totalDebt": 272939008,
+  "dividendYield": 3.8
+}

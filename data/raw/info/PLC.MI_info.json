@@ -1,0 +1,23 @@
+{
+  "symbol": "PLC.MI",
+  "marketCap": 79698966.58694458,
+  "currency": "EUR",
+  "lastPrice": 3.069999933242798,
+  "fiftyTwoWeekLow": 1.899999976158142,
+  "fiftyTwoWeekHigh": 3.799999952316284,
+  "sharesOutstanding": 25960576,
+  "shortName": "PLC",
+  "longName": "PLC S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 9.029411,
+  "forwardPE": 9.30839,
+  "priceToBook": 2.6929824,
+  "enterpriseToEbitda": 2.672,
+  "profitMargins": 0.11634,
+  "operatingMargins": 0.17056999,
+  "returnOnEquity": 0.46807998,
+  "debtToEquity": 8.492,
+  "totalDebt": 2880000,
+  "dividendYield": 3.57
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "IWB.MI",
+  "marketCap": 142781384.56242085,
+  "currency": "EUR",
+  "lastPrice": 15.380000114440918,
+  "fiftyTwoWeekLow": 15.180000305175781,
+  "fiftyTwoWeekHigh": 23.799999237060547,
+  "sharesOutstanding": 9283575,
+  "shortName": "ITALIAN WINE BRANDS",
+  "longName": "Italian Wine Brands S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "trailingPE": 10.253333,
+  "forwardPE": 6.5035563,
+  "priceToBook": 0.60973674,
+  "enterpriseToEbitda": 5.608,
+  "profitMargins": 0.03588,
+  "operatingMargins": 0.08285,
+  "returnOnEquity": 0.061100002,
+  "debtToEquity": 59.936,
+  "totalDebt": 141007840,
+  "dividendYield": 3.22
+}

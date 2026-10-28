@@ -1,0 +1,11 @@
+{
+  "symbol": "CIA.MI",
+  "shortName": "Compagnia Immobiliare Azionaria (CIA) S.p.A.",
+  "longName": "Compagnia Immobiliare Azionaria (CIA) S.p.A.",
+  "isin": "IT0003389522",
+  "marketCap": 12000000,
+  "status": "DELISTED_MERGER",
+  "delisted": true,
+  "delisting_date": "2024-07-08",
+  "data_source": "euronext_encrypted_archive"
+}

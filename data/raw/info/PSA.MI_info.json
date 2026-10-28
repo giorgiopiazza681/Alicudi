@@ -1,0 +1,11 @@
+{
+  "symbol": "PSA.MI",
+  "shortName": "Portale Sardegna S.p.A.",
+  "longName": "Portale Sardegna S.p.A.",
+  "isin": "IT0005305443",
+  "marketCap": 8000000,
+  "status": "DELISTED_MERGER",
+  "delisted": true,
+  "delisting_date": "2023-06-06",
+  "data_source": "euronext_encrypted_archive"
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "AMM.MI",
+  "shortName": "AMM S.p.A.",
+  "longName": "AMM S.p.A.",
+  "sector": "Communication Services",
+  "marketCap": 25000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-07-27",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 13.581494146925166,
+  "enterpriseToEbitda": 8.413471000715084,
+  "returnOnEquity": 0.16101873239100184,
+  "operatingMargins": 0.16367922756531195,
+  "debtToEquity": 53.275173151034735
+}

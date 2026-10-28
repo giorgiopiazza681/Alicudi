@@ -1,0 +1,11 @@
+{
+  "symbol": "FDE.MI",
+  "shortName": "Frendy Energy S.p.A.",
+  "longName": "Frendy Energy S.p.A.",
+  "isin": "IT0004819857",
+  "marketCap": 14000000,
+  "status": "ACTIVE",
+  "delisted": false,
+  "delisting_date": "2026-10-21",
+  "data_source": "euronext_encrypted_archive"
+}

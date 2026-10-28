@@ -1,0 +1,23 @@
+{
+  "symbol": "FCH.MI",
+  "marketCap": 55198966.95013952,
+  "currency": "EUR",
+  "lastPrice": 5.849999904632568,
+  "fiftyTwoWeekLow": 4.380000114440918,
+  "fiftyTwoWeekHigh": 6.699999809265137,
+  "sharesOutstanding": 9435721,
+  "shortName": "FRANCHETTI",
+  "longName": "Franchetti S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 25.434782,
+  "forwardPE": 18.119308,
+  "priceToBook": 2.9846938,
+  "profitMargins": 0.10604999,
+  "operatingMargins": 0.26484,
+  "returnOnEquity": 0.04645,
+  "debtToEquity": 40.887,
+  "totalDebt": 9007032,
+  "dividendYield": 0.67,
+  "enterpriseToEbitda": 14.752173559999997
+}

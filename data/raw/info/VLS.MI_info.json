@@ -1,0 +1,23 @@
+{
+  "symbol": "VLS.MI",
+  "marketCap": 110638059.25,
+  "currency": "EUR",
+  "lastPrice": 10.25,
+  "fiftyTwoWeekLow": 9.9399995803833,
+  "fiftyTwoWeekHigh": 11.449999809265137,
+  "sharesOutstanding": 10793957,
+  "shortName": "VALSOIA",
+  "longName": "Valsoia S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "trailingPE": 16.532257,
+  "forwardPE": 12.732919,
+  "priceToBook": 1.2225668,
+  "enterpriseToEbitda": 10.075,
+  "profitMargins": 0.05533,
+  "operatingMargins": 0.062280003,
+  "returnOnEquity": 0.0735,
+  "debtToEquity": 19.515,
+  "totalDebt": 17843296,
+  "dividendYield": 3.67
+}

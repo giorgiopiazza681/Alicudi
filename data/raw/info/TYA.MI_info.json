@@ -1,0 +1,22 @@
+{
+  "symbol": "TYA.MI",
+  "marketCap": 345251955.10019684,
+  "currency": "EUR",
+  "lastPrice": 18.549999237060547,
+  "fiftyTwoWeekLow": 16.600000381469727,
+  "fiftyTwoWeekHigh": 20.600000381469727,
+  "sharesOutstanding": 18611966,
+  "shortName": "TOSCANA AEROPORTI",
+  "longName": "Toscana Aeroporti S.p.A.",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "trailingPE": 21.321838,
+  "priceToBook": 2.8025382,
+  "enterpriseToEbitda": 9.876,
+  "profitMargins": 0.1091,
+  "operatingMargins": 0.13497,
+  "returnOnEquity": 0.13732,
+  "debtToEquity": 83.06,
+  "totalDebt": 102930000,
+  "dividendYield": 2.07
+}

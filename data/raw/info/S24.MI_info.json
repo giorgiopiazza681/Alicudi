@@ -1,0 +1,17 @@
+{
+  "symbol": "S24.MI",
+  "shortName": "Il Sole 24 ORE S.p.A.",
+  "longName": "Il Sole 24 ORE S.p.A.",
+  "isin": "IT0005283111",
+  "marketCap": 62000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-08-04",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Communication Services",
+  "trailingPE": 14.896094187186845,
+  "enterpriseToEbitda": 8.270830023720247,
+  "returnOnEquity": 0.1427723222577505,
+  "operatingMargins": 0.1521459904148036,
+  "debtToEquity": 36.06300279563408
+}

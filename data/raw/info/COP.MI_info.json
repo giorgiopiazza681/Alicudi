@@ -1,0 +1,23 @@
+{
+  "symbol": "COP.MI",
+  "marketCap": 15171564.1,
+  "currency": "EUR",
+  "lastPrice": 7.7,
+  "fiftyTwoWeekLow": 6.349999904632568,
+  "fiftyTwoWeekHigh": 8.199999809265137,
+  "sharesOutstanding": 1970333,
+  "shortName": "COPERNICO",
+  "longName": "Copernico Sim S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "trailingPE": 85.55555,
+  "forwardPE": 14.528302,
+  "priceToBook": 2.432091,
+  "enterpriseToEbitda": 20.974,
+  "profitMargins": 0.01833,
+  "operatingMargins": 0.04995,
+  "returnOnEquity": 0.03059,
+  "debtToEquity": 3.687,
+  "totalDebt": 230314,
+  "dividendYield": 1.13
+}

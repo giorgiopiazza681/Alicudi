@@ -1,0 +1,23 @@
+{
+  "symbol": "PHN.MI",
+  "marketCap": 697073351.6211395,
+  "currency": "EUR",
+  "lastPrice": 72.80000305175781,
+  "fiftyTwoWeekLow": 43.54999923706055,
+  "fiftyTwoWeekHigh": 95.9000015258789,
+  "sharesOutstanding": 9575183,
+  "shortName": "PHARMANUTRA",
+  "longName": "Pharmanutra S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "trailingPE": 34.018692,
+  "forwardPE": 23.296001,
+  "priceToBook": 10.026168,
+  "enterpriseToEbitda": 21.007,
+  "profitMargins": 0.14436,
+  "operatingMargins": 0.24628,
+  "returnOnEquity": 0.31604,
+  "debtToEquity": 26.402,
+  "totalDebt": 18357000,
+  "dividendYield": 1.66
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "TGYM.MI",
+  "marketCap": 2540964776.25,
+  "currency": "EUR",
+  "lastPrice": 12.75,
+  "fiftyTwoWeekLow": 11.920000076293945,
+  "fiftyTwoWeekHigh": 21.81999969482422,
+  "sharesOutstanding": 199291355,
+  "shortName": "TECHNOGYM",
+  "longName": "Technogym S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "trailingPE": 21.98276,
+  "forwardPE": 18.42672,
+  "priceToBook": 8.388158,
+  "enterpriseToEbitda": 12.776,
+  "profitMargins": 0.11067,
+  "operatingMargins": 0.11862001,
+  "returnOnEquity": 0.41116002,
+  "debtToEquity": 40.779,
+  "totalDebt": 124749000,
+  "dividendYield": 2.93
+}

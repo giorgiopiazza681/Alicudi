@@ -1,0 +1,11 @@
+{
+  "symbol": "YSFT.MI",
+  "shortName": "Softec S.p.A.",
+  "longName": "Softec S.p.A.",
+  "isin": "IT0004735327",
+  "marketCap": 4200000,
+  "status": "DELISTED_VOLUNTARY",
+  "delisted": true,
+  "delisting_date": "2024-01-30",
+  "data_source": "euronext_encrypted_archive"
+}

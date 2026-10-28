@@ -1,0 +1,23 @@
+{
+  "symbol": "YRM.MI",
+  "marketCap": 896800000.0,
+  "currency": "EUR",
+  "lastPrice": 236.0,
+  "fiftyTwoWeekLow": 168.0,
+  "fiftyTwoWeekHigh": 398.0,
+  "sharesOutstanding": 3800000,
+  "shortName": "ROSETTI MARINO",
+  "longName": "Rosetti Marino SpA",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 24.30484,
+  "forwardPE": 25.646599,
+  "priceToBook": 5.1350117,
+  "enterpriseToEbitda": 14.426,
+  "profitMargins": 0.04978,
+  "operatingMargins": 0.04776,
+  "returnOnEquity": 0.20828,
+  "debtToEquity": 53.396,
+  "totalDebt": 101078000,
+  "dividendYield": 1.27
+}

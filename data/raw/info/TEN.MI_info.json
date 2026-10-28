@@ -1,0 +1,23 @@
+{
+  "symbol": "TEN.MI",
+  "marketCap": 25160222796.5494,
+  "currency": "EUR",
+  "lastPrice": 24.920000076293945,
+  "fiftyTwoWeekLow": 14.53499984741211,
+  "fiftyTwoWeekHigh": 27.81999969482422,
+  "sharesOutstanding": 1009639756,
+  "shortName": "TENARIS",
+  "longName": "Tenaris S.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "trailingPE": 15.478261,
+  "forwardPE": 13.062311,
+  "priceToBook": 1.6695406,
+  "enterpriseToEbitda": 8.558,
+  "profitMargins": 0.15883,
+  "operatingMargins": 0.16652,
+  "returnOnEquity": 0.115839995,
+  "debtToEquity": 2.596,
+  "totalDebt": 446950016,
+  "dividendYield": 3.03
+}

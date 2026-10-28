@@ -1,0 +1,16 @@
+{
+  "symbol": "EC.MI",
+  "shortName": "Euro Cosmetic S.p.A.",
+  "longName": "Euro Cosmetic S.p.A.",
+  "sector": "Consumer Defensive",
+  "marketCap": 41000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-12-28",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 12.6750555173562,
+  "enterpriseToEbitda": 8.301145235303135,
+  "returnOnEquity": 0.14245255785086638,
+  "operatingMargins": 0.16514272876919217,
+  "debtToEquity": 56.72825135095937
+}

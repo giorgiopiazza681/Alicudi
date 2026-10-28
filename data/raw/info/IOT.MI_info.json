@@ -1,0 +1,23 @@
+{
+  "symbol": "IOT.MI",
+  "marketCap": 596904491.7582178,
+  "currency": "EUR",
+  "lastPrice": 4.505000114440918,
+  "fiftyTwoWeekLow": 2.2300000190734863,
+  "fiftyTwoWeekHigh": 4.860000133514404,
+  "sharesOutstanding": 132498219,
+  "shortName": "SECO",
+  "longName": "Seco S.p.A.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "forwardPE": 27.436056,
+  "priceToBook": 2.1731791,
+  "enterpriseToEbitda": 110.79,
+  "profitMargins": -0.01708,
+  "operatingMargins": 0.0349,
+  "returnOnEquity": -0.00083,
+  "debtToEquity": 40.122,
+  "totalDebt": 120233000,
+  "dividendYield": 0.0,
+  "trailingPE": 27.436056
+}

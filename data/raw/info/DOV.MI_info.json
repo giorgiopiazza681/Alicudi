@@ -1,0 +1,23 @@
+{
+  "symbol": "DOV.MI",
+  "marketCap": 345306982.87168765,
+  "currency": "EUR",
+  "lastPrice": 1.8200000524520874,
+  "fiftyTwoWeekLow": 1.5759999752044678,
+  "fiftyTwoWeekHigh": 3.140000104904175,
+  "sharesOutstanding": 189729106,
+  "shortName": "DOVALUE",
+  "longName": "doValue S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "forwardPE": 6.4967513,
+  "priceToBook": 2.2721598,
+  "enterpriseToEbitda": 11.419,
+  "profitMargins": -0.043270003,
+  "operatingMargins": 0.16572,
+  "returnOnEquity": -0.035469998,
+  "debtToEquity": 383.343,
+  "totalDebt": 1058819008,
+  "dividendYield": 5.07,
+  "trailingPE": 6.4967513
+}

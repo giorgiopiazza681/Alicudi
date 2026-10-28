@@ -1,0 +1,23 @@
+{
+  "symbol": "MARR.MI",
+  "marketCap": 325574156.4580107,
+  "currency": "EUR",
+  "lastPrice": 5.199999809265137,
+  "fiftyTwoWeekLow": 5.179999828338623,
+  "fiftyTwoWeekHigh": 9.850000381469727,
+  "sharesOutstanding": 62610417,
+  "shortName": "MARR",
+  "longName": "MARR S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "trailingPE": 14.857142,
+  "forwardPE": 8.722929,
+  "priceToBook": 1.0945064,
+  "enterpriseToEbitda": 10.806,
+  "profitMargins": 0.010570001,
+  "operatingMargins": 0.03273,
+  "returnOnEquity": 0.07249,
+  "debtToEquity": 205.097,
+  "totalDebt": 610054016,
+  "dividendYield": 8.75
+}

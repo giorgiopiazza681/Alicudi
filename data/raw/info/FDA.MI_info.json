@@ -1,0 +1,23 @@
+{
+  "symbol": "FDA.MI",
+  "marketCap": 18741177.631102026,
+  "currency": "EUR",
+  "lastPrice": 0.014999999664723873,
+  "fiftyTwoWeekLow": 0.003000000026077032,
+  "fiftyTwoWeekHigh": 0.25,
+  "sharesOutstanding": 1249411870,
+  "shortName": "FIDIA",
+  "longName": "Fidia S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "forwardPE": 0.022727272,
+  "priceToBook": 0.056390975,
+  "enterpriseToEbitda": -4.632,
+  "profitMargins": 0.034,
+  "operatingMargins": -0.03323,
+  "returnOnEquity": 0.18287,
+  "debtToEquity": 74.193,
+  "totalDebt": 5977000,
+  "dividendYield": 0.0,
+  "trailingPE": 0.022727272
+}

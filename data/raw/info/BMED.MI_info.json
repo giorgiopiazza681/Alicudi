@@ -1,0 +1,21 @@
+{
+  "symbol": "BMED.MI",
+  "marketCap": 16782454128.552685,
+  "currency": "EUR",
+  "lastPrice": 22.700000762939453,
+  "fiftyTwoWeekLow": 15.989999771118164,
+  "fiftyTwoWeekHigh": 24.540000915527344,
+  "sharesOutstanding": 739315135,
+  "shortName": "BANCA MEDIOLANUM",
+  "longName": "Banca Mediolanum S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 12.82486,
+  "forwardPE": 14.407302,
+  "priceToBook": 3.672545,
+  "profitMargins": 0.51403,
+  "operatingMargins": 0.58356,
+  "returnOnEquity": 0.30062,
+  "totalDebt": 5139215872,
+  "dividendYield": 5.5
+}

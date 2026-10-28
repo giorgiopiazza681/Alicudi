@@ -1,0 +1,22 @@
+{
+  "symbol": "ESPE.MI",
+  "marketCap": 72844650.0,
+  "currency": "EUR",
+  "lastPrice": 6.0,
+  "fiftyTwoWeekLow": 2.700000047683716,
+  "fiftyTwoWeekHigh": 6.599999904632568,
+  "sharesOutstanding": 12140775,
+  "shortName": "ESPE",
+  "longName": "Espe S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 9.67742,
+  "priceToBook": 3.6407766,
+  "enterpriseToEbitda": 5.086,
+  "profitMargins": 0.0809,
+  "operatingMargins": 0.18445,
+  "returnOnEquity": 0.48264998,
+  "debtToEquity": 98.528,
+  "totalDebt": 20708982,
+  "dividendYield": 4.9
+}

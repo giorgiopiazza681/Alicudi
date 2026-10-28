@@ -1,0 +1,16 @@
+{
+  "symbol": "MIR.MI",
+  "shortName": "Mirato S.p.A.",
+  "longName": "Mirato S.p.A.",
+  "sector": "Consumer Defensive",
+  "marketCap": 165000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2009-10-30",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 15.828950127518349,
+  "enterpriseToEbitda": 6.612398168430232,
+  "returnOnEquity": 0.1853642334798117,
+  "operatingMargins": 0.13397423540248468,
+  "debtToEquity": 63.824486312359554
+}

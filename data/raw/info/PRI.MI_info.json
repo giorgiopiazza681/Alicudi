@@ -1,0 +1,17 @@
+{
+  "symbol": "PRI.MI",
+  "shortName": "Prima Industrie S.p.A.",
+  "longName": "Prima Industrie S.p.A.",
+  "isin": "IT0003128367",
+  "marketCap": 260000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-03-07",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Industrials",
+  "trailingPE": 11.9,
+  "enterpriseToEbitda": 6.8,
+  "returnOnEquity": 0.142,
+  "operatingMargins": 0.095,
+  "debtToEquity": 68.0
+}

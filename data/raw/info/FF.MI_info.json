@@ -1,0 +1,23 @@
+{
+  "symbol": "FF.MI",
+  "marketCap": 155937789.96571064,
+  "currency": "EUR",
+  "lastPrice": 6.940000057220459,
+  "fiftyTwoWeekLow": 6.619999885559082,
+  "fiftyTwoWeekHigh": 11.899999618530273,
+  "sharesOutstanding": 22469422,
+  "shortName": "FINE FOODS & PHARMACEUTICALS NT",
+  "longName": "Fine Foods & Pharmaceuticals N.T.M. S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "forwardPE": 15.288701,
+  "priceToBook": 1.3573245,
+  "enterpriseToEbitda": 9.214,
+  "profitMargins": -0.00417,
+  "operatingMargins": 0.03345,
+  "returnOnEquity": -0.0082,
+  "debtToEquity": 115.756,
+  "totalDebt": 134317152,
+  "dividendYield": 2.28,
+  "trailingPE": 15.288701
+}

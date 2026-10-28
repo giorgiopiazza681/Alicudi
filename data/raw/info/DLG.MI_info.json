@@ -1,0 +1,23 @@
+{
+  "symbol": "DLG.MI",
+  "marketCap": 5876956503.141106,
+  "currency": "EUR",
+  "lastPrice": 39.70000076293945,
+  "fiftyTwoWeekLow": 27.959999084472656,
+  "fiftyTwoWeekHigh": 42.599998474121094,
+  "sharesOutstanding": 148034166,
+  "shortName": "DE'LONGHI",
+  "longName": "De'Longhi S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "trailingPE": 17.412281,
+  "forwardPE": 15.060241,
+  "priceToBook": 2.872025,
+  "enterpriseToEbitda": 9.941,
+  "profitMargins": 0.088,
+  "operatingMargins": 0.11927,
+  "returnOnEquity": 0.17762,
+  "debtToEquity": 22.21,
+  "totalDebt": 507148000,
+  "dividendYield": 2.13
+}

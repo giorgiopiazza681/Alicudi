@@ -1,0 +1,22 @@
+{
+  "symbol": "ENT.MI",
+  "marketCap": 1354093.2167793512,
+  "currency": "EUR",
+  "lastPrice": 0.7900000214576721,
+  "fiftyTwoWeekLow": 0.6850000023841858,
+  "fiftyTwoWeekHigh": 1.3200000524520874,
+  "sharesOutstanding": 1714042,
+  "shortName": "ENTERA",
+  "longName": "Entera S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "forwardPE": 1.3166666,
+  "priceToBook": 1.0102302,
+  "enterpriseToEbitda": -1.598,
+  "profitMargins": -0.9778,
+  "operatingMargins": -1.0287,
+  "returnOnEquity": -0.32652,
+  "debtToEquity": 7.578,
+  "totalDebt": 573576,
+  "dividendYield": 0.0
+}

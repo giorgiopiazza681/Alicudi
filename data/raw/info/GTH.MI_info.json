@@ -1,0 +1,17 @@
+{
+  "symbol": "GTH.MI",
+  "shortName": "Greenthesis S.p.A. (ex Ambienthesis)",
+  "longName": "Greenthesis S.p.A. (ex Ambienthesis)",
+  "isin": "IT0001042297",
+  "marketCap": 340000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-09-23",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Industrials",
+  "trailingPE": 12.4,
+  "enterpriseToEbitda": 6.7,
+  "returnOnEquity": 0.15,
+  "operatingMargins": 0.125,
+  "debtToEquity": 65.0
+}

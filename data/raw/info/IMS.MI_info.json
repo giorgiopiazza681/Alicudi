@@ -1,0 +1,23 @@
+{
+  "symbol": "IMS.MI",
+  "marketCap": 177075593.5049057,
+  "currency": "EUR",
+  "lastPrice": 0.5199999809265137,
+  "fiftyTwoWeekLow": 0.44999998807907104,
+  "fiftyTwoWeekHigh": 0.6859999895095825,
+  "sharesOutstanding": 340530000,
+  "shortName": "IMMSI",
+  "longName": "Immsi S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "forwardPE": 17.333334,
+  "priceToBook": 0.8427877,
+  "enterpriseToEbitda": 5.786,
+  "profitMargins": 0.00059999997,
+  "operatingMargins": 0.102690004,
+  "returnOnEquity": 0.03154,
+  "debtToEquity": 283.352,
+  "totalDebt": 1114434048,
+  "dividendYield": 0.0,
+  "trailingPE": 17.333334
+}

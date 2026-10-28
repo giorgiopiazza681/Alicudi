@@ -1,0 +1,23 @@
+{
+  "symbol": "IVG.MI",
+  "marketCap": 3795441942.75,
+  "currency": "EUR",
+  "lastPrice": 14.25,
+  "fiftyTwoWeekLow": 13.725000381469727,
+  "fiftyTwoWeekHigh": 19.709999084472656,
+  "sharesOutstanding": 266346803,
+  "shortName": "IVECO GROUP",
+  "longName": "Iveco Group N.V.",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "trailingPE": 61.95652,
+  "forwardPE": 6.961713,
+  "priceToBook": 1.5378804,
+  "enterpriseToEbitda": 16.995,
+  "profitMargins": 0.09864,
+  "operatingMargins": 0.03454,
+  "returnOnEquity": 0.02429,
+  "debtToEquity": 233.426,
+  "totalDebt": 5907999744,
+  "dividendYield": 0.0
+}

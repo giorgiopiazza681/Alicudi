@@ -1,0 +1,16 @@
+{
+  "symbol": "ASSI.MI",
+  "shortName": "Assiteca S.p.A.",
+  "longName": "Assiteca S.p.A.",
+  "sector": "Financial Services",
+  "marketCap": 185000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-07-13",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 12.0,
+  "enterpriseToEbitda": 6.8,
+  "returnOnEquity": 0.17,
+  "operatingMargins": 0.15,
+  "debtToEquity": 30.0
+}

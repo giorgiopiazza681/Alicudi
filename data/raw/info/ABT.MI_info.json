@@ -1,0 +1,23 @@
+{
+  "symbol": "ABT.MI",
+  "marketCap": 70038126.64377213,
+  "currency": "EUR",
+  "lastPrice": 2.740000009536743,
+  "fiftyTwoWeekLow": 2.559999942779541,
+  "fiftyTwoWeekHigh": 3.1600000858306885,
+  "sharesOutstanding": 25561360,
+  "shortName": "ABITARE IN",
+  "longName": "Abitare In S.p.A.",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "forwardPE": 3.8700564,
+  "priceToBook": 0.6584956,
+  "enterpriseToEbitda": 32.377,
+  "profitMargins": -0.02072,
+  "operatingMargins": -0.053590003,
+  "returnOnEquity": -0.02775,
+  "debtToEquity": 140.407,
+  "totalDebt": 152903248,
+  "dividendYield": 0.0,
+  "trailingPE": 3.8700564
+}

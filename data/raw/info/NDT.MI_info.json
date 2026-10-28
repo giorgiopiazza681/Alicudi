@@ -1,0 +1,23 @@
+{
+  "symbol": "NDT.MI",
+  "marketCap": 72809786.12025738,
+  "currency": "EUR",
+  "lastPrice": 5.300000190734863,
+  "fiftyTwoWeekLow": 2.9200000762939453,
+  "fiftyTwoWeekHigh": 5.840000152587891,
+  "sharesOutstanding": 13737695,
+  "shortName": "NEODECORTECH",
+  "longName": "Neodecortech S.p.A.",
+  "sector": "Basic Materials",
+  "industry": "Paper & Paper Products",
+  "trailingPE": 5.4081635,
+  "forwardPE": 7.032256,
+  "priceToBook": 0.7783816,
+  "enterpriseToEbitda": 3.427,
+  "profitMargins": 0.06864,
+  "operatingMargins": 0.083629996,
+  "returnOnEquity": 0.15586,
+  "debtToEquity": 30.404,
+  "totalDebt": 28362000,
+  "dividendYield": 2.79
+}

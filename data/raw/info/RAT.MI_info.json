@@ -1,0 +1,21 @@
+{
+  "symbol": "RAT.MI",
+  "marketCap": 28170499.217510223,
+  "currency": "EUR",
+  "lastPrice": 1.0299999713897705,
+  "fiftyTwoWeekLow": 0.9800000190734863,
+  "fiftyTwoWeekHigh": 1.7100000381469727,
+  "sharesOutstanding": 27350000,
+  "shortName": "RATTI",
+  "longName": "Ratti S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "priceToBook": 0.56780595,
+  "enterpriseToEbitda": -12.212,
+  "profitMargins": -0.107370004,
+  "operatingMargins": -0.05085,
+  "returnOnEquity": -0.15413,
+  "debtToEquity": 40.857,
+  "totalDebt": 20324000,
+  "dividendYield": 0.0
+}

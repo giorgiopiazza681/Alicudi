@@ -1,0 +1,22 @@
+{
+  "symbol": "SGC.MI",
+  "marketCap": 11765632.931403011,
+  "currency": "EUR",
+  "lastPrice": 0.3179999887943268,
+  "fiftyTwoWeekLow": 0.22699999809265137,
+  "fiftyTwoWeekHigh": 0.32899999618530273,
+  "sharesOutstanding": 36998847,
+  "shortName": "SG COMPANY",
+  "longName": "SG Company S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "forwardPE": 13.249999,
+  "priceToBook": 4.12987,
+  "enterpriseToEbitda": 5.773,
+  "profitMargins": -0.03353,
+  "operatingMargins": 0.011770001,
+  "returnOnEquity": -0.05361,
+  "debtToEquity": 308.091,
+  "totalDebt": 14355547,
+  "trailingPE": 13.249999
+}

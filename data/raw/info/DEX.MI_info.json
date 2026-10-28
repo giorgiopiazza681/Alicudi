@@ -1,0 +1,23 @@
+{
+  "symbol": "DEX.MI",
+  "marketCap": 128371196.22101283,
+  "currency": "EUR",
+  "lastPrice": 2.1600000858306885,
+  "fiftyTwoWeekLow": 1.7310630083084106,
+  "fiftyTwoWeekHigh": 6.739999771118164,
+  "sharesOutstanding": 59431107,
+  "shortName": "DEXELANCE",
+  "longName": "Dexelance S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "forwardPE": 12.724595,
+  "priceToBook": 0.39800996,
+  "enterpriseToEbitda": 79.517,
+  "profitMargins": -0.04393,
+  "operatingMargins": 0.01815,
+  "returnOnEquity": -0.07438,
+  "debtToEquity": 88.77,
+  "totalDebt": 204199008,
+  "dividendYield": 0.0,
+  "trailingPE": 12.724595
+}

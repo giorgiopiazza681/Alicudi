@@ -1,0 +1,23 @@
+{
+  "symbol": "SL.MI",
+  "marketCap": 1259548223.366562,
+  "currency": "EUR",
+  "lastPrice": 35.540000915527344,
+  "fiftyTwoWeekLow": 28.049999237060547,
+  "fiftyTwoWeekHigh": 40.0,
+  "sharesOutstanding": 35440298,
+  "shortName": "SANLORENZO",
+  "longName": "Sanlorenzo S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Recreational Vehicles",
+  "trailingPE": 11.501618,
+  "forwardPE": 11.165883,
+  "priceToBook": 2.3740816,
+  "enterpriseToEbitda": 7.348,
+  "profitMargins": 0.10418,
+  "operatingMargins": 0.12526,
+  "returnOnEquity": 0.22817,
+  "debtToEquity": 28.65,
+  "totalDebt": 154024992,
+  "dividendYield": 2.91
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "FUM.MI",
+  "marketCap": 98561259.95751429,
+  "currency": "EUR",
+  "lastPrice": 3.0199999809265137,
+  "fiftyTwoWeekLow": 2.880000114440918,
+  "fiftyTwoWeekHigh": 4.110000133514404,
+  "sharesOutstanding": 32636179,
+  "shortName": "FRANCHI UMBERTO MARMI",
+  "longName": "Franchi Umberto Marmi S.p.A.",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "trailingPE": 16.777777,
+  "forwardPE": 13.333333,
+  "priceToBook": 0.7567026,
+  "enterpriseToEbitda": 7.403,
+  "profitMargins": 0.075830005,
+  "operatingMargins": 0.11566,
+  "returnOnEquity": 0.05312,
+  "debtToEquity": 26.956,
+  "totalDebt": 36610384,
+  "dividendYield": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "MONC.MI",
+  "marketCap": 11749956413.911694,
+  "currency": "EUR",
+  "lastPrice": 43.20000076293945,
+  "fiftyTwoWeekLow": 42.77000045776367,
+  "fiftyTwoWeekHigh": 59.400001525878906,
+  "sharesOutstanding": 271989727,
+  "shortName": "MONCLER",
+  "longName": "Moncler S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "trailingPE": 18.38298,
+  "forwardPE": 16.89579,
+  "priceToBook": 3.2202759,
+  "enterpriseToEbitda": 13.11,
+  "profitMargins": 0.19958,
+  "operatingMargins": 0.19023001,
+  "returnOnEquity": 0.18122,
+  "debtToEquity": 33.88,
+  "totalDebt": 1236274944,
+  "dividendYield": 3.22
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ISG.MI",
+  "shortName": "Isagro S.p.A.",
+  "longName": "Isagro S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 107000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-08-09",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.0,
+  "enterpriseToEbitda": 7.5,
+  "returnOnEquity": 0.112,
+  "operatingMargins": 0.088,
+  "debtToEquity": 58.0
+}

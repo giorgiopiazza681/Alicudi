@@ -1,0 +1,11 @@
+{
+  "symbol": "FCM.MI",
+  "shortName": "Friulchem S.p.A.",
+  "longName": "Friulchem S.p.A.",
+  "isin": "IT0005378457",
+  "marketCap": 11000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-01-20",
+  "data_source": "euronext_encrypted_archive"
+}

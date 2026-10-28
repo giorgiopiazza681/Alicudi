@@ -1,0 +1,23 @@
+{
+  "symbol": "ENAV.MI",
+  "marketCap": 2539528712.9411316,
+  "currency": "EUR",
+  "lastPrice": 4.699999809265137,
+  "fiftyTwoWeekLow": 4.288000106811523,
+  "fiftyTwoWeekHigh": 5.639999866485596,
+  "sharesOutstanding": 540325280,
+  "shortName": "ENAV",
+  "longName": "ENAV S.p.A.",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "trailingPE": 23.499998,
+  "forwardPE": 20.984016,
+  "priceToBook": 2.4555902,
+  "enterpriseToEbitda": 10.93,
+  "profitMargins": 0.10446999,
+  "operatingMargins": 0.101569995,
+  "returnOnEquity": 0.1001,
+  "debtToEquity": 45.507,
+  "totalDebt": 470988608,
+  "dividendYield": 5.88
+}

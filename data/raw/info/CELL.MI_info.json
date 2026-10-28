@@ -1,0 +1,23 @@
+{
+  "symbol": "CELL.MI",
+  "marketCap": 54922985.58543682,
+  "currency": "EUR",
+  "lastPrice": 2.5999999046325684,
+  "fiftyTwoWeekLow": 2.1153221130371094,
+  "fiftyTwoWeekHigh": 2.8433868885040283,
+  "sharesOutstanding": 21124226,
+  "shortName": "CELLULARLINE",
+  "longName": "Cellularline S.p.A.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "forwardPE": 6.435643,
+  "priceToBook": 0.5810056,
+  "enterpriseToEbitda": 4.641,
+  "profitMargins": -0.22308001,
+  "operatingMargins": 0.01606,
+  "returnOnEquity": -0.30832002,
+  "debtToEquity": 36.077,
+  "totalDebt": 34107000,
+  "dividendYield": 4.17,
+  "trailingPE": 6.435643
+}

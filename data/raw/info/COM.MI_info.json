@@ -1,0 +1,23 @@
+{
+  "symbol": "COM.MI",
+  "marketCap": 1236576348.2387238,
+  "currency": "EUR",
+  "lastPrice": 43.20000076293945,
+  "fiftyTwoWeekLow": 35.099998474121094,
+  "fiftyTwoWeekHigh": 57.20000076293945,
+  "sharesOutstanding": 28624452,
+  "shortName": "COMER INDUSTRIES",
+  "longName": "Comer Industries S.p.A.",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "trailingPE": 17.419355,
+  "forwardPE": 11.681801,
+  "priceToBook": 2.2356777,
+  "enterpriseToEbitda": 9.211,
+  "profitMargins": 0.06329,
+  "operatingMargins": 0.09688,
+  "returnOnEquity": 0.12964,
+  "debtToEquity": 35.14,
+  "totalDebt": 219867008,
+  "dividendYield": 1.93
+}

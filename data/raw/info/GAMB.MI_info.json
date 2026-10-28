@@ -1,0 +1,20 @@
+{
+  "symbol": "GAMB.MI",
+  "marketCap": 4797067.817419767,
+  "currency": "EUR",
+  "lastPrice": 0.3319999873638153,
+  "fiftyTwoWeekLow": 0.2160000056028366,
+  "fiftyTwoWeekHigh": 0.3919999897480011,
+  "sharesOutstanding": 14449000,
+  "shortName": "GAMBERO ROSSO",
+  "longName": "Gambero Rosso S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "priceToBook": 0.53983736,
+  "enterpriseToEbitda": 9.27,
+  "profitMargins": -0.13178,
+  "operatingMargins": 0.035380002,
+  "returnOnEquity": -0.20437999,
+  "debtToEquity": 151.888,
+  "totalDebt": 13512000
+}

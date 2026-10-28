@@ -1,0 +1,23 @@
+{
+  "symbol": "ICF.MI",
+  "marketCap": 34399892.94173241,
+  "currency": "EUR",
+  "lastPrice": 6.199999809265137,
+  "fiftyTwoWeekLow": 5.619999885559082,
+  "fiftyTwoWeekHigh": 6.800000190734863,
+  "sharesOutstanding": 5548370,
+  "shortName": "INDUSTRIE CHIMICHE FORESTALI",
+  "longName": "Industrie Chimiche Forestali S.p.A.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "trailingPE": 10.689655,
+  "forwardPE": 7.3286047,
+  "priceToBook": 0.46937695,
+  "enterpriseToEbitda": 4.655,
+  "profitMargins": 0.043119997,
+  "operatingMargins": 0.086389996,
+  "returnOnEquity": 0.04363,
+  "debtToEquity": 15.856,
+  "totalDebt": 11944000,
+  "dividendYield": 4.84
+}

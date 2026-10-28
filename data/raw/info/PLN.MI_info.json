@@ -1,0 +1,11 @@
+{
+  "marketCap": 23423909.623503685,
+  "symbol": "PLN.MI",
+  "previous_symbol": "PLT.MI",
+  "shortName": "Planetel S.p.A.",
+  "isin": "IT0005430951",
+  "status": "TICKER_CHANGE",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed"
+}

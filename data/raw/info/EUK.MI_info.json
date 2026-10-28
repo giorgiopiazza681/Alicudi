@@ -1,0 +1,23 @@
+{
+  "symbol": "EUK.MI",
+  "marketCap": 12849019.819999998,
+  "currency": "EUR",
+  "lastPrice": 0.565,
+  "fiftyTwoWeekLow": 0.44999998807907104,
+  "fiftyTwoWeekHigh": 0.8100000023841858,
+  "sharesOutstanding": 22741628,
+  "shortName": "EUKEDOS",
+  "longName": "EuKedos S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "trailingPE": 28.25,
+  "forwardPE": 11.3,
+  "priceToBook": 0.44140625,
+  "enterpriseToEbitda": 16.186,
+  "profitMargins": -0.01416,
+  "operatingMargins": 0.1273,
+  "returnOnEquity": -0.025409998,
+  "debtToEquity": 444.97,
+  "totalDebt": 129504000,
+  "dividendYield": 0.0
+}

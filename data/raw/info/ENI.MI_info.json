@@ -1,0 +1,23 @@
+{
+  "symbol": "ENI.MI",
+  "marketCap": 69506329571.21704,
+  "currency": "EUR",
+  "lastPrice": 24.235000610351562,
+  "fiftyTwoWeekLow": 14.539999961853027,
+  "fiftyTwoWeekHigh": 25.014999389648438,
+  "sharesOutstanding": 2868014352,
+  "shortName": "ENI",
+  "longName": "Eni S.p.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "trailingPE": 19.703253,
+  "forwardPE": 9.354795,
+  "priceToBook": 1.5354156,
+  "enterpriseToEbitda": 7.341,
+  "profitMargins": 0.05874,
+  "operatingMargins": 0.10658,
+  "returnOnEquity": 0.10901,
+  "debtToEquity": 64.975,
+  "totalDebt": 36990001152,
+  "dividendYield": 4.47
+}

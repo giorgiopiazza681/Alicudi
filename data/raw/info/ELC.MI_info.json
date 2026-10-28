@@ -1,0 +1,23 @@
+{
+  "symbol": "ELC.MI",
+  "marketCap": 66495528.256276846,
+  "currency": "EUR",
+  "lastPrice": 1.1349999904632568,
+  "fiftyTwoWeekLow": 1.0800000429153442,
+  "fiftyTwoWeekHigh": 1.840000033378601,
+  "sharesOutstanding": 58586369,
+  "shortName": "ELICA",
+  "longName": "Elica S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "forwardPE": 23.894737,
+  "priceToBook": 0.57584983,
+  "enterpriseToEbitda": 9.526,
+  "profitMargins": -0.02791,
+  "operatingMargins": 0.01597,
+  "returnOnEquity": -0.08562,
+  "debtToEquity": 92.778,
+  "totalDebt": 112861000,
+  "dividendYield": 0.0,
+  "trailingPE": 23.894737
+}

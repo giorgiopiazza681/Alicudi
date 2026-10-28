@@ -1,0 +1,16 @@
+{
+  "symbol": "DEA.MI",
+  "shortName": "DeA Capital S.p.A.",
+  "longName": "DeA Capital S.p.A.",
+  "sector": "Financial Services",
+  "marketCap": 395000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-03-08",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 10.6,
+  "enterpriseToEbitda": 6.1,
+  "returnOnEquity": 0.122,
+  "operatingMargins": 0.165,
+  "debtToEquity": 18.0
+}

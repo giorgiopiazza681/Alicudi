@@ -1,0 +1,17 @@
+{
+  "symbol": "XPR.MI",
+  "shortName": "Exprivia S.p.A.",
+  "longName": "Exprivia S.p.A.",
+  "isin": "IT0001477402",
+  "marketCap": 87000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-07-17",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 10.5,
+  "enterpriseToEbitda": 5.8,
+  "returnOnEquity": 0.156,
+  "operatingMargins": 0.108,
+  "debtToEquity": 74.0
+}

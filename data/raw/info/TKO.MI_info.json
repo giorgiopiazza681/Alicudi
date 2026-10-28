@@ -1,0 +1,17 @@
+{
+  "symbol": "TKO.MI",
+  "shortName": "Take Off S.p.A.",
+  "longName": "Take Off S.p.A.",
+  "isin": "IT0005467425",
+  "marketCap": 18000000,
+  "status": "DELISTED_VOLUNTARY",
+  "delisted": true,
+  "delisting_date": "2024-09-18",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Consumer Cyclical",
+  "trailingPE": 14.5,
+  "enterpriseToEbitda": 8.41,
+  "returnOnEquity": 0.095,
+  "operatingMargins": 0.07125000000000001,
+  "debtToEquity": 65.0
+}

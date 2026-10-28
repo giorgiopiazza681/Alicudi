@@ -1,0 +1,23 @@
+{
+  "symbol": "WIIT.MI",
+  "marketCap": 723452262.6499901,
+  "currency": "EUR",
+  "lastPrice": 29.049999237060547,
+  "fiftyTwoWeekLow": 17.15999984741211,
+  "fiftyTwoWeekHigh": 37.900001525878906,
+  "sharesOutstanding": 24903693,
+  "shortName": "WIIT",
+  "longName": "Wiit S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "trailingPE": 85.44117,
+  "forwardPE": 27.548601,
+  "priceToBook": 259.375,
+  "enterpriseToEbitda": 21.63,
+  "profitMargins": 0.05059,
+  "operatingMargins": 0.17136,
+  "returnOnEquity": 0.48745,
+  "debtToEquity": 171.72473000000002,
+  "totalDebt": 473570400,
+  "dividendYield": 1.01
+}

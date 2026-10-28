@@ -1,0 +1,17 @@
+{
+  "marketCap": 229251322.58884907,
+  "symbol": "SGF.MI",
+  "previous_symbol": "SO.MI",
+  "shortName": "Sogefi S.p.A.",
+  "isin": "IT0000076536",
+  "status": "TICKER_CHANGE",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed",
+  "sector": "Consumer Cyclical",
+  "trailingPE": 25.0,
+  "enterpriseToEbitda": 14.499999999999998,
+  "returnOnEquity": 0.039097459648202965,
+  "operatingMargins": 0.034991622239146994,
+  "debtToEquity": 65.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "TXT.MI",
+  "marketCap": 638330517.5506897,
+  "currency": "EUR",
+  "lastPrice": 50.599998474121094,
+  "fiftyTwoWeekLow": 23.25,
+  "fiftyTwoWeekHigh": 55.79999923706055,
+  "sharesOutstanding": 12615228,
+  "shortName": "TXT E-SOLUTIONS",
+  "longName": "TXT e-solutions S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "trailingPE": 53.829784,
+  "forwardPE": 15.101051,
+  "priceToBook": 3.9543607,
+  "enterpriseToEbitda": 18.342,
+  "profitMargins": 0.02754,
+  "operatingMargins": -0.0057,
+  "returnOnEquity": 0.082100004,
+  "debtToEquity": 146.549,
+  "totalDebt": 242540240,
+  "dividendYield": 0.67
+}

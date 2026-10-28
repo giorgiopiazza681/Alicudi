@@ -1,0 +1,16 @@
+{
+  "symbol": "SITI.MI",
+  "shortName": "SITI - B&T Group S.p.A.",
+  "longName": "SITI - B&T Group S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 46000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-03-21",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.304461199969484,
+  "enterpriseToEbitda": 7.203359517957434,
+  "returnOnEquity": 0.19190690356596563,
+  "operatingMargins": 0.13855864979549948,
+  "debtToEquity": 33.4533679233959
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "BC.MI",
+  "marketCap": 5478079833.984375,
+  "currency": "EUR",
+  "lastPrice": 80.55999755859375,
+  "fiftyTwoWeekLow": 69.0199966430664,
+  "fiftyTwoWeekHigh": 102.4000015258789,
+  "sharesOutstanding": 68000000,
+  "shortName": "BRUNELLO CUCINELLI",
+  "longName": "Brunello Cucinelli S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "trailingPE": 0.0007196397,
+  "forwardPE": 30.691158,
+  "priceToBook": 9.997519,
+  "enterpriseToEbitda": 21.416,
+  "profitMargins": 0.0936,
+  "operatingMargins": 0.17124,
+  "returnOnEquity": 0.26791,
+  "debtToEquity": 217.133,
+  "totalDebt": 1227437952,
+  "dividendYield": 1.29
+}

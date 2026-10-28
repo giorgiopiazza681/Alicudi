@@ -1,0 +1,11 @@
+{
+  "marketCap": 253035751.68686032,
+  "symbol": "KME.MI",
+  "previous_symbol": "IKG.MI",
+  "shortName": "KME Group S.p.A. (ex Intek Group)",
+  "isin": "IT0004552359",
+  "status": "RENAMED",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed"
+}

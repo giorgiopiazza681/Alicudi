@@ -1,0 +1,17 @@
+{
+  "symbol": "RLT.MI",
+  "shortName": "Relatech S.p.A.",
+  "longName": "Relatech S.p.A.",
+  "isin": "IT0005433740",
+  "marketCap": 108000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-12-11",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 14.8,
+  "enterpriseToEbitda": 7.9,
+  "returnOnEquity": 0.172,
+  "operatingMargins": 0.135,
+  "debtToEquity": 34.0
+}

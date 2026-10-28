@@ -1,0 +1,16 @@
+{
+  "symbol": "SAE.MI",
+  "shortName": "Saeco International Group S.p.A.",
+  "longName": "Saeco International Group S.p.A.",
+  "sector": "Consumer Cyclical",
+  "marketCap": 420000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2004-09-20",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.16754599686304,
+  "enterpriseToEbitda": 7.238649063268694,
+  "returnOnEquity": 0.17527265999472516,
+  "operatingMargins": 0.16642345423656957,
+  "debtToEquity": 32.78533264037729
+}

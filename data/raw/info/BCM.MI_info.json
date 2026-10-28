@@ -1,0 +1,16 @@
+{
+  "symbol": "BCM.MI",
+  "shortName": "Biancamano S.p.A.",
+  "longName": "Biancamano S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 6500000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2023-03-16",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 7.2,
+  "enterpriseToEbitda": 9.5,
+  "returnOnEquity": -0.08,
+  "operatingMargins": 0.021,
+  "debtToEquity": 340.0
+}

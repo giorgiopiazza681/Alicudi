@@ -1,0 +1,23 @@
+{
+  "symbol": "G.MI",
+  "marketCap": 62699373768.87403,
+  "currency": "EUR",
+  "lastPrice": 41.619998931884766,
+  "fiftyTwoWeekLow": 31.760000228881836,
+  "fiftyTwoWeekHigh": 46.2400016784668,
+  "sharesOutstanding": 1506472258,
+  "shortName": "GENERALI",
+  "longName": "Assicurazioni Generali S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "trailingPE": 14.108474,
+  "forwardPE": 12.231535,
+  "priceToBook": 1.9603409,
+  "enterpriseToEbitda": 12.429,
+  "profitMargins": 0.07684,
+  "operatingMargins": 0.14612001,
+  "returnOnEquity": 0.1514,
+  "debtToEquity": 118.93,
+  "totalDebt": 41485000704,
+  "dividendYield": 3.89
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "RWAY.MI",
+  "marketCap": 1138458683.5842152,
+  "currency": "EUR",
+  "lastPrice": 4.239999771118164,
+  "fiftyTwoWeekLow": 4.260000228881836,
+  "fiftyTwoWeekHigh": 6.25,
+  "sharesOutstanding": 268504421,
+  "shortName": "RAI WAY",
+  "longName": "Rai Way S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "trailingPE": 13.677419,
+  "forwardPE": 12.423087,
+  "priceToBook": 5.93007,
+  "enterpriseToEbitda": 7.99,
+  "profitMargins": 0.29841998,
+  "operatingMargins": 0.45152,
+  "returnOnEquity": 0.57396,
+  "debtToEquity": 124.339,
+  "totalDebt": 183400000,
+  "dividendYield": 7.67
+}

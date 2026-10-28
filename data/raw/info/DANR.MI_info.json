@@ -1,0 +1,23 @@
+{
+  "symbol": "DANR.MI",
+  "marketCap": 2367626403.333603,
+  "currency": "EUR",
+  "lastPrice": 33.08000183105469,
+  "fiftyTwoWeekLow": 31.020000457763672,
+  "fiftyTwoWeekHigh": 52.45000076293945,
+  "sharesOutstanding": 71572741,
+  "shortName": "DANIELI & C RISP NC",
+  "longName": "Danieli & C. Officine Meccaniche S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "trailingPE": 10.273293,
+  "forwardPE": 8.143331,
+  "priceToBook": 0.8294885,
+  "profitMargins": 0.060100004,
+  "operatingMargins": 0.03885,
+  "returnOnEquity": 0.08036,
+  "debtToEquity": 29.397,
+  "totalDebt": 874200000,
+  "dividendYield": 0.97,
+  "enterpriseToEbitda": 5.95850994
+}

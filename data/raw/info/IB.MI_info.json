@@ -1,0 +1,23 @@
+{
+  "symbol": "IB.MI",
+  "marketCap": 40939625.76036692,
+  "currency": "EUR",
+  "lastPrice": 7.650000095367432,
+  "fiftyTwoWeekLow": 7.25,
+  "fiftyTwoWeekHigh": 13.0,
+  "sharesOutstanding": 5351585,
+  "shortName": "INIZIATIVE BRESCIANE",
+  "longName": "Iniziative Bresciane S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "trailingPE": 765.0,
+  "forwardPE": 7.3135757,
+  "priceToBook": 0.556121,
+  "enterpriseToEbitda": 10.261,
+  "profitMargins": 0.0018099999,
+  "operatingMargins": 0.16624,
+  "returnOnEquity": -0.0014300001,
+  "debtToEquity": 134.279,
+  "totalDebt": 97968320,
+  "dividendYield": 2.56
+}

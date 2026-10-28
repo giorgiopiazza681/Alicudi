@@ -1,0 +1,23 @@
+{
+  "symbol": "HLX.MI",
+  "marketCap": 19674921.994564712,
+  "currency": "EUR",
+  "lastPrice": 0.7440000176429749,
+  "fiftyTwoWeekLow": 0.5600000023841858,
+  "fiftyTwoWeekHigh": 1.2000000476837158,
+  "sharesOutstanding": 26444787,
+  "shortName": "HELYX INDUSTRIES",
+  "longName": "Helyx Industries S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "forwardPE": 744.0,
+  "priceToBook": 0.96124035,
+  "enterpriseToEbitda": -41.455,
+  "profitMargins": -0.93523,
+  "operatingMargins": -0.54539,
+  "returnOnEquity": -0.16925,
+  "debtToEquity": 4.965,
+  "totalDebt": 929472,
+  "dividendYield": 0.0,
+  "trailingPE": 744.0
+}

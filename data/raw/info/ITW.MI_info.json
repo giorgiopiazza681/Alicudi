@@ -1,0 +1,22 @@
+{
+  "symbol": "ITW.MI",
+  "marketCap": 8328659.324106693,
+  "currency": "EUR",
+  "lastPrice": 0.800000011920929,
+  "fiftyTwoWeekLow": 0.7799999713897705,
+  "fiftyTwoWeekHigh": 1.5499999523162842,
+  "sharesOutstanding": 10410824,
+  "shortName": "IT WAY",
+  "longName": "Itway S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "priceToBook": 0.7226739,
+  "enterpriseToEbitda": 12.367,
+  "profitMargins": -0.00837,
+  "operatingMargins": 0.00533,
+  "returnOnEquity": -0.05624,
+  "debtToEquity": 43.302,
+  "totalDebt": 5728000,
+  "dividendYield": 0.0,
+  "trailingPE": -15.0
+}

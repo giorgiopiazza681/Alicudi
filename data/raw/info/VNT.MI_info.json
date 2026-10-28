@@ -1,0 +1,22 @@
+{
+  "symbol": "VNT.MI",
+  "marketCap": 8248036.545453668,
+  "currency": "EUR",
+  "lastPrice": 0.6700000166893005,
+  "fiftyTwoWeekLow": 0.6700000166893005,
+  "fiftyTwoWeekHigh": 1.1200000047683716,
+  "sharesOutstanding": 12310502,
+  "shortName": "VANTEA SMART",
+  "longName": "Vantea SMART S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "trailingPE": 33.5,
+  "priceToBook": 0.7536558,
+  "enterpriseToEbitda": 5.639,
+  "profitMargins": 0.03285,
+  "operatingMargins": 0.13939,
+  "returnOnEquity": 0.02345,
+  "debtToEquity": 44.888,
+  "totalDebt": 4941140,
+  "dividendYield": 3.73
+}

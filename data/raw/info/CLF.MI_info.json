@@ -1,0 +1,23 @@
+{
+  "symbol": "CLF.MI",
+  "marketCap": 12266496.483101666,
+  "currency": "EUR",
+  "lastPrice": 0.8080000281333923,
+  "fiftyTwoWeekLow": 0.7400000095367432,
+  "fiftyTwoWeekHigh": 0.9679999947547913,
+  "sharesOutstanding": 15181307,
+  "shortName": "CALEFFI",
+  "longName": "Caleffi S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "trailingPE": 6.7333336,
+  "forwardPE": 5.386667,
+  "priceToBook": 0.4212722,
+  "enterpriseToEbitda": 5.347,
+  "profitMargins": 0.0307,
+  "operatingMargins": 0.025039999,
+  "returnOnEquity": 0.06823,
+  "debtToEquity": 38.518,
+  "totalDebt": 10564000,
+  "dividendYield": 0.0
+}

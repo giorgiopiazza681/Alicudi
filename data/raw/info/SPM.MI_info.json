@@ -1,0 +1,23 @@
+{
+  "symbol": "SPM.MI",
+  "marketCap": 8500378585.736502,
+  "currency": "EUR",
+  "lastPrice": 4.38100004196167,
+  "fiftyTwoWeekLow": 2.1659998893737793,
+  "fiftyTwoWeekHigh": 4.8460001945495605,
+  "sharesOutstanding": 1940282699,
+  "shortName": "SAIPEM",
+  "longName": "Saipem SpA",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "trailingPE": 33.7,
+  "forwardPE": 14.534055,
+  "priceToBook": 3.6753354,
+  "enterpriseToEbitda": 8.812,
+  "profitMargins": 0.017070001,
+  "operatingMargins": 0.02169,
+  "returnOnEquity": 0.108509995,
+  "debtToEquity": 128.967,
+  "totalDebt": 2983000064,
+  "dividendYield": 3.88
+}

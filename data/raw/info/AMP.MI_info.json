@@ -1,0 +1,23 @@
+{
+  "symbol": "AMP.MI",
+  "marketCap": 3218213747.252507,
+  "currency": "EUR",
+  "lastPrice": 12.109999656677246,
+  "fiftyTwoWeekLow": 7.835999965667725,
+  "fiftyTwoWeekHigh": 15.835000038146973,
+  "sharesOutstanding": 265748459,
+  "shortName": "AMPLIFON",
+  "longName": "Amplifon S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "trailingPE": 39.064514,
+  "forwardPE": 13.772005,
+  "priceToBook": 2.1260533,
+  "enterpriseToEbitda": 12.452,
+  "profitMargins": 0.03011,
+  "operatingMargins": 0.13298,
+  "returnOnEquity": 0.05737,
+  "debtToEquity": 117.681,
+  "totalDebt": 1781863040,
+  "dividendYield": 2.38
+}

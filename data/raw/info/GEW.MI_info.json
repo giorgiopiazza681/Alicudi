@@ -1,0 +1,16 @@
+{
+  "symbol": "GEW.MI",
+  "shortName": "Gewiss S.p.A.",
+  "longName": "Gewiss S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 480000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2011-08-05",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 14.6483482387877,
+  "enterpriseToEbitda": 7.198783022989991,
+  "returnOnEquity": 0.19239532247766272,
+  "operatingMargins": 0.1736198748579162,
+  "debtToEquity": 29.116391569868956
+}

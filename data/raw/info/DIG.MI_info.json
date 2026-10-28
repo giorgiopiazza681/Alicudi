@@ -1,0 +1,17 @@
+{
+  "symbol": "DIG.MI",
+  "shortName": "Digital360 S.p.A.",
+  "longName": "Digital360 S.p.A.",
+  "isin": "IT0005254252",
+  "marketCap": 110000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-10-25",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 17.5,
+  "enterpriseToEbitda": 8.8,
+  "returnOnEquity": 0.14,
+  "operatingMargins": 0.11,
+  "debtToEquity": 62.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "GVS.MI",
+  "marketCap": 943004317.1125045,
+  "currency": "EUR",
+  "lastPrice": 5.150000095367432,
+  "fiftyTwoWeekLow": 3.315000057220459,
+  "fiftyTwoWeekHigh": 5.369999885559082,
+  "sharesOutstanding": 183107631,
+  "shortName": "GVS",
+  "longName": "GVS S.p.A.",
+  "sector": "Industrials",
+  "industry": "Pollution & Treatment Controls",
+  "trailingPE": 23.409092,
+  "forwardPE": 17.174109,
+  "priceToBook": 2.142263,
+  "enterpriseToEbitda": 11.179,
+  "profitMargins": 0.0962,
+  "operatingMargins": 0.1807,
+  "returnOnEquity": 0.09277,
+  "debtToEquity": 57.24,
+  "totalDebt": 257971008,
+  "dividendYield": 0.0
+}

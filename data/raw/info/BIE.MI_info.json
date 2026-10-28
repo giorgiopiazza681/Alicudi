@@ -1,0 +1,17 @@
+{
+  "symbol": "BIE.MI",
+  "shortName": "Bioera S.p.A.",
+  "longName": "Bioera S.p.A.",
+  "isin": "IT0005516130",
+  "marketCap": 4500000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2024-12-04",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Consumer Defensive",
+  "trailingPE": -6.0,
+  "enterpriseToEbitda": 25.0,
+  "returnOnEquity": -0.38,
+  "operatingMargins": -0.22,
+  "debtToEquity": 350.0
+}

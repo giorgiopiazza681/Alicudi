@@ -1,0 +1,17 @@
+{
+  "symbol": "ALW.MI",
+  "shortName": "algoWatt S.p.A. (ex TerniEnergia)",
+  "longName": "algoWatt S.p.A. (ex TerniEnergia)",
+  "isin": "IT0004359037",
+  "marketCap": 15000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2024-11-22",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Utilities",
+  "trailingPE": -9.0,
+  "enterpriseToEbitda": 16.5,
+  "returnOnEquity": -0.28,
+  "operatingMargins": -0.12,
+  "debtToEquity": 310.0
+}

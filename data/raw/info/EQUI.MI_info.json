@@ -1,0 +1,23 @@
+{
+  "symbol": "EQUI.MI",
+  "marketCap": 325278826.4320278,
+  "currency": "EUR",
+  "lastPrice": 5.920000076293945,
+  "fiftyTwoWeekLow": 5.150000095367432,
+  "fiftyTwoWeekHigh": 6.440000057220459,
+  "sharesOutstanding": 54945747,
+  "shortName": "EQUITA GROUP",
+  "longName": "Equita Group S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "trailingPE": 12.333334,
+  "forwardPE": 12.61991,
+  "priceToBook": 2.8488932,
+  "profitMargins": 0.19850999,
+  "operatingMargins": 0.30737,
+  "returnOnEquity": 0.23903999,
+  "debtToEquity": 200.079,
+  "totalDebt": 214221360,
+  "dividendYield": 6.64,
+  "enterpriseToEbitda": 7.15333372
+}

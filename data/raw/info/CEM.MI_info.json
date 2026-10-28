@@ -1,0 +1,23 @@
+{
+  "symbol": "CEM.MI",
+  "marketCap": 2023315235.5957031,
+  "currency": "EUR",
+  "lastPrice": 13.010000228881836,
+  "fiftyTwoWeekLow": 13.020000457763672,
+  "fiftyTwoWeekHigh": 20.700000762939453,
+  "sharesOutstanding": 155520000,
+  "shortName": "CEMENTIR HOLDING",
+  "longName": "Cementir Holding N.V.",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "trailingPE": 12.046296,
+  "forwardPE": 9.667974,
+  "priceToBook": 1.0510583,
+  "enterpriseToEbitda": 5.969,
+  "profitMargins": 0.11873999,
+  "operatingMargins": 0.14545,
+  "returnOnEquity": 0.10208999,
+  "debtToEquity": 7.507,
+  "totalDebt": 153804000,
+  "dividendYield": 2.24
+}

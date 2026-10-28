@@ -1,0 +1,23 @@
+{
+  "symbol": "FARM.MI",
+  "marketCap": 46224918.095617294,
+  "currency": "EUR",
+  "lastPrice": 0.20399999618530273,
+  "fiftyTwoWeekLow": 0.15299999713897705,
+  "fiftyTwoWeekHigh": 0.3070000112056732,
+  "sharesOutstanding": 226592740,
+  "shortName": "H-FARM",
+  "longName": "H-FARM S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "trailingPE": 1.0736842,
+  "forwardPE": -20.4,
+  "priceToBook": 1.4782609,
+  "enterpriseToEbitda": -10.073,
+  "profitMargins": 1.25097,
+  "operatingMargins": -0.19239001,
+  "returnOnEquity": 2.19043,
+  "debtToEquity": 16.096,
+  "totalDebt": 4438453,
+  "dividendYield": 0.0
+}

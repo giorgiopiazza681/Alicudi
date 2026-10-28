@@ -1,0 +1,23 @@
+{
+  "symbol": "AZM.MI",
+  "marketCap": 5160348894.75,
+  "currency": "EUR",
+  "lastPrice": 36.75,
+  "fiftyTwoWeekLow": 30.190000534057617,
+  "fiftyTwoWeekHigh": 40.38999938964844,
+  "sharesOutstanding": 140417657,
+  "shortName": "AZIMUT",
+  "longName": "Azimut Holding S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "trailingPE": 9.879032,
+  "forwardPE": 10.080617,
+  "priceToBook": 2.6395173,
+  "enterpriseToEbitda": 7.323,
+  "profitMargins": 0.3352,
+  "operatingMargins": 0.40909,
+  "returnOnEquity": 0.29348,
+  "debtToEquity": 4.261,
+  "totalDebt": 85380000,
+  "dividendYield": 5.3
+}

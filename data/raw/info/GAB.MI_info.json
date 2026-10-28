@@ -1,0 +1,22 @@
+{
+  "symbol": "GAB.MI",
+  "marketCap": 22263823.120358884,
+  "currency": "EUR",
+  "lastPrice": 0.36899998784065247,
+  "fiftyTwoWeekLow": 0.30000001192092896,
+  "fiftyTwoWeekHigh": 0.7099999785423279,
+  "sharesOutstanding": 60335566,
+  "shortName": "GABETTI",
+  "longName": "Gabetti Property Solutions S.p.A.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "trailingPE": 36.899998,
+  "priceToBook": 0.61809045,
+  "enterpriseToEbitda": -5.768,
+  "profitMargins": -0.0044,
+  "operatingMargins": -0.12498,
+  "returnOnEquity": -0.03178,
+  "debtToEquity": 122.52,
+  "totalDebt": 45467000,
+  "dividendYield": 0.0
+}

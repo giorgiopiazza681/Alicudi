@@ -1,0 +1,23 @@
+{
+  "symbol": "PRT.MI",
+  "marketCap": 399000976.0513458,
+  "currency": "EUR",
+  "lastPrice": 8.069999694824219,
+  "fiftyTwoWeekLow": 4.40500020980835,
+  "fiftyTwoWeekHigh": 8.579999923706055,
+  "sharesOutstanding": 49442502,
+  "shortName": "ESPRINET",
+  "longName": "Esprinet S.p.A.",
+  "sector": "Technology",
+  "industry": "Electronics & Computer Distribution",
+  "trailingPE": 18.340908,
+  "forwardPE": 12.781323,
+  "priceToBook": 1.0587772,
+  "enterpriseToEbitda": 12.606,
+  "profitMargins": 0.00484,
+  "operatingMargins": 0.007850001,
+  "returnOnEquity": 0.05738,
+  "debtToEquity": 118.59,
+  "totalDebt": 446904992,
+  "dividendYield": 4.27
+}

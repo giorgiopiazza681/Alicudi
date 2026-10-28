@@ -1,0 +1,16 @@
+{
+  "symbol": "BIO.MI",
+  "shortName": "Bio-on S.p.A.",
+  "longName": "Bio-on S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 250000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2019-12-20",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 65.0,
+  "enterpriseToEbitda": 42.0,
+  "returnOnEquity": -0.18,
+  "operatingMargins": -0.25,
+  "debtToEquity": 195.0
+}

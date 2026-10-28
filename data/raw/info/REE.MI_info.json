@@ -1,0 +1,17 @@
+{
+  "symbol": "REE.MI",
+  "shortName": "Reevo S.p.A.",
+  "longName": "Reevo S.p.A.",
+  "isin": "IT0005438046",
+  "marketCap": 90000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-08-08",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 16.0,
+  "enterpriseToEbitda": 8.5,
+  "returnOnEquity": 0.195,
+  "operatingMargins": 0.185,
+  "debtToEquity": 18.0
+}

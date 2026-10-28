@@ -1,0 +1,23 @@
+{
+  "symbol": "MOL.MI",
+  "marketCap": 1180775884.0710526,
+  "currency": "EUR",
+  "lastPrice": 31.799999237060547,
+  "fiftyTwoWeekLow": 28.25,
+  "fiftyTwoWeekHigh": 47.900001525878906,
+  "sharesOutstanding": 37131318,
+  "shortName": "MOLTIPLY GROUP",
+  "longName": "Moltiply Group S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "trailingPE": 28.141592,
+  "forwardPE": 10.997372,
+  "priceToBook": 3.5329406,
+  "enterpriseToEbitda": 12.05,
+  "profitMargins": 0.059809998,
+  "operatingMargins": 0.14987001,
+  "returnOnEquity": 0.12254,
+  "debtToEquity": 181.25,
+  "totalDebt": 612974976,
+  "dividendYield": 0.49
+}

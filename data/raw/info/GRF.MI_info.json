@@ -1,0 +1,16 @@
+{
+  "symbol": "GRF.MI",
+  "shortName": "GranitiFiandre S.p.A.",
+  "longName": "GranitiFiandre S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 150000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2011-05-12",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 13.152222560342755,
+  "enterpriseToEbitda": 7.769260622888707,
+  "returnOnEquity": 0.15229865057280145,
+  "operatingMargins": 0.1588964606492395,
+  "debtToEquity": 34.6863143204024
+}

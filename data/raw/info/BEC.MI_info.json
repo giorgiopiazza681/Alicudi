@@ -1,0 +1,23 @@
+{
+  "symbol": "BEC.MI",
+  "marketCap": 120440195.32892704,
+  "currency": "EUR",
+  "lastPrice": 11.050000190734863,
+  "fiftyTwoWeekLow": 10.350000381469727,
+  "fiftyTwoWeekHigh": 16.600000381469727,
+  "sharesOutstanding": 10899565,
+  "shortName": "B&C SPEAKERS",
+  "longName": "B&C Speakers S.p.A.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "trailingPE": 11.27551,
+  "forwardPE": 9.866072,
+  "priceToBook": 2.2858915,
+  "enterpriseToEbitda": 7.823,
+  "profitMargins": 0.111049995,
+  "operatingMargins": 0.14713,
+  "returnOnEquity": 0.20472999,
+  "debtToEquity": 48.165,
+  "totalDebt": 25362212,
+  "dividendYield": 6.39
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "MZB.MI",
+  "shortName": "Massimo Zanetti Beverage Group S.p.A.",
+  "longName": "Massimo Zanetti Beverage Group S.p.A.",
+  "sector": "Consumer Defensive",
+  "marketCap": 172000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-02-15",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 16.25849238017703,
+  "enterpriseToEbitda": 6.4981967462757275,
+  "returnOnEquity": 0.12280277226592441,
+  "operatingMargins": 0.17783912665248797,
+  "debtToEquity": 32.98527003955819
+}

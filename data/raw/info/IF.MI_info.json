@@ -1,0 +1,23 @@
+{
+  "symbol": "IF.MI",
+  "marketCap": 650498462.199955,
+  "currency": "EUR",
+  "lastPrice": 10.649999618530273,
+  "fiftyTwoWeekLow": 10.649999618530273,
+  "fiftyTwoWeekHigh": 27.719999313354492,
+  "sharesOutstanding": 61079670,
+  "shortName": "BANCA IFIS",
+  "longName": "Banca IFIS S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 2.5236967,
+  "forwardPE": 5.333961,
+  "priceToBook": 0.3173326,
+  "profitMargins": 0.36837003,
+  "operatingMargins": -0.056209996,
+  "returnOnEquity": 0.12864,
+  "totalDebt": 8234877952,
+  "dividendYield": 19.2,
+  "enterpriseToEbitda": 1.463744086,
+  "debtToEquity": 65.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "ECNL.MI",
+  "marketCap": 110237447.7052145,
+  "currency": "EUR",
+  "lastPrice": 1.277999997138977,
+  "fiftyTwoWeekLow": 1.2100000381469727,
+  "fiftyTwoWeekHigh": 2.140000104904175,
+  "sharesOutstanding": 86257784,
+  "shortName": "AQUAFIL",
+  "longName": "Aquafil S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "forwardPE": 6.630006,
+  "priceToBook": 0.76572794,
+  "enterpriseToEbitda": 5.169,
+  "profitMargins": -0.00699,
+  "operatingMargins": 0.04208,
+  "returnOnEquity": -0.025409998,
+  "debtToEquity": 250.478,
+  "totalDebt": 360611008,
+  "dividendYield": 0.0,
+  "trailingPE": 6.630006
+}

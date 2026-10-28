@@ -1,0 +1,23 @@
+{
+  "symbol": "IRE.MI",
+  "marketCap": 3081947844.6349087,
+  "currency": "EUR",
+  "lastPrice": 2.4019999504089355,
+  "fiftyTwoWeekLow": 2.25,
+  "fiftyTwoWeekHigh": 2.868000030517578,
+  "sharesOutstanding": 1283075732,
+  "shortName": "IREN",
+  "longName": "Iren SpA",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "trailingPE": 10.443478,
+  "forwardPE": 9.721941,
+  "priceToBook": 1.0452567,
+  "enterpriseToEbitda": 6.548,
+  "profitMargins": 0.04757,
+  "operatingMargins": 0.06284,
+  "returnOnEquity": 0.08586001,
+  "debtToEquity": 129.504,
+  "totalDebt": 4780769792,
+  "dividendYield": 5.76
+}

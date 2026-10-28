@@ -1,0 +1,17 @@
+{
+  "symbol": "VIA.MI",
+  "shortName": "Vianini S.p.A.",
+  "longName": "Vianini S.p.A.",
+  "isin": "IT0003127898",
+  "marketCap": 95000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-08-05",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Real Estate",
+  "trailingPE": 15.660571024657887,
+  "enterpriseToEbitda": 6.045720848211843,
+  "returnOnEquity": 0.16893934110866626,
+  "operatingMargins": 0.16273543958897319,
+  "debtToEquity": 53.30674671773684
+}

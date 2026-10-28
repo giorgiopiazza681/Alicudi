@@ -1,0 +1,16 @@
+{
+  "symbol": "FINM.MI",
+  "shortName": "Finmatica S.p.A.",
+  "longName": "Finmatica S.p.A.",
+  "sector": "Technology",
+  "marketCap": 85000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2005-05-02",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -10.731293109280603,
+  "enterpriseToEbitda": 24.810624139878644,
+  "returnOnEquity": -0.3260536979484554,
+  "operatingMargins": -0.1202484153348114,
+  "debtToEquity": 314.4637719202448
+}

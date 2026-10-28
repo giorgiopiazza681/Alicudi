@@ -1,0 +1,23 @@
+{
+  "symbol": "PQ.MI",
+  "marketCap": 114748417.61760712,
+  "currency": "EUR",
+  "lastPrice": 2.4200000762939453,
+  "fiftyTwoWeekLow": 2.200000047683716,
+  "fiftyTwoWeekHigh": 3.0999999046325684,
+  "sharesOutstanding": 47416700,
+  "shortName": "PIQUADRO",
+  "longName": "Piquadro S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "trailingPE": 8.962963,
+  "forwardPE": 11.52381,
+  "priceToBook": 1.5277778,
+  "enterpriseToEbitda": 9.377,
+  "profitMargins": 0.06994,
+  "operatingMargins": 0.059959996,
+  "returnOnEquity": 0.17909999,
+  "debtToEquity": 104.339,
+  "totalDebt": 78208000,
+  "dividendYield": 6.14
+}

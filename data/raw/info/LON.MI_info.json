@@ -1,0 +1,23 @@
+{
+  "symbol": "LON.MI",
+  "marketCap": 8119149.702191353,
+  "currency": "EUR",
+  "lastPrice": 1.2999999523162842,
+  "fiftyTwoWeekLow": 0.7450000047683716,
+  "fiftyTwoWeekHigh": 1.350000023841858,
+  "sharesOutstanding": 6245500,
+  "shortName": "LONGINO&CARDENAL",
+  "longName": "Longino & Cardenal S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "trailingPE": 10.833333,
+  "forwardPE": 12.999999,
+  "priceToBook": 2.8260868,
+  "enterpriseToEbitda": 7.729,
+  "profitMargins": 0.02142,
+  "operatingMargins": 0.01671,
+  "returnOnEquity": 0.28564,
+  "debtToEquity": 235.288,
+  "totalDebt": 7061423,
+  "dividendYield": 0.0
+}

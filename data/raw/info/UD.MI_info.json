@@ -1,0 +1,23 @@
+{
+  "symbol": "UD.MI",
+  "marketCap": 94252907.81613064,
+  "currency": "EUR",
+  "lastPrice": 3.130000114440918,
+  "fiftyTwoWeekLow": 2.680000066757202,
+  "fiftyTwoWeekHigh": 3.5799999237060547,
+  "sharesOutstanding": 30112749,
+  "shortName": "UNIDATA",
+  "longName": "Unidata S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "trailingPE": 13.608696,
+  "forwardPE": 8.575342,
+  "priceToBook": 1.0871831,
+  "enterpriseToEbitda": 5.403,
+  "profitMargins": 0.04329,
+  "operatingMargins": 0.13036,
+  "returnOnEquity": 0.05717,
+  "debtToEquity": 65.835,
+  "totalDebt": 58402776,
+  "dividendYield": 0.32
+}

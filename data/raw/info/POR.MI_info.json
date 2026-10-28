@@ -1,0 +1,19 @@
+{
+  "symbol": "POR.MI",
+  "marketCap": 5156134.092080593,
+  "currency": "EUR",
+  "lastPrice": 0.9700000286102295,
+  "fiftyTwoWeekLow": 0.628000020980835,
+  "fiftyTwoWeekHigh": 1.899999976158142,
+  "sharesOutstanding": 5315602,
+  "shortName": "PORTOBELLO",
+  "longName": "Portobello S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "forwardPE": 1.469697,
+  "priceToBook": -0.04190789,
+  "enterpriseToEbitda": -29.573,
+  "profitMargins": -0.18875,
+  "operatingMargins": -0.47402,
+  "totalDebt": 54194476
+}

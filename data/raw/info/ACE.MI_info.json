@@ -1,0 +1,23 @@
+{
+  "symbol": "ACE.MI",
+  "marketCap": 4280714717.251053,
+  "currency": "EUR",
+  "lastPrice": 20.139999389648438,
+  "fiftyTwoWeekLow": 19.31999969482422,
+  "fiftyTwoWeekHigh": 26.520000457763672,
+  "sharesOutstanding": 212547907,
+  "shortName": "ACEA",
+  "longName": "ACEA S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "trailingPE": 11.847058,
+  "forwardPE": 12.668658,
+  "priceToBook": 1.4365191,
+  "enterpriseToEbitda": 8.277,
+  "profitMargins": 0.2517,
+  "operatingMargins": 0.18110001,
+  "returnOnEquity": 0.124309994,
+  "debtToEquity": 169.549,
+  "totalDebt": 5731646976,
+  "dividendYield": 4.74
+}

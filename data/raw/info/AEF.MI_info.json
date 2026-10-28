@@ -1,0 +1,23 @@
+{
+  "symbol": "AEF.MI",
+  "marketCap": 13929255.051044077,
+  "currency": "EUR",
+  "lastPrice": 0.13850000500679016,
+  "fiftyTwoWeekLow": 0.12800000607967377,
+  "fiftyTwoWeekHigh": 0.38999998569488525,
+  "sharesOutstanding": 100572235,
+  "shortName": "AEFFE",
+  "longName": "Aeffe S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "trailingPE": 1.259091,
+  "forwardPE": -0.5474309,
+  "priceToBook": 0.19156294,
+  "enterpriseToEbitda": -101.1,
+  "profitMargins": 0.048189998,
+  "operatingMargins": -0.30488002,
+  "returnOnEquity": 0.17283002,
+  "debtToEquity": 255.846,
+  "totalDebt": 183353568,
+  "dividendYield": 0.0
+}

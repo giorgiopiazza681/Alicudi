@@ -1,0 +1,17 @@
+{
+  "symbol": "KIP.MI",
+  "shortName": "Kolinpharma S.p.A.",
+  "longName": "Kolinpharma S.p.A.",
+  "isin": "IT0005322950",
+  "marketCap": 24000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-09-27",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Healthcare",
+  "trailingPE": 14.5,
+  "enterpriseToEbitda": 7.4,
+  "returnOnEquity": 0.145,
+  "operatingMargins": 0.13,
+  "debtToEquity": 35.0
+}

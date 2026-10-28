@@ -1,0 +1,23 @@
+{
+  "symbol": "HER.MI",
+  "marketCap": 5056753411.708281,
+  "currency": "EUR",
+  "lastPrice": 3.430000066757202,
+  "fiftyTwoWeekLow": 3.4820001125335693,
+  "fiftyTwoWeekHigh": 4.449999809265137,
+  "sharesOutstanding": 1474272103,
+  "shortName": "HERA",
+  "longName": "Hera S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "trailingPE": 10.71875,
+  "forwardPE": 10.330703,
+  "priceToBook": 1.2418537,
+  "enterpriseToEbitda": 7.012,
+  "profitMargins": 0.037130002,
+  "operatingMargins": 0.04754,
+  "returnOnEquity": 0.121079996,
+  "debtToEquity": 133.318,
+  "totalDebt": 5829199872,
+  "dividendYield": 4.59
+}

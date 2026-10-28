@@ -1,0 +1,22 @@
+{
+  "symbol": "CALT.MI",
+  "marketCap": 1118317250.404358,
+  "currency": "EUR",
+  "lastPrice": 9.3100004196167,
+  "fiftyTwoWeekLow": 8.100000381469727,
+  "fiftyTwoWeekHigh": 10.979999542236328,
+  "sharesOutstanding": 120120000,
+  "shortName": "CALTAGIRONE",
+  "longName": "Caltagirone SpA",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "trailingPE": 6.697842,
+  "priceToBook": 0.44869635,
+  "enterpriseToEbitda": 6.552,
+  "profitMargins": 0.068179995,
+  "operatingMargins": 0.08225001,
+  "returnOnEquity": 0.078379996,
+  "debtToEquity": 6.665,
+  "totalDebt": 278895008,
+  "dividendYield": 3.18
+}

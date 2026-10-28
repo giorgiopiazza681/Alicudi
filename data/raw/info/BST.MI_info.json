@@ -1,0 +1,23 @@
+{
+  "symbol": "BST.MI",
+  "marketCap": 123205047.29235697,
+  "currency": "EUR",
+  "lastPrice": 1.531999945640564,
+  "fiftyTwoWeekLow": 1.4880000352859497,
+  "fiftyTwoWeekHigh": 1.8279999494552612,
+  "sharesOutstanding": 80421052,
+  "shortName": "BANCA SISTEMA",
+  "longName": "Banca Sistema S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 6.660869,
+  "forwardPE": 7.7904906,
+  "priceToBook": 0.42913166,
+  "profitMargins": 0.13007,
+  "operatingMargins": -0.26808,
+  "returnOnEquity": 0.06724,
+  "totalDebt": 868992000,
+  "dividendYield": 0.0,
+  "enterpriseToEbitda": 3.8633040199999997,
+  "debtToEquity": 65.0
+}

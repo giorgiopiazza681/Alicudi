@@ -1,0 +1,23 @@
+{
+  "symbol": "MAPS.MI",
+  "marketCap": 30800023.18274975,
+  "currency": "EUR",
+  "lastPrice": 2.369999885559082,
+  "fiftyTwoWeekLow": 2.2300000190734863,
+  "fiftyTwoWeekHigh": 3.799999952316284,
+  "sharesOutstanding": 12995791,
+  "shortName": "MAPS",
+  "longName": "Maps S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "trailingPE": 79.0,
+  "forwardPE": 9.854469,
+  "priceToBook": 2.048401,
+  "profitMargins": 0.013839999,
+  "operatingMargins": 0.08149,
+  "returnOnEquity": 0.01446,
+  "debtToEquity": 77.477,
+  "totalDebt": 19924488,
+  "dividendYield": 0.0,
+  "enterpriseToEbitda": 45.82
+}

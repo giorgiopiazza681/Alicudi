@@ -1,0 +1,22 @@
+{
+  "symbol": "EDNR.MI",
+  "marketCap": 8875483505.181044,
+  "currency": "EUR",
+  "lastPrice": 1.8739999532699585,
+  "fiftyTwoWeekLow": 1.8200000524520874,
+  "fiftyTwoWeekHigh": 2.615000009536743,
+  "sharesOutstanding": 4736117250,
+  "shortName": "EDISON R",
+  "longName": "Edison S.p.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "trailingPE": 62.466667,
+  "priceToBook": 1.4164777,
+  "enterpriseToEbitda": 14.467,
+  "profitMargins": 0.00939,
+  "operatingMargins": 0.01686,
+  "returnOnEquity": 0.02934,
+  "debtToEquity": 17.39,
+  "totalDebt": 1158000000,
+  "dividendYield": 3.41
+}

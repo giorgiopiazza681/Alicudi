@@ -1,0 +1,23 @@
+{
+  "symbol": "IGD.MI",
+  "marketCap": 411023578.1519761,
+  "currency": "EUR",
+  "lastPrice": 3.7249999046325684,
+  "fiftyTwoWeekLow": 3.2750000953674316,
+  "fiftyTwoWeekHigh": 4.599999904632568,
+  "sharesOutstanding": 110341903,
+  "shortName": "IGD",
+  "longName": "Immobiliare Grande Distribuzione SIIQ S.p.A.",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "trailingPE": 10.347221,
+  "forwardPE": 7.638362,
+  "priceToBook": 0.4113749,
+  "enterpriseToEbitda": 12.64,
+  "profitMargins": 0.29916,
+  "operatingMargins": 0.68047,
+  "returnOnEquity": 0.04271,
+  "debtToEquity": 80.446,
+  "totalDebt": 803726016,
+  "dividendYield": 3.93
+}

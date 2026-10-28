@@ -1,0 +1,23 @@
+{
+  "symbol": "GSP.MI",
+  "marketCap": 282788390.0969448,
+  "currency": "EUR",
+  "lastPrice": 6.489999771118164,
+  "fiftyTwoWeekLow": 5.300000190734863,
+  "fiftyTwoWeekHigh": 7.940000057220459,
+  "sharesOutstanding": 43572943,
+  "shortName": "GAS PLUS",
+  "longName": "Gas Plus S.p.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "trailingPE": 11.189655,
+  "forwardPE": 10.061547,
+  "priceToBook": 1.117809,
+  "enterpriseToEbitda": 3.355,
+  "profitMargins": 0.14373,
+  "operatingMargins": 0.29577,
+  "returnOnEquity": 0.104049996,
+  "debtToEquity": 16.102,
+  "totalDebt": 40749000,
+  "dividendYield": 3.77
+}

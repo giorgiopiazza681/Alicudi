@@ -1,0 +1,23 @@
+{
+  "symbol": "PMT.MI",
+  "marketCap": 48811595.539598465,
+  "currency": "EUR",
+  "lastPrice": 2.880000114440918,
+  "fiftyTwoWeekLow": 2.0,
+  "fiftyTwoWeekHigh": 3.4600000381469727,
+  "sharesOutstanding": 16948470,
+  "shortName": "PROMOTICA",
+  "longName": "Promotica S.p.A.",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "trailingPE": 11.076924,
+  "forwardPE": 4.8,
+  "priceToBook": 1.9225634,
+  "enterpriseToEbitda": 6.057,
+  "profitMargins": 0.03416,
+  "operatingMargins": 0.08635,
+  "returnOnEquity": 0.17966999,
+  "debtToEquity": 51.021,
+  "totalDebt": 13915336,
+  "dividendYield": 5.03
+}

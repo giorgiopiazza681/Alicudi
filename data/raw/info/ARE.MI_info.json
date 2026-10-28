@@ -1,0 +1,16 @@
+{
+  "symbol": "ARE.MI",
+  "shortName": "Arena Agroindustrie Alimentari S.p.A.",
+  "longName": "Arena Agroindustrie Alimentari S.p.A.",
+  "sector": "Consumer Defensive",
+  "marketCap": 28000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2013-07-15",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -6.670177536225312,
+  "enterpriseToEbitda": 26.58051869393862,
+  "returnOnEquity": -0.1608446004606615,
+  "operatingMargins": -0.1923969469700394,
+  "debtToEquity": 349.1252598521806
+}

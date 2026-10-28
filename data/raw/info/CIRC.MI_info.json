@@ -1,0 +1,23 @@
+{
+  "symbol": "CIRC.MI",
+  "marketCap": 84026713.82122993,
+  "currency": "EUR",
+  "lastPrice": 17.600000381469727,
+  "fiftyTwoWeekLow": 7.460000038146973,
+  "fiftyTwoWeekHigh": 17.399999618530273,
+  "sharesOutstanding": 4774245,
+  "shortName": "CIRCLE",
+  "longName": "Circle S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "trailingPE": 35.91837,
+  "forwardPE": 20.923985,
+  "priceToBook": 5.96206,
+  "profitMargins": 0.11124,
+  "operatingMargins": 0.13916,
+  "returnOnEquity": 0.15503,
+  "debtToEquity": 10.121,
+  "totalDebt": 2152355,
+  "dividendYield": 0.0,
+  "enterpriseToEbitda": 20.8326546
+}

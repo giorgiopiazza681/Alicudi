@@ -1,0 +1,21 @@
+{
+  "symbol": "BAMI.MI",
+  "marketCap": 22430519308.83394,
+  "currency": "EUR",
+  "lastPrice": 14.899999618530273,
+  "fiftyTwoWeekLow": 10.9399995803833,
+  "fiftyTwoWeekHigh": 17.450000762939453,
+  "sharesOutstanding": 1505404019,
+  "shortName": "BANCO BPM",
+  "longName": "Banco BPM S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 11.732284,
+  "forwardPE": 10.428405,
+  "priceToBook": 1.4361446,
+  "profitMargins": 0.36146998,
+  "operatingMargins": 0.61568,
+  "returnOnEquity": 0.12613,
+  "totalDebt": 51835170816,
+  "dividendYield": 6.54
+}

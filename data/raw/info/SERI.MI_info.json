@@ -1,0 +1,23 @@
+{
+  "symbol": "SERI.MI",
+  "marketCap": 123611912.52086449,
+  "currency": "EUR",
+  "lastPrice": 2.2899999618530273,
+  "fiftyTwoWeekLow": 1.7799999713897705,
+  "fiftyTwoWeekHigh": 3.990000009536743,
+  "sharesOutstanding": 53979002,
+  "shortName": "SERI INDUSTRIAL",
+  "longName": "Seri Industrial S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "trailingPE": 8.481481,
+  "forwardPE": 8.357664,
+  "priceToBook": 0.73303455,
+  "enterpriseToEbitda": 9.668,
+  "profitMargins": 0.050970003,
+  "operatingMargins": 0.18031,
+  "returnOnEquity": 0.09770001,
+  "debtToEquity": 179.86,
+  "totalDebt": 306206016,
+  "dividendYield": 0.0
+}

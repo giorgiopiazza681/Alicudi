@@ -1,0 +1,17 @@
+{
+  "symbol": "DTH.MI",
+  "shortName": "Defence Tech Holding S.p.A.",
+  "longName": "Defence Tech Holding S.p.A.",
+  "isin": "IT0005461329",
+  "marketCap": 88000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-11-15",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 12.279904990911717,
+  "enterpriseToEbitda": 8.123583226003097,
+  "returnOnEquity": 0.16559724129137537,
+  "operatingMargins": 0.16379315416762902,
+  "debtToEquity": 49.18236674278742
+}

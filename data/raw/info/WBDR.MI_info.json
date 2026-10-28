@@ -1,0 +1,22 @@
+{
+  "symbol": "WBDR.MI",
+  "marketCap": 8503671863.196888,
+  "currency": "EUR",
+  "lastPrice": 8.600000381469727,
+  "fiftyTwoWeekLow": 7.940000057220459,
+  "fiftyTwoWeekHigh": 12.600000381469727,
+  "sharesOutstanding": 988799010,
+  "shortName": "WEBUILD RSP",
+  "longName": "Webuild S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 34.4,
+  "priceToBook": 4.8423424,
+  "enterpriseToEbitda": 40.213,
+  "profitMargins": 0.01949,
+  "operatingMargins": -0.00122,
+  "returnOnEquity": 0.11915,
+  "debtToEquity": 175.257,
+  "totalDebt": 3327237120,
+  "dividendYield": 2.99
+}

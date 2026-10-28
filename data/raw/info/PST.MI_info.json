@@ -1,0 +1,23 @@
+{
+  "symbol": "PST.MI",
+  "marketCap": 36251841662.396965,
+  "currency": "EUR",
+  "lastPrice": 24.040000915527344,
+  "fiftyTwoWeekLow": 19.280000686645508,
+  "fiftyTwoWeekHigh": 29.479999542236328,
+  "sharesOutstanding": 1507980045,
+  "shortName": "POSTE ITALIANE",
+  "longName": "Poste Italiane S.p.A.",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "trailingPE": 12.994595,
+  "forwardPE": 12.10577,
+  "priceToBook": 2.4241204,
+  "enterpriseToEbitda": 23.596,
+  "profitMargins": 0.16625,
+  "operatingMargins": 0.24350001,
+  "returnOnEquity": 0.18174,
+  "debtToEquity": 631.496,
+  "totalDebt": 87178002432,
+  "dividendYield": 5.04
+}

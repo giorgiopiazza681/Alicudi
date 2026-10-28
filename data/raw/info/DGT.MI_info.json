@@ -1,0 +1,23 @@
+{
+  "symbol": "DGT.MI",
+  "marketCap": 25309448.402471066,
+  "currency": "EUR",
+  "lastPrice": 1.8450000286102295,
+  "fiftyTwoWeekLow": 1.7549999952316284,
+  "fiftyTwoWeekHigh": 2.1700000762939453,
+  "sharesOutstanding": 13717858,
+  "shortName": "DIGITOUCH",
+  "longName": "DigiTouch S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "trailingPE": 12.299999,
+  "forwardPE": 8.273542,
+  "priceToBook": 1.2162163,
+  "enterpriseToEbitda": 4.488,
+  "profitMargins": 0.05198,
+  "operatingMargins": 0.13420999,
+  "returnOnEquity": 0.10912,
+  "debtToEquity": 51.555,
+  "totalDebt": 10743391,
+  "dividendYield": 1.79
+}

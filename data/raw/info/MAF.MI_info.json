@@ -1,0 +1,16 @@
+{
+  "symbol": "MAF.MI",
+  "shortName": "Maffei S.p.A.",
+  "longName": "Maffei S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 110000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2007-11-30",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 12.046271079116964,
+  "enterpriseToEbitda": 6.821794976250391,
+  "returnOnEquity": 0.16675280270139492,
+  "operatingMargins": 0.1496845813923116,
+  "debtToEquity": 58.663474542499245
+}

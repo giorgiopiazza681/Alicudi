@@ -1,0 +1,16 @@
+{
+  "symbol": "LIT.MI",
+  "shortName": "Retelit S.p.A.",
+  "longName": "Retelit S.p.A.",
+  "sector": "Communication Services",
+  "marketCap": 470000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-11-29",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 16.5,
+  "enterpriseToEbitda": 8.1,
+  "returnOnEquity": 0.135,
+  "operatingMargins": 0.18,
+  "debtToEquity": 55.0
+}

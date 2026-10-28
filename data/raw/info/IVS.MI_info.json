@@ -1,0 +1,17 @@
+{
+  "symbol": "IVS.MI",
+  "shortName": "IVS Group S.A.",
+  "longName": "IVS Group S.A.",
+  "isin": "LU0556041001",
+  "marketCap": 325000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-10-30",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Consumer Defensive",
+  "trailingPE": 11.4,
+  "enterpriseToEbitda": 5.6,
+  "returnOnEquity": 0.118,
+  "operatingMargins": 0.092,
+  "debtToEquity": 110.0
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "OSA.MI",
+  "marketCap": 6162025.574,
+  "currency": "EUR",
+  "lastPrice": 0.382,
+  "fiftyTwoWeekLow": 0.38199999928474426,
+  "fiftyTwoWeekHigh": 0.38199999928474426,
+  "sharesOutstanding": 16130957,
+  "shortName": "OSAI AUTOMATION SYSTEM",
+  "longName": "OSAI Automation System S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "priceToBook": 1.5983264,
+  "enterpriseToEbitda": -7.505,
+  "profitMargins": -0.22007999,
+  "operatingMargins": -0.20035,
+  "returnOnEquity": -1.00112,
+  "debtToEquity": 613.892,
+  "totalDebt": 39154000
+}

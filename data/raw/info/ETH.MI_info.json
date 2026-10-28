@@ -1,0 +1,23 @@
+{
+  "symbol": "ETH.MI",
+  "marketCap": 79121605.4630307,
+  "currency": "EUR",
+  "lastPrice": 1.3300000429153442,
+  "fiftyTwoWeekLow": 0.8289999961853027,
+  "fiftyTwoWeekHigh": 1.5579999685287476,
+  "sharesOutstanding": 59489927,
+  "shortName": "EUROTECH",
+  "longName": "Eurotech S.p.A.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "forwardPE": -886.6667,
+  "priceToBook": 1.3366835,
+  "enterpriseToEbitda": -18.22,
+  "profitMargins": -0.101339996,
+  "operatingMargins": -0.064380005,
+  "returnOnEquity": -0.10465,
+  "debtToEquity": 30.782,
+  "totalDebt": 18221000,
+  "dividendYield": 0.0,
+  "trailingPE": -886.6667
+}

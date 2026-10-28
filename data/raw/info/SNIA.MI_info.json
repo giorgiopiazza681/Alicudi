@@ -1,0 +1,16 @@
+{
+  "symbol": "SNIA.MI",
+  "shortName": "Snia S.p.A.",
+  "longName": "Snia S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 48000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2011-01-03",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -5.119238633789485,
+  "enterpriseToEbitda": 16.982883392847373,
+  "returnOnEquity": -0.2664774708425016,
+  "operatingMargins": -0.11668719087343196,
+  "debtToEquity": 324.92024015321056
+}

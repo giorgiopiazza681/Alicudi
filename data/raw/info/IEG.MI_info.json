@@ -1,0 +1,23 @@
+{
+  "symbol": "IEG.MI",
+  "marketCap": 415405538.0518112,
+  "currency": "EUR",
+  "lastPrice": 13.600000381469727,
+  "fiftyTwoWeekLow": 7.519999980926514,
+  "fiftyTwoWeekHigh": 18.149999618530273,
+  "sharesOutstanding": 30544524,
+  "shortName": "ITALIAN EXHIBITION GROUP",
+  "longName": "Italian Exhibition Group S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "trailingPE": 12.363636,
+  "forwardPE": 11.901742,
+  "priceToBook": 2.5231912,
+  "enterpriseToEbitda": 8.423,
+  "profitMargins": 0.12041,
+  "operatingMargins": 0.01948,
+  "returnOnEquity": 0.2321,
+  "debtToEquity": 106.394,
+  "totalDebt": 183187008,
+  "dividendYield": 1.28
+}

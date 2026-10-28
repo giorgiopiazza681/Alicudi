@@ -1,0 +1,23 @@
+{
+  "symbol": "FNM.MI",
+  "marketCap": 187660452.80386853,
+  "currency": "EUR",
+  "lastPrice": 0.43149998784065247,
+  "fiftyTwoWeekLow": 0.4375,
+  "fiftyTwoWeekHigh": 0.546999990940094,
+  "sharesOutstanding": 434902568,
+  "shortName": "FNM",
+  "longName": "FNM S.p.A.",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "trailingPE": 2.8766665,
+  "forwardPE": 2.9621747,
+  "priceToBook": 0.39587155,
+  "enterpriseToEbitda": 4.325,
+  "profitMargins": 0.0748,
+  "operatingMargins": 0.07381,
+  "returnOnEquity": 0.13668,
+  "debtToEquity": 217.802,
+  "totalDebt": 1113044992,
+  "dividendYield": 5.22
+}

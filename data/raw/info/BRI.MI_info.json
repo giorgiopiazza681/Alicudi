@@ -1,0 +1,22 @@
+{
+  "symbol": "BRI.MI",
+  "marketCap": 51264448.16382342,
+  "currency": "EUR",
+  "lastPrice": 0.0658000037074089,
+  "fiftyTwoWeekLow": 0.06019999831914902,
+  "fiftyTwoWeekHigh": 0.08060000091791153,
+  "sharesOutstanding": 779094913,
+  "shortName": "BRIOSCHI",
+  "longName": "Brioschi Sviluppo Immobiliare S.p.A.",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "priceToBook": 0.4666667,
+  "enterpriseToEbitda": 40.247,
+  "profitMargins": 0.29663,
+  "operatingMargins": -0.25404,
+  "returnOnEquity": 0.04978,
+  "debtToEquity": 65.773,
+  "totalDebt": 71972000,
+  "dividendYield": 0.0,
+  "trailingPE": 25.0
+}

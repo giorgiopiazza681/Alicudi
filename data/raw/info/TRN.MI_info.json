@@ -1,0 +1,23 @@
+{
+  "symbol": "TRN.MI",
+  "marketCap": 18141492773.692795,
+  "currency": "EUR",
+  "lastPrice": 9.041999816894531,
+  "fiftyTwoWeekLow": 8.618000030517578,
+  "fiftyTwoWeekHigh": 10.40999984741211,
+  "sharesOutstanding": 2006358454,
+  "shortName": "TERNA",
+  "longName": "Terna S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "trailingPE": 17.729412,
+  "forwardPE": 16.147005,
+  "priceToBook": 3.0506072,
+  "enterpriseToEbitda": 10.99,
+  "profitMargins": 0.26439,
+  "operatingMargins": 0.45148998,
+  "returnOnEquity": 0.13828,
+  "debtToEquity": 172.37,
+  "totalDebt": 14910499840,
+  "dividendYield": 4.33
+}

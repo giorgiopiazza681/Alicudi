@@ -1,0 +1,23 @@
+{
+  "symbol": "SES.MI",
+  "marketCap": 1430924764.5,
+  "currency": "EUR",
+  "lastPrice": 94.5,
+  "fiftyTwoWeekLow": 70.0999984741211,
+  "fiftyTwoWeekHigh": 107.4000015258789,
+  "sharesOutstanding": 15142061,
+  "shortName": "SESA",
+  "longName": "SeSa S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "trailingPE": 17.663551,
+  "forwardPE": 11.076027,
+  "priceToBook": 3.108655,
+  "enterpriseToEbitda": 7.876,
+  "profitMargins": 0.02007,
+  "operatingMargins": 0.04106,
+  "returnOnEquity": 0.15441,
+  "debtToEquity": 102.986,
+  "totalDebt": 563385984,
+  "dividendYield": 1.38
+}

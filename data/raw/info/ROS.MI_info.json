@@ -1,0 +1,16 @@
+{
+  "symbol": "ROS.MI",
+  "shortName": "Rosss S.p.A.",
+  "longName": "Rosss S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 14000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-12-07",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 10.915141597198065,
+  "enterpriseToEbitda": 7.823542692755475,
+  "returnOnEquity": 0.1938217734583474,
+  "operatingMargins": 0.16398165179232715,
+  "debtToEquity": 37.35135418505609
+}

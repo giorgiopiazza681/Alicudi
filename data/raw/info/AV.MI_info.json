@@ -1,0 +1,17 @@
+{
+  "symbol": "AV.MI",
+  "shortName": "Antares Vision S.p.A.",
+  "longName": "Antares Vision S.p.A.",
+  "isin": "IT0005366601",
+  "marketCap": 240000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2026-03-26",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 11.504389388719957,
+  "enterpriseToEbitda": 6.063429719833095,
+  "returnOnEquity": 0.16076516893575898,
+  "operatingMargins": 0.1390252843565703,
+  "debtToEquity": 36.884151654887035
+}

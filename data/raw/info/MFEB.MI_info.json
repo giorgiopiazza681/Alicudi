@@ -1,0 +1,23 @@
+{
+  "symbol": "MFEB.MI",
+  "marketCap": 1991147279.4439135,
+  "currency": "EUR",
+  "lastPrice": 2.8459999561309814,
+  "fiftyTwoWeekLow": 2.8440001010894775,
+  "fiftyTwoWeekHigh": 4.340000152587891,
+  "sharesOutstanding": 699630116,
+  "shortName": "MFE B",
+  "longName": "MFE-Mediaforeurope N.V.",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "trailingPE": 14.978948,
+  "forwardPE": 5.4500194,
+  "priceToBook": 0.5716007,
+  "enterpriseToEbitda": 10.759,
+  "profitMargins": 0.02963,
+  "operatingMargins": 0.03407,
+  "returnOnEquity": 0.055760004,
+  "debtToEquity": 88.622,
+  "totalDebt": 2979899904,
+  "dividendYield": 7.46
+}

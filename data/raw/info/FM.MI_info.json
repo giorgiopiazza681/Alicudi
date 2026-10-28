@@ -1,0 +1,23 @@
+{
+  "symbol": "FM.MI",
+  "marketCap": 515537688.0988207,
+  "currency": "EUR",
+  "lastPrice": 7.21999979019165,
+  "fiftyTwoWeekLow": 6.75,
+  "fiftyTwoWeekHigh": 9.1899995803833,
+  "sharesOutstanding": 71404114,
+  "shortName": "FIERA MILANO",
+  "longName": "Fiera Milano S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "trailingPE": 6.685185,
+  "forwardPE": 10.664697,
+  "priceToBook": 2.615942,
+  "enterpriseToEbitda": 7.9,
+  "profitMargins": 0.17175,
+  "operatingMargins": 0.22734,
+  "returnOnEquity": 0.43511,
+  "debtToEquity": 155.533,
+  "totalDebt": 317619008,
+  "dividendYield": 3.39
+}

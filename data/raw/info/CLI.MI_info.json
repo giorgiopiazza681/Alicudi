@@ -1,0 +1,23 @@
+{
+  "symbol": "CLI.MI",
+  "marketCap": 53047555.18783569,
+  "currency": "EUR",
+  "lastPrice": 4.010000228881836,
+  "fiftyTwoWeekLow": 3.380000114440918,
+  "fiftyTwoWeekHigh": 5.900000095367432,
+  "sharesOutstanding": 13228816,
+  "shortName": "CENTRALE DEL LATTE D'ITALIA",
+  "longName": "Centrale del Latte d'Italia S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "trailingPE": 13.366667,
+  "forwardPE": 5.8115945,
+  "priceToBook": 0.6826694,
+  "enterpriseToEbitda": 5.385,
+  "profitMargins": 0.01199,
+  "operatingMargins": 0.048260003,
+  "returnOnEquity": 0.05325,
+  "debtToEquity": 92.501,
+  "totalDebt": 71876000,
+  "dividendYield": 0.0
+}

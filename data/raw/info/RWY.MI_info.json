@@ -1,0 +1,23 @@
+{
+  "symbol": "RWY.MI",
+  "marketCap": 395808972.9985714,
+  "currency": "EUR",
+  "lastPrice": 10.199999809265137,
+  "fiftyTwoWeekLow": 9.600000381469727,
+  "fiftyTwoWeekHigh": 12.300000190734863,
+  "sharesOutstanding": 38804802,
+  "shortName": "REWAY GROUP",
+  "longName": "Reway Group S.p.A.",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "trailingPE": 18.888887,
+  "forwardPE": 11.37758,
+  "priceToBook": 3.5864978,
+  "enterpriseToEbitda": 9.367,
+  "profitMargins": 0.07285,
+  "operatingMargins": 0.15152,
+  "returnOnEquity": 0.18051,
+  "debtToEquity": 61.591,
+  "totalDebt": 75584000,
+  "dividendYield": 0.0
+}

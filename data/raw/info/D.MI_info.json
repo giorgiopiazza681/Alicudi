@@ -1,0 +1,23 @@
+{
+  "symbol": "D.MI",
+  "marketCap": 149625000.35762787,
+  "currency": "EUR",
+  "lastPrice": 7.980000019073486,
+  "fiftyTwoWeekLow": 4.329999923706055,
+  "fiftyTwoWeekHigh": 8.460000038146973,
+  "sharesOutstanding": 18750000,
+  "shortName": "DIRECTA SIM",
+  "longName": "Directa Sim S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "trailingPE": 11.910447,
+  "forwardPE": 9.731708,
+  "priceToBook": 2.8459344,
+  "profitMargins": 0.25536,
+  "operatingMargins": 0.39521,
+  "returnOnEquity": 0.264,
+  "debtToEquity": 223.093,
+  "totalDebt": 108271608,
+  "dividendYield": 7.5,
+  "enterpriseToEbitda": 6.908059259999999
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "NVP.MI",
+  "shortName": "NVP S.p.A.",
+  "longName": "NVP S.p.A.",
+  "isin": "IT0005390783",
+  "marketCap": 30000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-03-10",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Communication Services",
+  "trailingPE": 11.386334544424418,
+  "enterpriseToEbitda": 7.816819403968251,
+  "returnOnEquity": 0.18484857134931548,
+  "operatingMargins": 0.1569749303722924,
+  "debtToEquity": 30.766656754106354
+}

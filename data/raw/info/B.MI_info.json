@@ -1,0 +1,22 @@
+{
+  "symbol": "B.MI",
+  "marketCap": 134670241.81567097,
+  "currency": "EUR",
+  "lastPrice": 1.2100000381469727,
+  "fiftyTwoWeekLow": 0.7620000243186951,
+  "fiftyTwoWeekHigh": 1.340000033378601,
+  "sharesOutstanding": 111297717,
+  "shortName": "BASTOGI SPA",
+  "longName": "Bastogi S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "trailingPE": 15.125001,
+  "priceToBook": 2.700893,
+  "enterpriseToEbitda": 9.221,
+  "profitMargins": 1.13703,
+  "operatingMargins": -0.23010999,
+  "returnOnEquity": 0.08636,
+  "debtToEquity": 39.882,
+  "totalDebt": 72763000,
+  "dividendYield": 1.08
+}

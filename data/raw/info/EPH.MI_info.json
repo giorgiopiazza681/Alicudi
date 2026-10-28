@@ -1,0 +1,17 @@
+{
+  "marketCap": 6713994.26969707,
+  "symbol": "EPH.MI",
+  "previous_symbol": "EPR.MI",
+  "shortName": "EPH S.p.A. (ex ePRICE)",
+  "isin": "IT0005495400",
+  "status": "DISTRESSED_RENAMED",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed",
+  "sector": "Consumer Cyclical",
+  "trailingPE": -4.0,
+  "enterpriseToEbitda": 28.0,
+  "returnOnEquity": -0.55,
+  "operatingMargins": -0.32,
+  "debtToEquity": 390.0
+}

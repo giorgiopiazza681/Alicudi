@@ -1,0 +1,17 @@
+{
+  "symbol": "BLUE.MI",
+  "shortName": "BFC Media S.p.A.",
+  "longName": "BFC Media S.p.A.",
+  "isin": "IT0005144768",
+  "marketCap": 9500000,
+  "status": "DELISTED_VOLUNTARY",
+  "delisted": true,
+  "delisting_date": "2023-07-21",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Communication Services",
+  "trailingPE": 14.5,
+  "enterpriseToEbitda": 8.41,
+  "returnOnEquity": 0.095,
+  "operatingMargins": 0.07125000000000001,
+  "debtToEquity": 65.0
+}

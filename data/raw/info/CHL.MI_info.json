@@ -1,0 +1,17 @@
+{
+  "symbol": "CHL.MI",
+  "shortName": "CHL S.p.A.",
+  "longName": "CHL S.p.A.",
+  "isin": "IT0001446613",
+  "marketCap": 3500000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2024-10-24",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Consumer Cyclical",
+  "trailingPE": -5.0,
+  "enterpriseToEbitda": 30.0,
+  "returnOnEquity": -0.45,
+  "operatingMargins": -0.28,
+  "debtToEquity": 410.0
+}

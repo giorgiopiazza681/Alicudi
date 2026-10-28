@@ -1,0 +1,16 @@
+{
+  "symbol": "CARR.MI",
+  "shortName": "Carraro S.p.A.",
+  "longName": "Carraro S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 205000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-08-06",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 11.2,
+  "enterpriseToEbitda": 6.5,
+  "returnOnEquity": 0.148,
+  "operatingMargins": 0.082,
+  "debtToEquity": 115.0
+}

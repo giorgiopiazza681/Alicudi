@@ -1,0 +1,23 @@
+{
+  "symbol": "IG.MI",
+  "marketCap": 8207407785.092418,
+  "currency": "EUR",
+  "lastPrice": 8.074000358581543,
+  "fiftyTwoWeekLow": 7.900000095367432,
+  "fiftyTwoWeekHigh": 11.300000190734863,
+  "sharesOutstanding": 1016523089,
+  "shortName": "ITALGAS",
+  "longName": "Italgas S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "trailingPE": 11.873529,
+  "forwardPE": 10.102476,
+  "priceToBook": 2.176867,
+  "enterpriseToEbitda": 9.735,
+  "profitMargins": 0.18702,
+  "operatingMargins": 0.27347,
+  "returnOnEquity": 0.19063,
+  "debtToEquity": 294.061,
+  "totalDebt": 12106724352,
+  "dividendYield": 5.27
+}

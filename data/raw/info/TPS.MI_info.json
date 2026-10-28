@@ -1,0 +1,23 @@
+{
+  "symbol": "TPS.MI",
+  "marketCap": 57839406.29276276,
+  "currency": "EUR",
+  "lastPrice": 8.149999618530273,
+  "fiftyTwoWeekLow": 6.650000095367432,
+  "fiftyTwoWeekHigh": 9.300000190734863,
+  "sharesOutstanding": 7096860,
+  "shortName": "TPS",
+  "longName": "Technical Publications Service S.p.A.",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "trailingPE": 14.0517235,
+  "forwardPE": 11.478873,
+  "priceToBook": 1.5421003,
+  "enterpriseToEbitda": 5.598,
+  "profitMargins": 0.083050005,
+  "operatingMargins": 0.115930006,
+  "returnOnEquity": 0.12196,
+  "debtToEquity": 7.821,
+  "totalDebt": 3110863,
+  "dividendYield": 1.1
+}

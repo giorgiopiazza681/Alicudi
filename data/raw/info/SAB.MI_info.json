@@ -1,0 +1,23 @@
+{
+  "symbol": "SAB.MI",
+  "marketCap": 137974074.45031548,
+  "currency": "EUR",
+  "lastPrice": 11.199999809265137,
+  "fiftyTwoWeekLow": 10.25,
+  "fiftyTwoWeekHigh": 14.699999809265137,
+  "sharesOutstanding": 12319114,
+  "shortName": "SABAF",
+  "longName": "Sabaf S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "forwardPE": 11.393693,
+  "priceToBook": 0.9352818,
+  "enterpriseToEbitda": 6.434,
+  "profitMargins": -0.00356,
+  "operatingMargins": 0.06025,
+  "returnOnEquity": 0.00451,
+  "debtToEquity": 83.327,
+  "totalDebt": 129736000,
+  "dividendYield": 5.18,
+  "trailingPE": 11.393693
+}

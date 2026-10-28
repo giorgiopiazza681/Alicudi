@@ -1,0 +1,23 @@
+{
+  "symbol": "LUVE.MI",
+  "marketCap": 1514472388.4316254,
+  "currency": "EUR",
+  "lastPrice": 68.19999694824219,
+  "fiftyTwoWeekLow": 34.54999923706055,
+  "fiftyTwoWeekHigh": 72.5,
+  "sharesOutstanding": 22206341,
+  "shortName": "LUVE",
+  "longName": "LU-VE S.p.A.",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "trailingPE": 31.2844,
+  "forwardPE": 22.620155,
+  "priceToBook": 5.4757123,
+  "enterpriseToEbitda": 19.947,
+  "profitMargins": 0.07596,
+  "operatingMargins": 0.12023,
+  "returnOnEquity": 0.17798,
+  "debtToEquity": 150.431,
+  "totalDebt": 449808000,
+  "dividendYield": 0.66
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "BRE.MI",
+  "marketCap": 3235208217.270088,
+  "currency": "EUR",
+  "lastPrice": 10.170000076293945,
+  "fiftyTwoWeekLow": 7.255000114440918,
+  "fiftyTwoWeekHigh": 12.050000190734863,
+  "sharesOutstanding": 318112900,
+  "shortName": "BREMBO",
+  "longName": "Brembo N.V.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "trailingPE": 14.125,
+  "forwardPE": 12.013892,
+  "priceToBook": 1.3808554,
+  "enterpriseToEbitda": 7.279,
+  "profitMargins": 0.06112,
+  "operatingMargins": 0.087299995,
+  "returnOnEquity": 0.101330005,
+  "debtToEquity": 58.738,
+  "totalDebt": 1398907008,
+  "dividendYield": 2.92
+}

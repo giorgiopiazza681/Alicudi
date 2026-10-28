@@ -1,0 +1,20 @@
+{
+  "symbol": "FTC.MI",
+  "marketCap": 2976984.948180616,
+  "currency": "EUR",
+  "lastPrice": 0.22599999606609344,
+  "fiftyTwoWeekLow": 0.19200000166893005,
+  "fiftyTwoWeekHigh": 0.40799999237060547,
+  "sharesOutstanding": 13172500,
+  "shortName": "FINANZA.TECH",
+  "longName": "Finanza.tech S.p.A.",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "priceToBook": 0.4131627,
+  "profitMargins": -0.43741,
+  "operatingMargins": 0.07816,
+  "returnOnEquity": -0.29054,
+  "debtToEquity": 33.846,
+  "totalDebt": 1998162,
+  "dividendYield": 0.0
+}

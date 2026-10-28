@@ -1,0 +1,11 @@
+{
+  "symbol": "US.MI",
+  "shortName": "UnipolSai Assicurazioni S.p.A.",
+  "longName": "UnipolSai Assicurazioni S.p.A.",
+  "isin": "IT0004827447",
+  "marketCap": 7500000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-07-03",
+  "data_source": "euronext_encrypted_archive"
+}

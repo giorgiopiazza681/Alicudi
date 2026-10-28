@@ -1,0 +1,23 @@
+{
+  "symbol": "RFG.MI",
+  "marketCap": 137387060.0,
+  "currency": "EUR",
+  "lastPrice": 5.0,
+  "fiftyTwoWeekLow": 4.340000152587891,
+  "fiftyTwoWeekHigh": 5.599999904632568,
+  "sharesOutstanding": 27477412,
+  "shortName": "RACING FORCE",
+  "longName": "Racing Force S.P.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "trailingPE": 19.23077,
+  "forwardPE": 19.011406,
+  "priceToBook": 2.1901007,
+  "enterpriseToEbitda": 14.0,
+  "profitMargins": 0.08853,
+  "operatingMargins": 0.16398,
+  "returnOnEquity": 0.11288,
+  "debtToEquity": 38.607,
+  "totalDebt": 25533812,
+  "dividendYield": 1.87
+}

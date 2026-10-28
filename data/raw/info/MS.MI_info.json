@@ -1,0 +1,22 @@
+{
+  "symbol": "MS.MI",
+  "marketCap": 21042000.0,
+  "currency": "EUR",
+  "lastPrice": 0.7,
+  "fiftyTwoWeekLow": 0.20100000500679016,
+  "fiftyTwoWeekHigh": 2.569999933242798,
+  "sharesOutstanding": 30060000,
+  "shortName": "MISITANO & STRACUZZI",
+  "longName": "Misitano & Stracuzzi S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "forwardPE": -11.864407,
+  "priceToBook": 0.6610009,
+  "enterpriseToEbitda": 17.894,
+  "profitMargins": -0.00283,
+  "operatingMargins": -0.02379,
+  "returnOnEquity": -0.00722,
+  "debtToEquity": 182.052,
+  "totalDebt": 57973824,
+  "dividendYield": 28.28
+}

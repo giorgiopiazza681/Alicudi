@@ -1,0 +1,23 @@
+{
+  "symbol": "FPE.MI",
+  "marketCap": 315978664.0,
+  "currency": "EUR",
+  "lastPrice": 58.0,
+  "fiftyTwoWeekLow": 36.20000076293945,
+  "fiftyTwoWeekHigh": 75.0,
+  "sharesOutstanding": 5447908,
+  "shortName": "FOPE",
+  "longName": "Fope S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "trailingPE": 41.428574,
+  "forwardPE": 17.642853,
+  "priceToBook": 5.482042,
+  "enterpriseToEbitda": 12.477,
+  "profitMargins": 0.13876,
+  "operatingMargins": 0.23235,
+  "returnOnEquity": 0.32015,
+  "debtToEquity": 31.252,
+  "totalDebt": 15120585,
+  "dividendYield": 1.88
+}

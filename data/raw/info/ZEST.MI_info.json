@@ -1,0 +1,17 @@
+{
+  "marketCap": 25737889.805939794,
+  "symbol": "ZEST.MI",
+  "previous_symbol": "LVEN.MI",
+  "shortName": "Zest S.p.A. (ex LVenture / Digital Magics)",
+  "isin": "IT0005013013",
+  "status": "MERGER_RENAMED",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed",
+  "sector": "Financial Services",
+  "trailingPE": 14.5,
+  "enterpriseToEbitda": 8.41,
+  "returnOnEquity": 0.095,
+  "operatingMargins": 0.07125000000000001,
+  "debtToEquity": 65.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "MARE.MI",
+  "marketCap": 112817464.26187992,
+  "currency": "EUR",
+  "lastPrice": 5.199999809265137,
+  "fiftyTwoWeekLow": 3.2200000286102295,
+  "fiftyTwoWeekHigh": 5.519999980926514,
+  "sharesOutstanding": 21695667,
+  "shortName": "MARE ENGINEERING GROUP",
+  "longName": "Mare Group S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "forwardPE": 9.42029,
+  "priceToBook": 2.631579,
+  "profitMargins": -0.06724,
+  "operatingMargins": 0.08185001,
+  "returnOnEquity": -0.11672,
+  "debtToEquity": 186.568,
+  "totalDebt": 70769000,
+  "dividendYield": 0.56,
+  "trailingPE": 9.42029,
+  "enterpriseToEbitda": 5.4637682
+}

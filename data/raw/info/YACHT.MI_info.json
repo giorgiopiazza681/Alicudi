@@ -1,0 +1,23 @@
+{
+  "symbol": "YACHT.MI",
+  "marketCap": 884793685.3169904,
+  "currency": "EUR",
+  "lastPrice": 2.614000082015991,
+  "fiftyTwoWeekLow": 2.609999895095825,
+  "fiftyTwoWeekHigh": 4.388000011444092,
+  "sharesOutstanding": 338482654,
+  "shortName": "FERRETTI",
+  "longName": "Ferretti S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Recreational Vehicles",
+  "trailingPE": 10.456,
+  "forwardPE": 9.944078,
+  "priceToBook": 0.9801275,
+  "enterpriseToEbitda": 4.943,
+  "profitMargins": 0.0647,
+  "operatingMargins": 0.06901,
+  "returnOnEquity": 0.091450006,
+  "debtToEquity": 3.175,
+  "totalDebt": 29900000,
+  "dividendYield": 4.06
+}

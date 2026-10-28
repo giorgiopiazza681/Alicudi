@@ -1,0 +1,17 @@
+{
+  "symbol": "TLS.MI",
+  "shortName": "The Lifestyle Group S.p.A.",
+  "longName": "The Lifestyle Group S.p.A.",
+  "isin": "IT0005523797",
+  "marketCap": 2500000,
+  "status": "DELISTED_REVOKED",
+  "delisted": true,
+  "delisting_date": "2023-12-15",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Consumer Cyclical",
+  "trailingPE": -5.5,
+  "enterpriseToEbitda": 25.0,
+  "returnOnEquity": -0.48,
+  "operatingMargins": -0.35,
+  "debtToEquity": 360.0
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "RETI.MI",
+  "marketCap": 19684620.057940483,
+  "currency": "EUR",
+  "lastPrice": 1.6200000047683716,
+  "fiftyTwoWeekLow": 1.3799999952316284,
+  "fiftyTwoWeekHigh": 1.8899999856948853,
+  "sharesOutstanding": 12151000,
+  "shortName": "RETI",
+  "longName": "Reti S.p.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "trailingPE": 13.5,
+  "priceToBook": 2.0300753,
+  "enterpriseToEbitda": 7.476,
+  "profitMargins": 0.04048,
+  "operatingMargins": 0.05795,
+  "returnOnEquity": 0.15326999,
+  "debtToEquity": 66.079,
+  "totalDebt": 6429632,
+  "dividendYield": 3.64
+}

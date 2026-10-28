@@ -1,0 +1,21 @@
+{
+  "symbol": "ZUC.MI",
+  "marketCap": 10436687.604079127,
+  "currency": "EUR",
+  "lastPrice": 0.41200000047683716,
+  "fiftyTwoWeekLow": 0.4099999964237213,
+  "fiftyTwoWeekHigh": 0.9760000109672546,
+  "sharesOutstanding": 25331766,
+  "shortName": "ZUCCHI",
+  "longName": "Vincenzo Zucchi S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "priceToBook": 0.31741142,
+  "enterpriseToEbitda": 7.33,
+  "profitMargins": -0.16399999,
+  "operatingMargins": 0.062030002,
+  "returnOnEquity": -0.39422,
+  "debtToEquity": 131.581,
+  "totalDebt": 43248000,
+  "dividendYield": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "RPTN.MI",
+  "marketCap": 4950000.0,
+  "currency": "EUR",
+  "lastPrice": 1.5,
+  "fiftyTwoWeekLow": 1.350000023841858,
+  "fiftyTwoWeekHigh": 2.799999952316284,
+  "sharesOutstanding": 3300000,
+  "shortName": "RINO PETINO",
+  "longName": "Rino Petino S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "trailingPE": 30.0,
+  "forwardPE": 5.0,
+  "priceToBook": 1.3204225,
+  "enterpriseToEbitda": 3.737,
+  "profitMargins": 0.00418,
+  "operatingMargins": 0.037469998,
+  "returnOnEquity": 0.04658,
+  "debtToEquity": 195.113,
+  "totalDebt": 7312886,
+  "dividendYield": 0.0
+}

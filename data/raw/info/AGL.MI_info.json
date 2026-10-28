@@ -1,0 +1,11 @@
+{
+  "symbol": "AGL.MI",
+  "shortName": "Autogrill S.p.A.",
+  "longName": "Autogrill S.p.A.",
+  "isin": "IT0001137345",
+  "marketCap": 2600000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-07-24",
+  "data_source": "euronext_encrypted_archive"
+}

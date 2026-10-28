@@ -1,0 +1,22 @@
+{
+  "symbol": "ENY.MI",
+  "marketCap": 6732534.155205339,
+  "currency": "EUR",
+  "lastPrice": 0.12449999898672104,
+  "fiftyTwoWeekLow": 0.14000000059604645,
+  "fiftyTwoWeekHigh": 0.8999999761581421,
+  "sharesOutstanding": 54076580,
+  "shortName": "ENERGY",
+  "longName": "Energy S.p.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "forwardPE": 24.9,
+  "priceToBook": 0.14874552,
+  "enterpriseToEbitda": -2.168,
+  "profitMargins": -0.45189,
+  "operatingMargins": -1.0508599,
+  "returnOnEquity": -0.29659998,
+  "debtToEquity": 32.048,
+  "totalDebt": 10882731,
+  "dividendYield": 0.0
+}

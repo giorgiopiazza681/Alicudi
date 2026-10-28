@@ -1,0 +1,22 @@
+{
+  "symbol": "MTV.MI",
+  "marketCap": 2813953.080913564,
+  "currency": "EUR",
+  "lastPrice": 0.025599999353289604,
+  "fiftyTwoWeekLow": 0.019999999552965164,
+  "fiftyTwoWeekHigh": 0.07039999961853027,
+  "sharesOutstanding": 109920045,
+  "shortName": "MONDO TV",
+  "longName": "Mondo TV S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "forwardPE": 0.32,
+  "priceToBook": -8.533333,
+  "profitMargins": -1.27474,
+  "operatingMargins": -1.15863,
+  "totalDebt": 6054000,
+  "trailingPE": 0.32,
+  "enterpriseToEbitda": 0.1856,
+  "returnOnEquity": 0.095,
+  "debtToEquity": 65.0
+}

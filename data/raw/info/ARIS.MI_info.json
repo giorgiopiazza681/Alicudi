@@ -1,0 +1,23 @@
+{
+  "symbol": "ARIS.MI",
+  "marketCap": 1509730822.2391605,
+  "currency": "EUR",
+  "lastPrice": 4.107999801635742,
+  "fiftyTwoWeekLow": 3.0840001106262207,
+  "fiftyTwoWeekHigh": 5.715000152587891,
+  "sharesOutstanding": 367509955,
+  "shortName": "ARISTON HOLDING",
+  "longName": "Ariston Holding N.V.",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "trailingPE": 13.693332,
+  "forwardPE": 10.1194725,
+  "priceToBook": 0.9200447,
+  "enterpriseToEbitda": 8.884,
+  "profitMargins": 0.03878,
+  "operatingMargins": 0.04612,
+  "returnOnEquity": 0.07351,
+  "debtToEquity": 82.574,
+  "totalDebt": 1272800000,
+  "dividendYield": 2.29
+}

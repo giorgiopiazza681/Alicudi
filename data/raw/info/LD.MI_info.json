@@ -1,0 +1,16 @@
+{
+  "symbol": "LD.MI",
+  "shortName": "La Doria S.p.A.",
+  "longName": "La Doria S.p.A.",
+  "sector": "Consumer Defensive",
+  "marketCap": 490000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-05-27",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 10.8,
+  "enterpriseToEbitda": 6.4,
+  "returnOnEquity": 0.175,
+  "operatingMargins": 0.118,
+  "debtToEquity": 42.0
+}

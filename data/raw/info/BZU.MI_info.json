@@ -1,0 +1,23 @@
+{
+  "symbol": "BZU.MI",
+  "marketCap": 6541521917.28186,
+  "currency": "EUR",
+  "lastPrice": 37.060001373291016,
+  "fiftyTwoWeekLow": 35.529998779296875,
+  "fiftyTwoWeekHigh": 54.75,
+  "sharesOutstanding": 176511648,
+  "shortName": "BUZZI",
+  "longName": "Buzzi S.p.A.",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "trailingPE": 7.785714,
+  "forwardPE": 7.665657,
+  "priceToBook": 0.89842427,
+  "enterpriseToEbitda": 5.221,
+  "profitMargins": 0.18964,
+  "operatingMargins": 0.1397,
+  "returnOnEquity": 0.12303001,
+  "debtToEquity": 6.827,
+  "totalDebt": 501640000,
+  "dividendYield": 1.85
+}

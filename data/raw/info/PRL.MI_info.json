@@ -1,0 +1,17 @@
+{
+  "symbol": "PRL.MI",
+  "shortName": "Pierrel S.p.A.",
+  "longName": "Pierrel S.p.A.",
+  "isin": "IT0005549644",
+  "marketCap": 45000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-01-24",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Healthcare",
+  "trailingPE": 12.6750555173562,
+  "enterpriseToEbitda": 8.301145235303135,
+  "returnOnEquity": 0.14245255785086638,
+  "operatingMargins": 0.16514272876919217,
+  "debtToEquity": 56.72825135095937
+}

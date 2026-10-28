@@ -1,0 +1,23 @@
+{
+  "symbol": "SOM.MI",
+  "marketCap": 175469885.57744598,
+  "currency": "EUR",
+  "lastPrice": 24.100000381469727,
+  "fiftyTwoWeekLow": 12.199999809265137,
+  "fiftyTwoWeekHigh": 27.799999237060547,
+  "sharesOutstanding": 7280908,
+  "shortName": "SOMEC",
+  "longName": "Somec S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 18.828125,
+  "forwardPE": 10.971151,
+  "priceToBook": 7.583386,
+  "enterpriseToEbitda": 7.952,
+  "profitMargins": 0.02572,
+  "operatingMargins": 0.057490002,
+  "returnOnEquity": 0.40937,
+  "debtToEquity": 297.335,
+  "totalDebt": 95608000,
+  "dividendYield": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "BSS.MI",
+  "marketCap": 129312399.34128761,
+  "currency": "EUR",
+  "lastPrice": 4.864999771118164,
+  "fiftyTwoWeekLow": 4.764999866485596,
+  "fiftyTwoWeekHigh": 8.5600004196167,
+  "sharesOutstanding": 26580145,
+  "shortName": "BIESSE",
+  "longName": "Biesse S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "forwardPE": 20.293663,
+  "priceToBook": 0.5716803,
+  "enterpriseToEbitda": 5.139,
+  "profitMargins": -0.0189,
+  "operatingMargins": 0.054029997,
+  "returnOnEquity": -0.052259997,
+  "debtToEquity": 56.75,
+  "totalDebt": 128367000,
+  "dividendYield": 0.0,
+  "trailingPE": 20.293663
+}

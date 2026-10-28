@@ -1,0 +1,23 @@
+{
+  "symbol": "TPRO.MI",
+  "marketCap": 22180661823.900085,
+  "currency": "EUR",
+  "lastPrice": 34.63999938964844,
+  "fiftyTwoWeekLow": 8.595000267028809,
+  "fiftyTwoWeekHigh": 38.58000183105469,
+  "sharesOutstanding": 640319348,
+  "shortName": "TECHNOPROBE",
+  "longName": "Technoprobe S.p.A.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "trailingPE": 108.25,
+  "forwardPE": 42.72587,
+  "priceToBook": 15.970493,
+  "enterpriseToEbitda": 80.069,
+  "profitMargins": 0.26909,
+  "operatingMargins": 0.36738998,
+  "returnOnEquity": 0.15774,
+  "debtToEquity": 1.64,
+  "totalDebt": 22858000,
+  "dividendYield": 0.0
+}

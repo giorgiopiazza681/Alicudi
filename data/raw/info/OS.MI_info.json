@@ -1,0 +1,23 @@
+{
+  "symbol": "OS.MI",
+  "marketCap": 1001447455.0707016,
+  "currency": "EUR",
+  "lastPrice": 57.599998474121094,
+  "fiftyTwoWeekLow": 19.200000762939453,
+  "fiftyTwoWeekHigh": 58.599998474121094,
+  "sharesOutstanding": 17386241,
+  "shortName": "OFFICINA STELLARE",
+  "longName": "Officina Stellare S.p.A.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "forwardPE": 89.49102,
+  "priceToBook": 34.306133,
+  "profitMargins": -0.08135,
+  "operatingMargins": -0.13519,
+  "returnOnEquity": -0.0432,
+  "debtToEquity": 23.843,
+  "totalDebt": 31267608,
+  "dividendYield": 0.0,
+  "trailingPE": 89.49102,
+  "enterpriseToEbitda": 51.9047916
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "CMB.MI",
+  "marketCap": 1467945972.0151825,
+  "currency": "EUR",
+  "lastPrice": 87.30000305175781,
+  "fiftyTwoWeekLow": 56.5,
+  "fiftyTwoWeekHigh": 103.4000015258789,
+  "sharesOutstanding": 16814959,
+  "shortName": "CEMBRE",
+  "longName": "Cembre S.p.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "trailingPE": 27.802547,
+  "forwardPE": 23.63228,
+  "priceToBook": 6.435206,
+  "enterpriseToEbitda": 19.969,
+  "profitMargins": 0.20204,
+  "operatingMargins": 0.27894,
+  "returnOnEquity": 0.24148001,
+  "debtToEquity": 19.385,
+  "totalDebt": 44221000,
+  "dividendYield": 2.35
+}

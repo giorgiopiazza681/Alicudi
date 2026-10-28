@@ -1,0 +1,22 @@
+{
+  "symbol": "ALFO.MI",
+  "marketCap": 2322151.5140756965,
+  "currency": "EUR",
+  "lastPrice": 0.1770000010728836,
+  "fiftyTwoWeekLow": 0.15199999511241913,
+  "fiftyTwoWeekHigh": 0.27799999713897705,
+  "sharesOutstanding": 13119500,
+  "shortName": "ALFONSINO",
+  "longName": "Alfonsino S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "forwardPE": 17.7,
+  "priceToBook": 4.425,
+  "enterpriseToEbitda": 31.601,
+  "profitMargins": -0.0072500003,
+  "operatingMargins": 0.01571,
+  "returnOnEquity": -0.03938,
+  "debtToEquity": 208.74,
+  "totalDebt": 1102989,
+  "dividendYield": 0.0
+}

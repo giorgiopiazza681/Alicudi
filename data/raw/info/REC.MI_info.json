@@ -1,0 +1,23 @@
+{
+  "symbol": "REC.MI",
+  "marketCap": 11024000000.0,
+  "currency": "EUR",
+  "lastPrice": 53.0,
+  "fiftyTwoWeekLow": 43.7599983215332,
+  "fiftyTwoWeekHigh": 54.45000076293945,
+  "sharesOutstanding": 208000000,
+  "shortName": "RECORDATI ORD",
+  "longName": "Recordati Industria Chimica e Farmaceutica S.p.A.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "trailingPE": 22.268906,
+  "forwardPE": 14.090124,
+  "priceToBook": 5.094684,
+  "enterpriseToEbitda": 12.62,
+  "profitMargins": 0.18378,
+  "operatingMargins": 0.29197,
+  "returnOnEquity": 0.24851999,
+  "debtToEquity": 108.586,
+  "totalDebt": 2313564928,
+  "dividendYield": 2.67
+}

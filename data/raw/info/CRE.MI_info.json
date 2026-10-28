@@ -1,0 +1,16 @@
+{
+  "symbol": "CRE.MI",
+  "shortName": "Crespi S.p.A.",
+  "longName": "Crespi S.p.A.",
+  "sector": "Basic Materials",
+  "marketCap": 15000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2014-07-15",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -11.367596901858967,
+  "enterpriseToEbitda": 26.49603033747664,
+  "returnOnEquity": -0.21693990553667758,
+  "operatingMargins": -0.14453554658058343,
+  "debtToEquity": 379.81918450565524
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "FOS.MI",
+  "shortName": "Fos S.p.A.",
+  "longName": "Fos S.p.A.",
+  "isin": "IT0005388217",
+  "marketCap": 26000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-07-16",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 15.591564835951916,
+  "enterpriseToEbitda": 8.087446745415019,
+  "returnOnEquity": 0.14672133582530802,
+  "operatingMargins": 0.1691193882033034,
+  "debtToEquity": 40.03250879582889
+}

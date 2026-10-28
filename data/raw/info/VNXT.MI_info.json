@@ -1,0 +1,22 @@
+{
+  "symbol": "VNXT.MI",
+  "marketCap": 5599110.0,
+  "currency": "EUR",
+  "lastPrice": 2.0,
+  "fiftyTwoWeekLow": 1.2899999618530273,
+  "fiftyTwoWeekHigh": 4.099999904632568,
+  "sharesOutstanding": 2799555,
+  "shortName": "VINEXT",
+  "longName": "Vinext S.p.A.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "trailingPE": 15.384616,
+  "forwardPE": 5.263158,
+  "priceToBook": 4.7169814,
+  "profitMargins": 0.056339998,
+  "operatingMargins": 0.14919,
+  "returnOnEquity": 0.31235,
+  "debtToEquity": 113.477,
+  "totalDebt": 2649970,
+  "dividendYield": 0.0
+}

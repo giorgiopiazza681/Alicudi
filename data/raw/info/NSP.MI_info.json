@@ -1,0 +1,20 @@
+{
+  "symbol": "NSP.MI",
+  "marketCap": 9137665.68,
+  "currency": "EUR",
+  "lastPrice": 0.44,
+  "fiftyTwoWeekLow": 0.4399999976158142,
+  "fiftyTwoWeekHigh": 0.4399999976158142,
+  "sharesOutstanding": 20767422,
+  "shortName": "NEOSPERIENCE",
+  "longName": "Neosperience S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "priceToBook": 0.30704814,
+  "enterpriseToEbitda": 7.955,
+  "profitMargins": -0.01826,
+  "operatingMargins": 0.05371,
+  "returnOnEquity": -0.01885,
+  "debtToEquity": 78.972,
+  "totalDebt": 24935484
+}

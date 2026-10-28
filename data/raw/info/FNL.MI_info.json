@@ -1,0 +1,17 @@
+{
+  "symbol": "FNL.MI",
+  "shortName": "Finlogic S.p.A.",
+  "longName": "Finlogic S.p.A.",
+  "isin": "IT0005256323",
+  "marketCap": 85000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-06-20",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 13.2,
+  "enterpriseToEbitda": 7.1,
+  "returnOnEquity": 0.18,
+  "operatingMargins": 0.142,
+  "debtToEquity": 38.0
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ESIGM.MI",
+  "marketCap": 10350126.875,
+  "currency": "EUR",
+  "lastPrice": 1.375,
+  "fiftyTwoWeekLow": 1.0700000524520874,
+  "fiftyTwoWeekHigh": 1.899999976158142,
+  "sharesOutstanding": 7527365,
+  "shortName": "ESI",
+  "longName": "ESI S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "priceToBook": 2.6041667,
+  "enterpriseToEbitda": 20.652,
+  "profitMargins": -0.00505,
+  "operatingMargins": -0.01125,
+  "returnOnEquity": -0.02387,
+  "debtToEquity": 119.043,
+  "totalDebt": 4738665,
+  "trailingPE": -15.0
+}

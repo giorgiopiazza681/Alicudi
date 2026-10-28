@@ -1,0 +1,17 @@
+{
+  "symbol": "MED.MI",
+  "shortName": "Medica S.p.A.",
+  "longName": "Medica S.p.A.",
+  "isin": "IT0005460149",
+  "marketCap": 68000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-08-14",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Healthcare",
+  "trailingPE": 16.21460171290811,
+  "enterpriseToEbitda": 7.842808103382603,
+  "returnOnEquity": 0.16115707273796978,
+  "operatingMargins": 0.10526118719633475,
+  "debtToEquity": 39.51661690737726
+}

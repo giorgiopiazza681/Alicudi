@@ -1,0 +1,23 @@
+{
+  "symbol": "FILA.MI",
+  "marketCap": 539432216.5455589,
+  "currency": "EUR",
+  "lastPrice": 10.6899995803833,
+  "fiftyTwoWeekLow": 7.71999979019165,
+  "fiftyTwoWeekHigh": 10.960000038146973,
+  "sharesOutstanding": 50461388,
+  "shortName": "FILA",
+  "longName": "F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.",
+  "sector": "Industrials",
+  "industry": "Business Equipment & Supplies",
+  "trailingPE": 8.417322,
+  "forwardPE": 10.3463955,
+  "priceToBook": 0.8538338,
+  "enterpriseToEbitda": 7.879,
+  "profitMargins": 0.10704,
+  "operatingMargins": 0.23915,
+  "returnOnEquity": 0.10983,
+  "debtToEquity": 66.679,
+  "totalDebt": 426622016,
+  "dividendYield": 2.23
+}

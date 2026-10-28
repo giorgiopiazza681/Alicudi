@@ -1,0 +1,23 @@
+{
+  "symbol": "ILP.MI",
+  "marketCap": 101726167.70381927,
+  "currency": "EUR",
+  "lastPrice": 8.449999809265137,
+  "fiftyTwoWeekLow": 5.199999809265137,
+  "fiftyTwoWeekHigh": 9.0,
+  "sharesOutstanding": 12038600,
+  "shortName": "ILPRA",
+  "longName": "ILPRA S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "trailingPE": 14.083332,
+  "forwardPE": 9.184782,
+  "priceToBook": 2.6398,
+  "enterpriseToEbitda": 8.894,
+  "profitMargins": 0.07742,
+  "operatingMargins": 0.10288999,
+  "returnOnEquity": 0.19635001,
+  "debtToEquity": 87.286,
+  "totalDebt": 40650068,
+  "dividendYield": 1.42
+}

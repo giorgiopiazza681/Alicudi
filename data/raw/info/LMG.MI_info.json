@@ -1,0 +1,23 @@
+{
+  "symbol": "LMG.MI",
+  "marketCap": 15152548.516654968,
+  "currency": "EUR",
+  "lastPrice": 1.0199999809265137,
+  "fiftyTwoWeekLow": 0.9350000023841858,
+  "fiftyTwoWeekHigh": 1.4500000476837158,
+  "sharesOutstanding": 14855440,
+  "shortName": "LUCISANO MEDIA GROUP",
+  "longName": "Lucisano Media Group S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "trailingPE": 51.0,
+  "forwardPE": 2.5888324,
+  "priceToBook": 0.28756696,
+  "enterpriseToEbitda": -107.128,
+  "profitMargins": 0.008450001,
+  "operatingMargins": 0.111099996,
+  "returnOnEquity": 0.00411,
+  "debtToEquity": 54.483,
+  "totalDebt": 28618000,
+  "dividendYield": 2.91
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "AUTME.MI",
+  "marketCap": 11637500.0,
+  "currency": "EUR",
+  "lastPrice": 2.66,
+  "fiftyTwoWeekLow": 2.490000009536743,
+  "fiftyTwoWeekHigh": 3.0,
+  "sharesOutstanding": 4375000,
+  "shortName": "AUTOSTRADE MERID",
+  "longName": "Autostrade Meridionali S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 133.0,
+  "priceToBook": 0.63727844,
+  "profitMargins": 0.07569,
+  "operatingMargins": 2.10644,
+  "returnOnEquity": 0.0018099999,
+  "debtToEquity": 6.862,
+  "totalDebt": 1253000,
+  "dividendYield": 0.0
+}

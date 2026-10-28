@@ -1,0 +1,23 @@
+{
+  "symbol": "ASC.MI",
+  "marketCap": 585464383.967102,
+  "currency": "EUR",
+  "lastPrice": 2.7049999237060547,
+  "fiftyTwoWeekLow": 2.5899999141693115,
+  "fiftyTwoWeekHigh": 3.950000047683716,
+  "sharesOutstanding": 216437856,
+  "shortName": "ASCOPIAVE",
+  "longName": "Ascopiave S.p.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "trailingPE": 15.911764,
+  "forwardPE": 13.608693,
+  "priceToBook": 0.6565534,
+  "enterpriseToEbitda": 7.233,
+  "profitMargins": 0.12712,
+  "operatingMargins": 0.19514999,
+  "returnOnEquity": 0.04081,
+  "debtToEquity": 76.032,
+  "totalDebt": 677932032,
+  "dividendYield": 5.86
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "MFEA.MI",
+  "marketCap": 1519478930.6968262,
+  "currency": "EUR",
+  "lastPrice": 2.1679999828338623,
+  "fiftyTwoWeekLow": 2.1480000019073486,
+  "fiftyTwoWeekHigh": 3.2699999809265137,
+  "sharesOutstanding": 700866671,
+  "shortName": "MFE A",
+  "longName": "MFE-Mediaforeurope N.V.",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "trailingPE": 11.410526,
+  "forwardPE": 4.4433513,
+  "priceToBook": 0.4354288,
+  "enterpriseToEbitda": 9.663,
+  "profitMargins": 0.02963,
+  "operatingMargins": 0.03407,
+  "returnOnEquity": 0.055760004,
+  "debtToEquity": 88.622,
+  "totalDebt": 2979899904,
+  "dividendYield": 9.78
+}

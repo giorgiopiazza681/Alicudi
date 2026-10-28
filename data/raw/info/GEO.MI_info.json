@@ -1,0 +1,23 @@
+{
+  "symbol": "GEO.MI",
+  "marketCap": 97035174.61188912,
+  "currency": "EUR",
+  "lastPrice": 0.26499998569488525,
+  "fiftyTwoWeekLow": 0.24400000274181366,
+  "fiftyTwoWeekHigh": 0.359499990940094,
+  "sharesOutstanding": 366170490,
+  "shortName": "GEOX",
+  "longName": "Geox S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "forwardPE": 26.5,
+  "priceToBook": 1.2801932,
+  "enterpriseToEbitda": 36.781,
+  "profitMargins": -0.02654,
+  "operatingMargins": 0.017339999,
+  "returnOnEquity": -0.19634001,
+  "debtToEquity": 395.272,
+  "totalDebt": 299359008,
+  "dividendYield": 0.0,
+  "trailingPE": 26.5
+}

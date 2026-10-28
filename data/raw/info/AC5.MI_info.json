@@ -1,0 +1,11 @@
+{
+  "marketCap": 408520288.3755646,
+  "symbol": "AC5.MI",
+  "previous_symbol": "ACS.MI",
+  "shortName": "Acinque S.p.A. (ex Acsm-Agam)",
+  "isin": "IT0001382024",
+  "status": "MERGER_RENAMED",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed"
+}

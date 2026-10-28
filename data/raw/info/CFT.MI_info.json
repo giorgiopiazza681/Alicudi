@@ -1,0 +1,16 @@
+{
+  "symbol": "CFT.MI",
+  "shortName": "CFT S.p.A.",
+  "longName": "CFT S.p.A.",
+  "sector": "Industrials",
+  "marketCap": 88000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-03-22",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 15.591564835951916,
+  "enterpriseToEbitda": 8.087446745415019,
+  "returnOnEquity": 0.14672133582530802,
+  "operatingMargins": 0.1691193882033034,
+  "debtToEquity": 40.03250879582889
+}

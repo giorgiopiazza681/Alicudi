@@ -1,0 +1,23 @@
+{
+  "symbol": "FCT.MI",
+  "marketCap": 4302949625.264885,
+  "currency": "EUR",
+  "lastPrice": 11.96500015258789,
+  "fiftyTwoWeekLow": 9.618000030517578,
+  "fiftyTwoWeekHigh": 27.3799991607666,
+  "sharesOutstanding": 359628046,
+  "shortName": "FINCANTIERI",
+  "longName": "Fincantieri S.p.A.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "trailingPE": 22.575474,
+  "forwardPE": 14.567835,
+  "priceToBook": 2.6541705,
+  "enterpriseToEbitda": 10.344,
+  "profitMargins": 0.02169,
+  "operatingMargins": 0.049390003,
+  "returnOnEquity": 0.14936,
+  "debtToEquity": 157.274,
+  "totalDebt": 2510167040,
+  "dividendYield": 0.0
+}

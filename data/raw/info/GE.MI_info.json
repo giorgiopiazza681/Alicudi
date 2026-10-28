@@ -1,0 +1,23 @@
+{
+  "symbol": "GE.MI",
+  "marketCap": 168998975.08252144,
+  "currency": "EUR",
+  "lastPrice": 11.899999618530273,
+  "fiftyTwoWeekLow": 9.699999809265137,
+  "fiftyTwoWeekHigh": 13.199999809265137,
+  "sharesOutstanding": 14201595,
+  "shortName": "GEFRAN",
+  "longName": "Gefran S.p.A.",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "trailingPE": 16.760563,
+  "forwardPE": 16.666666,
+  "priceToBook": 1.6461474,
+  "enterpriseToEbitda": 7.43,
+  "profitMargins": 0.07114,
+  "operatingMargins": 0.10556,
+  "returnOnEquity": 0.099530004,
+  "debtToEquity": 17.403,
+  "totalDebt": 17866000,
+  "dividendYield": 3.68
+}

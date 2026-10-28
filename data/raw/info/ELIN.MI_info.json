@@ -1,0 +1,16 @@
+{
+  "symbol": "ELIN.MI",
+  "shortName": "Elettra Investimenti S.p.A.",
+  "longName": "Elettra Investimenti S.p.A.",
+  "sector": "Utilities",
+  "marketCap": 42000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2021-06-04",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 15.441483579086075,
+  "enterpriseToEbitda": 8.324803443398359,
+  "returnOnEquity": 0.1596053875544411,
+  "operatingMargins": 0.14992104200440093,
+  "debtToEquity": 46.458108175061064
+}

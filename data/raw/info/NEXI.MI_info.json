@@ -1,0 +1,22 @@
+{
+  "symbol": "NEXI.MI",
+  "marketCap": 4889188047.032593,
+  "currency": "EUR",
+  "lastPrice": 4.1620001792907715,
+  "fiftyTwoWeekLow": 2.6429998874664307,
+  "fiftyTwoWeekHigh": 5.03000020980835,
+  "sharesOutstanding": 1174720768,
+  "shortName": "NEXI",
+  "longName": "Nexi S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "forwardPE": 6.273836,
+  "priceToBook": 0.71894974,
+  "enterpriseToEbitda": 7.313,
+  "profitMargins": -0.5299,
+  "operatingMargins": 0.11722,
+  "returnOnEquity": -0.3861,
+  "debtToEquity": 86.669,
+  "totalDebt": 5903000064,
+  "dividendYield": 7.21
+}

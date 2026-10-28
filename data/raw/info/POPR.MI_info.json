@@ -1,0 +1,22 @@
+{
+  "symbol": "POPR.MI",
+  "marketCap": 15245440.5,
+  "currency": "EUR",
+  "lastPrice": 0.5,
+  "fiftyTwoWeekLow": 0.414000004529953,
+  "fiftyTwoWeekHigh": 0.6100000143051147,
+  "sharesOutstanding": 30490881,
+  "shortName": "POLIGRAFICI PRINTING",
+  "longName": "Poligrafici Printing S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "trailingPE": 16.666668,
+  "priceToBook": 0.48828122,
+  "enterpriseToEbitda": 8.584,
+  "profitMargins": 0.040999997,
+  "operatingMargins": 0.095869996,
+  "returnOnEquity": 0.02506,
+  "debtToEquity": 23.116,
+  "totalDebt": 7259000,
+  "dividendYield": 3.14
+}

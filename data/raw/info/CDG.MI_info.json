@@ -1,0 +1,23 @@
+{
+  "symbol": "CDG.MI",
+  "marketCap": 73627023.8610394,
+  "currency": "EUR",
+  "lastPrice": 3.549999952316284,
+  "fiftyTwoWeekLow": 1.4700000286102295,
+  "fiftyTwoWeekHigh": 3.5899999141693115,
+  "sharesOutstanding": 20740007,
+  "shortName": "CASTA DIVA GROUP",
+  "longName": "Casta Diva Group S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "forwardPE": 13.653847,
+  "priceToBook": 7.0436506,
+  "profitMargins": 0.00611,
+  "operatingMargins": 0.0458,
+  "returnOnEquity": 0.06921,
+  "debtToEquity": 292.375,
+  "totalDebt": 40397828,
+  "dividendYield": 0.0,
+  "trailingPE": 13.653847,
+  "enterpriseToEbitda": 7.91923126
+}

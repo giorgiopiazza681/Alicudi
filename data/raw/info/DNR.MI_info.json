@@ -1,0 +1,23 @@
+{
+  "symbol": "DNR.MI",
+  "marketCap": 1167651015.375,
+  "currency": "EUR",
+  "lastPrice": 5.875,
+  "fiftyTwoWeekLow": 5.260000228881836,
+  "fiftyTwoWeekHigh": 8.569999694824219,
+  "sharesOutstanding": 198749109,
+  "shortName": "INDUSTRIE DE NORA",
+  "longName": "Industrie De Nora S.p.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "trailingPE": 15.878378,
+  "forwardPE": 13.393671,
+  "priceToBook": 1.1863893,
+  "enterpriseToEbitda": 8.085,
+  "profitMargins": 0.08754,
+  "operatingMargins": 0.16032,
+  "returnOnEquity": 0.07886,
+  "debtToEquity": 17.562,
+  "totalDebt": 175076000,
+  "dividendYield": 1.68
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "BPE.MI",
+  "marketCap": 28298827033.189117,
+  "currency": "EUR",
+  "lastPrice": 13.510000228881836,
+  "fiftyTwoWeekLow": 9.062000274658203,
+  "fiftyTwoWeekHigh": 15.100000381469727,
+  "sharesOutstanding": 2094657776,
+  "shortName": "BPER BANCA",
+  "longName": "BPER Banca SpA",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 12.0625,
+  "forwardPE": 10.391028,
+  "priceToBook": 1.5643817,
+  "profitMargins": 0.31531,
+  "operatingMargins": 0.65733004,
+  "returnOnEquity": 0.15279001,
+  "totalDebt": 43813552128,
+  "dividendYield": 4.7
+}

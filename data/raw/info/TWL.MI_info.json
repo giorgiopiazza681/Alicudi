@@ -1,0 +1,22 @@
+{
+  "symbol": "TWL.MI",
+  "marketCap": 11888311.392162323,
+  "currency": "EUR",
+  "lastPrice": 23.600000381469727,
+  "fiftyTwoWeekLow": 21.649999618530273,
+  "fiftyTwoWeekHigh": 32.0,
+  "sharesOutstanding": 503742,
+  "shortName": "TRAWELL CO",
+  "longName": "TraWell Co S.p.A.",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "forwardPE": 13.333334,
+  "priceToBook": 1.7270399,
+  "enterpriseToEbitda": 3.889,
+  "profitMargins": -0.01402,
+  "operatingMargins": 0.15297,
+  "returnOnEquity": 0.06804,
+  "debtToEquity": 177.07,
+  "totalDebt": 19681204,
+  "dividendYield": 0.0
+}

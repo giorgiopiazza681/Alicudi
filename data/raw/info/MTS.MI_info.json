@@ -1,0 +1,20 @@
+{
+  "symbol": "MTS.MI",
+  "marketCap": 3640103.25,
+  "currency": "EUR",
+  "lastPrice": 1.75,
+  "fiftyTwoWeekLow": 1.2400000095367432,
+  "fiftyTwoWeekHigh": 2.680000066757202,
+  "sharesOutstanding": 2080059,
+  "shortName": "MIT SIM",
+  "longName": "MiT Sim S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "forwardPE": 8.75,
+  "priceToBook": 1.3790386,
+  "profitMargins": -0.11225,
+  "operatingMargins": -0.07295,
+  "returnOnEquity": -0.15988,
+  "debtToEquity": 6.287,
+  "totalDebt": 165938
+}

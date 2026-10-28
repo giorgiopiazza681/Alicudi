@@ -1,0 +1,23 @@
+{
+  "symbol": "NWL.MI",
+  "marketCap": 738706211.4676437,
+  "currency": "EUR",
+  "lastPrice": 17.729999542236328,
+  "fiftyTwoWeekLow": 13.920000076293945,
+  "fiftyTwoWeekHigh": 24.399999618530273,
+  "sharesOutstanding": 41664198,
+  "shortName": "NEWPRINCES",
+  "longName": "NewPrinces S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "trailingPE": 2.2386363,
+  "forwardPE": -175.02467,
+  "priceToBook": 0.95456016,
+  "enterpriseToEbitda": 4.629,
+  "profitMargins": 0.07323,
+  "operatingMargins": 0.01051,
+  "returnOnEquity": 0.52013,
+  "debtToEquity": 175.19,
+  "totalDebt": 1667267968,
+  "dividendYield": 0.0
+}

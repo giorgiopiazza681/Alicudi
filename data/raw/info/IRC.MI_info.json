@@ -1,0 +1,23 @@
+{
+  "symbol": "IRC.MI",
+  "marketCap": 58116081.25963211,
+  "currency": "EUR",
+  "lastPrice": 2.200000047683716,
+  "fiftyTwoWeekLow": 1.8049999475479126,
+  "fiftyTwoWeekHigh": 2.4600000381469727,
+  "sharesOutstanding": 26416400,
+  "shortName": "IRCE",
+  "longName": "IRCE S.p.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "trailingPE": 5.945946,
+  "forwardPE": 5.1044087,
+  "priceToBook": 0.3488741,
+  "enterpriseToEbitda": 6.109,
+  "profitMargins": 0.02424,
+  "operatingMargins": 0.06931,
+  "returnOnEquity": 0.060500003,
+  "debtToEquity": 62.754,
+  "totalDebt": 104341000,
+  "dividendYield": 2.67
+}

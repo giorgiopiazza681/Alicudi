@@ -1,0 +1,23 @@
+{
+  "symbol": "ICOS.MI",
+  "marketCap": 1112153481.823883,
+  "currency": "EUR",
+  "lastPrice": 11.979999542236328,
+  "fiftyTwoWeekLow": 10.579999923706055,
+  "fiftyTwoWeekHigh": 14.4399995803833,
+  "sharesOutstanding": 92834184,
+  "shortName": "INTERCOS",
+  "longName": "Intercos S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "trailingPE": 23.490196,
+  "forwardPE": 14.754602,
+  "priceToBook": 2.3490195,
+  "enterpriseToEbitda": 10.703,
+  "profitMargins": 0.0552,
+  "operatingMargins": 0.0813,
+  "returnOnEquity": 0.12083,
+  "debtToEquity": 54.627,
+  "totalDebt": 262864000,
+  "dividendYield": 1.58
+}

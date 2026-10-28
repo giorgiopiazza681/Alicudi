@@ -1,0 +1,23 @@
+{
+  "symbol": "CY4.MI",
+  "marketCap": 251098711.00188732,
+  "currency": "EUR",
+  "lastPrice": 10.859999656677246,
+  "fiftyTwoWeekLow": 5.730000019073486,
+  "fiftyTwoWeekHigh": 11.800000190734863,
+  "sharesOutstanding": 23121429,
+  "shortName": "CY4GATE",
+  "longName": "Cy4gate S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "forwardPE": 72.61785,
+  "priceToBook": 2.8998666,
+  "enterpriseToEbitda": 25.159,
+  "profitMargins": -0.02804,
+  "operatingMargins": 0.00936,
+  "returnOnEquity": -0.00418,
+  "debtToEquity": 37.75,
+  "totalDebt": 33652732,
+  "dividendYield": 0.0,
+  "trailingPE": 72.61785
+}

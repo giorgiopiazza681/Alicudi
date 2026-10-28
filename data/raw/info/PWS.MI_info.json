@@ -1,0 +1,23 @@
+{
+  "symbol": "PWS.MI",
+  "marketCap": 190139672.45042324,
+  "currency": "EUR",
+  "lastPrice": 14.800000190734863,
+  "fiftyTwoWeekLow": 14.100000381469727,
+  "fiftyTwoWeekHigh": 20.0,
+  "sharesOutstanding": 12847275,
+  "shortName": "POWERSOFT",
+  "longName": "Powersoft S.p.A.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "trailingPE": 21.142859,
+  "forwardPE": 13.399728,
+  "priceToBook": 4.4591746,
+  "enterpriseToEbitda": 10.909,
+  "profitMargins": 0.10411,
+  "operatingMargins": 0.19724001,
+  "returnOnEquity": 0.27302998,
+  "debtToEquity": 145.979,
+  "totalDebt": 54470744,
+  "dividendYield": 5.05
+}

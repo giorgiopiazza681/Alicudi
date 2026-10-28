@@ -1,0 +1,21 @@
+{
+  "symbol": "CE.MI",
+  "marketCap": 6781291113.564878,
+  "currency": "EUR",
+  "lastPrice": 19.940000534057617,
+  "fiftyTwoWeekLow": 12.739999771118164,
+  "fiftyTwoWeekHigh": 21.739999771118164,
+  "sharesOutstanding": 340084801,
+  "shortName": "CREDEM",
+  "longName": "Credito Emiliano S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 12.012049,
+  "forwardPE": 11.675225,
+  "priceToBook": 1.435772,
+  "profitMargins": 0.2953,
+  "operatingMargins": 0.52107,
+  "returnOnEquity": 0.12286,
+  "totalDebt": 8855019520,
+  "dividendYield": 3.58
+}

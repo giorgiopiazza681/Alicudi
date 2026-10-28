@@ -1,0 +1,23 @@
+{
+  "symbol": "WBD.MI",
+  "marketCap": 1870807687.3143268,
+  "currency": "EUR",
+  "lastPrice": 1.8919999599456787,
+  "fiftyTwoWeekLow": 1.8600000143051147,
+  "fiftyTwoWeekHigh": 3.680000066757202,
+  "sharesOutstanding": 988799010,
+  "shortName": "WEBUILD",
+  "longName": "Webuild S.p.A.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "trailingPE": 7.568,
+  "forwardPE": 5.3040285,
+  "priceToBook": 1.0653152,
+  "enterpriseToEbitda": 12.604,
+  "profitMargins": 0.01949,
+  "operatingMargins": -0.00122,
+  "returnOnEquity": 0.11915,
+  "debtToEquity": 175.257,
+  "totalDebt": 3327237120,
+  "dividendYield": 4.13
+}

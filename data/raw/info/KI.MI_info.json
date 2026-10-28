@@ -1,0 +1,17 @@
+{
+  "symbol": "KI.MI",
+  "shortName": "Ki Group S.p.A.",
+  "longName": "Ki Group S.p.A.",
+  "isin": "IT0005504797",
+  "marketCap": 3000000,
+  "status": "DELISTED_REVOKED",
+  "delisted": true,
+  "delisting_date": "2023-09-12",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Consumer Defensive",
+  "trailingPE": -4.5,
+  "enterpriseToEbitda": 28.0,
+  "returnOnEquity": -0.52,
+  "operatingMargins": -0.24,
+  "debtToEquity": 420.0
+}

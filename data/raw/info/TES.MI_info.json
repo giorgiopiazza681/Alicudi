@@ -1,0 +1,23 @@
+{
+  "symbol": "TES.MI",
+  "marketCap": 302077642.65145814,
+  "currency": "EUR",
+  "lastPrice": 0.5019999742507935,
+  "fiftyTwoWeekLow": 0.10920000076293945,
+  "fiftyTwoWeekHigh": 0.5910000205039978,
+  "sharesOutstanding": 601748323,
+  "shortName": "TESMEC",
+  "longName": "Tesmec S.p.A.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "forwardPE": 14.342856,
+  "priceToBook": 3.9841268,
+  "enterpriseToEbitda": 26.057,
+  "profitMargins": 0.022650002,
+  "operatingMargins": 0.08405,
+  "returnOnEquity": 0.033570003,
+  "debtToEquity": 239.065,
+  "totalDebt": 193128992,
+  "dividendYield": 0.0,
+  "trailingPE": 14.342856
+}

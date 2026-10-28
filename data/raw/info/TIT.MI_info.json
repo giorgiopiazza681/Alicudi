@@ -1,0 +1,23 @@
+{
+  "symbol": "TIT.MI",
+  "marketCap": 12451838047.760256,
+  "currency": "EUR",
+  "lastPrice": 5.836999893188477,
+  "fiftyTwoWeekLow": 4.656000137329102,
+  "fiftyTwoWeekHigh": 8.1899995803833,
+  "sharesOutstanding": 2133259941,
+  "shortName": "TELECOM ITALIA",
+  "longName": "Telecom Italia S.p.A.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "trailingPE": 27.795238,
+  "forwardPE": 20.539799,
+  "priceToBook": 1.0771359,
+  "enterpriseToEbitda": 6.772,
+  "profitMargins": 0.01598,
+  "operatingMargins": 0.11981,
+  "returnOnEquity": 0.03897,
+  "debtToEquity": 104.611,
+  "totalDebt": 13523000320,
+  "dividendYield": 0.0
+}

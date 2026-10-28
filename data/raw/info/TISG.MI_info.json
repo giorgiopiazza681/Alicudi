@@ -1,0 +1,23 @@
+{
+  "symbol": "TISG.MI",
+  "marketCap": 59254001.61743164,
+  "currency": "EUR",
+  "lastPrice": 1.1180000305175781,
+  "fiftyTwoWeekLow": 0.7360000014305115,
+  "fiftyTwoWeekHigh": 5.150000095367432,
+  "sharesOutstanding": 53000000,
+  "shortName": "THE ITALIAN SEA GROUP",
+  "longName": "The Italian Sea Group S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "forwardPE": 3.527593,
+  "priceToBook": -0.15266968,
+  "enterpriseToEbitda": -1.763,
+  "profitMargins": -0.59328,
+  "operatingMargins": -7.15592,
+  "totalDebt": 146964000,
+  "dividendYield": 0.0,
+  "trailingPE": 3.527593,
+  "returnOnEquity": 0.095,
+  "debtToEquity": 65.0
+}

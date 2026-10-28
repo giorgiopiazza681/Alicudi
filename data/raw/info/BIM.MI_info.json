@@ -1,0 +1,16 @@
+{
+  "symbol": "BIM.MI",
+  "shortName": "Banca Intermobiliare S.p.A.",
+  "longName": "Banca Intermobiliare S.p.A.",
+  "sector": "Financial Services",
+  "marketCap": 82000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-04-29",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 12.279904990911717,
+  "enterpriseToEbitda": 8.123583226003097,
+  "returnOnEquity": 0.16559724129137537,
+  "operatingMargins": 0.16379315416762902,
+  "debtToEquity": 49.18236674278742
+}

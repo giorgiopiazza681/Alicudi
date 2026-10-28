@@ -1,0 +1,22 @@
+{
+  "symbol": "PINF.MI",
+  "marketCap": 78657879.0,
+  "currency": "EUR",
+  "lastPrice": 1.0,
+  "fiftyTwoWeekLow": 0.7020000219345093,
+  "fiftyTwoWeekHigh": 1.0199999809265137,
+  "sharesOutstanding": 78657879,
+  "shortName": "PININFARINA SPA",
+  "longName": "Pininfarina S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "priceToBook": 2.7777777,
+  "enterpriseToEbitda": -24.567,
+  "profitMargins": -0.06518,
+  "operatingMargins": -0.060560003,
+  "returnOnEquity": -0.20978001,
+  "debtToEquity": 90.931,
+  "totalDebt": 25859000,
+  "dividendYield": 0.0,
+  "trailingPE": -15.0
+}

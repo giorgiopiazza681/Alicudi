@@ -1,0 +1,16 @@
+{
+  "symbol": "MBFG.MI",
+  "shortName": "Mariella Burani Fashion Group S.p.A.",
+  "longName": "Mariella Burani Fashion Group S.p.A.",
+  "sector": "Consumer Cyclical",
+  "marketCap": 140000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2011-05-16",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -8.300353351758506,
+  "enterpriseToEbitda": 16.15319694396355,
+  "returnOnEquity": -0.4482497064204989,
+  "operatingMargins": -0.24126089454481495,
+  "debtToEquity": 283.5081834203072
+}

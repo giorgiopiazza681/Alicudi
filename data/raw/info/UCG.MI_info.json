@@ -1,0 +1,21 @@
+{
+  "symbol": "UCG.MI",
+  "marketCap": 117198110166.56296,
+  "currency": "EUR",
+  "lastPrice": 77.72000122070312,
+  "fiftyTwoWeekLow": 57.36000061035156,
+  "fiftyTwoWeekHigh": 86.41999816894531,
+  "sharesOutstanding": 1507953015,
+  "shortName": "UNICREDIT",
+  "longName": "UniCredit S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "trailingPE": 11.13467,
+  "forwardPE": 9.242621,
+  "priceToBook": 1.6535819,
+  "profitMargins": 0.43967998,
+  "operatingMargins": 0.68882006,
+  "returnOnEquity": 0.15779,
+  "totalDebt": 247794008064,
+  "dividendYield": 3.88
+}

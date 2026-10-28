@@ -1,0 +1,17 @@
+{
+  "symbol": "FNX.MI",
+  "shortName": "Fenix Entertainment S.p.A.",
+  "longName": "Fenix Entertainment S.p.A.",
+  "isin": "IT0005403495",
+  "marketCap": 6000000,
+  "status": "DELISTED_REVOKED",
+  "delisted": true,
+  "delisting_date": "2024-10-03",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Communication Services",
+  "trailingPE": 6.5,
+  "enterpriseToEbitda": 14.0,
+  "returnOnEquity": -0.19,
+  "operatingMargins": -0.11,
+  "debtToEquity": 280.0
+}

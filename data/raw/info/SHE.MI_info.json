@@ -1,0 +1,17 @@
+{
+  "symbol": "SHE.MI",
+  "shortName": "Shedir Pharma Group S.p.A.",
+  "longName": "Shedir Pharma Group S.p.A.",
+  "isin": "IT0005379620",
+  "marketCap": 52000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2025-01-20",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Healthcare",
+  "trailingPE": 11.6,
+  "enterpriseToEbitda": 6.3,
+  "returnOnEquity": 0.188,
+  "operatingMargins": 0.155,
+  "debtToEquity": 29.0
+}

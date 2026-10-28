@@ -1,0 +1,23 @@
+{
+  "symbol": "TIP.MI",
+  "marketCap": 1392384281.3541412,
+  "currency": "EUR",
+  "lastPrice": 8.680000305175781,
+  "fiftyTwoWeekLow": 7.519999980926514,
+  "fiftyTwoWeekHigh": 10.260000228881836,
+  "sharesOutstanding": 160412930,
+  "shortName": "TAMBURI",
+  "longName": "Tamburi Investment Partners S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "trailingPE": 289.33334,
+  "forwardPE": 23.083878,
+  "priceToBook": 1.0090677,
+  "enterpriseToEbitda": -83.602,
+  "profitMargins": 0.08122,
+  "operatingMargins": -1.1710601,
+  "returnOnEquity": -0.008719999,
+  "debtToEquity": 40.98,
+  "totalDebt": 634836352,
+  "dividendYield": 2.94
+}

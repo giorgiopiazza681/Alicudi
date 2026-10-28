@@ -1,0 +1,23 @@
+{
+  "symbol": "LDO.MI",
+  "marketCap": 26535562794.84604,
+  "currency": "EUR",
+  "lastPrice": 46.005001068115234,
+  "fiftyTwoWeekLow": 44.25,
+  "fiftyTwoWeekHigh": 66.26000213623047,
+  "sharesOutstanding": 576797352,
+  "shortName": "LEONARDO",
+  "longName": "Leonardo S.p.a.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "trailingPE": 23.0025,
+  "forwardPE": 16.080212,
+  "priceToBook": 2.7487006,
+  "enterpriseToEbitda": 13.718,
+  "profitMargins": 0.05469,
+  "operatingMargins": 0.07813,
+  "returnOnEquity": 0.11893,
+  "debtToEquity": 41.533,
+  "totalDebt": 4512999936,
+  "dividendYield": 1.33
+}

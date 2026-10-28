@@ -1,0 +1,23 @@
+{
+  "symbol": "LDB.MI",
+  "marketCap": 140119395.0,
+  "currency": "EUR",
+  "lastPrice": 14.75,
+  "fiftyTwoWeekLow": 6.0,
+  "fiftyTwoWeekHigh": 15.100000381469727,
+  "sharesOutstanding": 9499620,
+  "shortName": "LINDBERGH",
+  "longName": "Lindbergh S.p.A.",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "trailingPE": 46.09375,
+  "forwardPE": 34.302326,
+  "priceToBook": 13.007055,
+  "enterpriseToEbitda": 27.954,
+  "profitMargins": 0.08053,
+  "operatingMargins": 0.11771,
+  "returnOnEquity": 0.28334,
+  "debtToEquity": 70.552,
+  "totalDebt": 8567204,
+  "dividendYield": 0.0
+}

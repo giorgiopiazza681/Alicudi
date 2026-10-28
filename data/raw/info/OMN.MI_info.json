@@ -1,0 +1,16 @@
+{
+  "symbol": "OMN.MI",
+  "shortName": "Omnia Network S.p.A.",
+  "longName": "Omnia Network S.p.A.",
+  "sector": "Technology",
+  "marketCap": 18000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2010-06-01",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -7.628537935119655,
+  "enterpriseToEbitda": 19.491852763166538,
+  "returnOnEquity": -0.23641024677975697,
+  "operatingMargins": -0.1474364223357318,
+  "debtToEquity": 314.977816065213
+}

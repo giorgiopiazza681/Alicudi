@@ -1,0 +1,23 @@
+{
+  "symbol": "CPR.MI",
+  "marketCap": 7335299988.331387,
+  "currency": "EUR",
+  "lastPrice": 6.116000175476074,
+  "fiftyTwoWeekLow": 5.27400016784668,
+  "fiftyTwoWeekHigh": 6.820000171661377,
+  "sharesOutstanding": 1199362292,
+  "shortName": "CAMPARI",
+  "longName": "Davide Campari-Milano N.V.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "trailingPE": 40.773335,
+  "forwardPE": 17.398726,
+  "priceToBook": 1.8377404,
+  "enterpriseToEbitda": 14.607,
+  "profitMargins": 0.08873,
+  "operatingMargins": 0.17393999,
+  "returnOnEquity": 0.06676,
+  "debtToEquity": 70.273,
+  "totalDebt": 2806000128,
+  "dividendYield": 1.64
+}

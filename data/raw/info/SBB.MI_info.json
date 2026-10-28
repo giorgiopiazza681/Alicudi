@@ -1,0 +1,17 @@
+{
+  "symbol": "SBB.MI",
+  "shortName": "Sababa Security S.p.A.",
+  "longName": "Sababa Security S.p.A.",
+  "isin": "IT0005468506",
+  "marketCap": 28000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2023-05-23",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Technology",
+  "trailingPE": 14.310393580568608,
+  "enterpriseToEbitda": 6.623347256460124,
+  "returnOnEquity": 0.14863567641354503,
+  "operatingMargins": 0.14843383014277706,
+  "debtToEquity": 69.95510253398537
+}

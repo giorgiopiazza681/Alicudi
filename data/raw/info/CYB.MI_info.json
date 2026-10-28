@@ -1,0 +1,23 @@
+{
+  "symbol": "CYB.MI",
+  "marketCap": 48621716.10794687,
+  "currency": "EUR",
+  "lastPrice": 1.190000057220459,
+  "fiftyTwoWeekLow": 0.8820000290870667,
+  "fiftyTwoWeekHigh": 1.7799999713897705,
+  "sharesOutstanding": 40858583,
+  "shortName": "CYBEROO",
+  "longName": "Cyberoo S.p.A.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "trailingPE": 13.222222,
+  "forwardPE": 10.625,
+  "priceToBook": 1.957237,
+  "enterpriseToEbitda": 7.523,
+  "profitMargins": 0.082329996,
+  "operatingMargins": 0.064770006,
+  "debtToEquity": 25.547,
+  "totalDebt": 6390389,
+  "dividendYield": 0.0,
+  "returnOnEquity": 0.17598167547687377
+}

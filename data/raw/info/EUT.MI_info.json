@@ -1,0 +1,16 @@
+{
+  "symbol": "EUT.MI",
+  "shortName": "Eutelia S.p.A.",
+  "longName": "Eutelia S.p.A.",
+  "sector": "Communication Services",
+  "marketCap": 55000000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2011-12-01",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -6.138541083750873,
+  "enterpriseToEbitda": 25.883320094880986,
+  "returnOnEquity": -0.36460379153343564,
+  "operatingMargins": -0.1391897703685424,
+  "debtToEquity": 273.18900838690223
+}

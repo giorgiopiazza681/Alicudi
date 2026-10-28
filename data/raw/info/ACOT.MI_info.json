@@ -1,0 +1,16 @@
+{
+  "symbol": "ACOT.MI",
+  "shortName": "Acotel Group S.p.A.",
+  "longName": "Acotel Group S.p.A.",
+  "sector": "Technology",
+  "marketCap": 7500000,
+  "status": "DELISTED_BANKRUPTCY",
+  "delisted": true,
+  "delisting_date": "2020-09-18",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": -11.0,
+  "enterpriseToEbitda": 22.0,
+  "returnOnEquity": -0.31,
+  "operatingMargins": -0.25,
+  "debtToEquity": 180.0
+}

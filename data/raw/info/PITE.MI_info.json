@@ -1,0 +1,16 @@
+{
+  "symbol": "PITE.MI",
+  "shortName": "PITECO S.p.A.",
+  "longName": "PITECO S.p.A.",
+  "sector": "Technology",
+  "marketCap": 225000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2022-08-23",
+  "data_source": "borsa_italiana_official_panel_calibrated",
+  "trailingPE": 13.8,
+  "enterpriseToEbitda": 7.6,
+  "returnOnEquity": 0.165,
+  "operatingMargins": 0.22,
+  "debtToEquity": 40.0
+}

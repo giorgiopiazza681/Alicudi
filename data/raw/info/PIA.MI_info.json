@@ -1,0 +1,23 @@
+{
+  "symbol": "PIA.MI",
+  "marketCap": 685253392.4531193,
+  "currency": "EUR",
+  "lastPrice": 1.9479999542236328,
+  "fiftyTwoWeekLow": 1.4359999895095825,
+  "fiftyTwoWeekHigh": 2.1080000400543213,
+  "sharesOutstanding": 351772797,
+  "shortName": "PIAGGIO",
+  "longName": "Piaggio & C. SpA",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "trailingPE": 19.48,
+  "forwardPE": 11.296027,
+  "priceToBook": 1.5863191,
+  "enterpriseToEbitda": 5.501,
+  "profitMargins": 0.02301,
+  "operatingMargins": 0.11304,
+  "returnOnEquity": 0.08153,
+  "debtToEquity": 155.834,
+  "totalDebt": 673134976,
+  "dividendYield": 5.95
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "UNI.MI",
+  "marketCap": 18726250220.47783,
+  "currency": "EUR",
+  "lastPrice": 26.110000610351562,
+  "fiftyTwoWeekLow": 17.7549991607666,
+  "fiftyTwoWeekHigh": 29.440000534057617,
+  "sharesOutstanding": 717206043,
+  "shortName": "UNIPOL",
+  "longName": "Unipol Assicurazioni S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "trailingPE": 10.924686,
+  "forwardPE": 11.51966,
+  "priceToBook": 1.8644674,
+  "enterpriseToEbitda": 6.412,
+  "profitMargins": 0.15332,
+  "operatingMargins": 0.40831003,
+  "returnOnEquity": 0.16938,
+  "debtToEquity": 40.819,
+  "totalDebt": 4822000128,
+  "dividendYield": 4.19
+}

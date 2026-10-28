@@ -1,0 +1,17 @@
+{
+  "marketCap": 336744154.1696625,
+  "symbol": "TFIN.MI",
+  "previous_symbol": "TFI.MI",
+  "shortName": "TREVI - Finanziaria Industriale S.p.A.",
+  "isin": "IT0005422768",
+  "status": "TICKER_CHANGE",
+  "delisted": false,
+  "delisting_date": null,
+  "data_source": "yahoo_finance_renamed",
+  "sector": "Industrials",
+  "trailingPE": 8.4,
+  "enterpriseToEbitda": 11.5,
+  "returnOnEquity": -0.12,
+  "operatingMargins": 0.032,
+  "debtToEquity": 365.0
+}

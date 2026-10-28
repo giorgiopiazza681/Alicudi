@@ -1,0 +1,23 @@
+{
+  "symbol": "ORS.MI",
+  "marketCap": 257394458.4645958,
+  "currency": "EUR",
+  "lastPrice": 15.020000457763672,
+  "fiftyTwoWeekLow": 13.24300479888916,
+  "fiftyTwoWeekHigh": 20.18265724182129,
+  "sharesOutstanding": 17136781,
+  "shortName": "ORSERO",
+  "longName": "Orsero S.p.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "trailingPE": 10.728572,
+  "forwardPE": 8.847525,
+  "priceToBook": 0.92957044,
+  "enterpriseToEbitda": 6.988,
+  "profitMargins": 0.01397,
+  "operatingMargins": 0.03098,
+  "returnOnEquity": 0.09274,
+  "debtToEquity": 84.34,
+  "totalDebt": 234940000,
+  "dividendYield": 3.32
+}

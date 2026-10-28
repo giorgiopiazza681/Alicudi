@@ -1,0 +1,17 @@
+{
+  "symbol": "REN.MI",
+  "shortName": "Renergetica S.p.A.",
+  "longName": "Renergetica S.p.A.",
+  "isin": "IT0005339160",
+  "marketCap": 82000000,
+  "status": "DELISTED_OPA",
+  "delisted": true,
+  "delisting_date": "2024-02-08",
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Utilities",
+  "trailingPE": 14.16754599686304,
+  "enterpriseToEbitda": 7.238649063268694,
+  "returnOnEquity": 0.17527265999472516,
+  "operatingMargins": 0.16642345423656957,
+  "debtToEquity": 32.78533264037729
+}
