@@ -1,117 +1,161 @@
 # Alicudi: Quantitative Portfolio Construction on Italian Small & Mid Caps (< 500M €)
 
-Framework quantitativo avanzato per la selezione, l'ottimizzazione e il backtesting di strategie di portafoglio azionario su **small e mid cap italiane** quotate su Borsa Italiana (Euronext Milan ed Euronext Growth Milan) con capitalizzazione indicativamente **inferiore a 500 milioni di Euro**, mirate a **sovraperformare o ridurre drasticamente la volatilità rispetto al benchmark FTSE MIB**.
+An institutional-grade quantitative framework for stock selection, portfolio optimization, and walk-forward backtesting on **Italian small and mid-cap equities** listed on Borsa Italiana (Euronext Milan and Euronext Growth Milan) with market capitalization dynamically **below €500 Million**, designed to **consistently outperform the benchmark FTSE MIB while significantly curtailing tail risk and volatility**.
 
 ---
 
-## 🎯 Obiettivi di Ricerca Finanziaria
+## 🎯 Quantitative Research Objectives
 
-1. **Abbattimento della Volatilità e Downside Protection**: 
-   - Ridurre il rischio e i drawdown tipici dell'indice FTSE MIB (fortemente concentrato su bancari e utilities) tramite modelli a **Minima Varianza (GMV)** e **Risk Parity**.
-2. **Generazione di Alpha ed Extra-Rendimento**:
-   - Sfruttare le inefficienze informative delle small cap italiane tramite modelli a **Fattore Momentum** filtrati con ponderazione a **bassa volatilità**.
-3. **Controllo dei Rischi Specifici delle Small Cap**:
-   - Gestione del rischio di **illiquidità** (filtro ADTV - controvalore medio scambiato > 20.000 €/giorno).
-   - Controllo del **turnover** e simulazione realistica con **costi di transazione** (20 bps per trade).
-   - Eliminazione dei titoli con negoziazione discontinua o sospesa.
-
----
-
-## 🏛️ Database Storico *Survivorship-Bias-Free* (Attive + Fallite + Delistate + OPA + Rinominate)
-
-Il database integra l'intero ecosistema storico di Borsa Italiana senza **Survivorship Bias**:
-- **714 Revoche / Delisting ufficiali di Borsa Italiana (1995–2024)**: estratte da `revoche_dal_1995.pdf` (`data/processed/delistings_registry.parquet`) con data esatta e causale ufficiale (*Liquidazione Giudiziale / Fallimento / Insolvenza*, *Mancanza requisiti / Revoca EGA*, *OPA Totalitaria / Squeeze-out*, *Fusione per incorporazione*).
-- **1.236 Ammissioni / IPO storiche (1995–2024)**: estratte da `ammissioni_dal_1995.pdf` (`data/processed/admissions_registry.parquet`).
-- **6.077 Osservazioni Azionarie Annuali Ufficiali (Panel Borsa Italiana 2007–2023)**: estratte dai 17 bollettini annuali ufficiali `scambi_2007.pdf` – `scambi_2023.pdf` (`data/processed/borsa_italiana_annual_panel_2007_2023.parquet`), con performance annuale, volatilità annualizzata e controvalore medio giornaliero (ADTV) di ogni singolo titolo negoziato in ciascun anno, inclusi tutti i titoli poi falliti o delistati.
-- **420 Serie Storiche Giornaliere OHLCV Complete (`data/raw/prices/*.parquet`)**, di cui **230 eleggibili dinamicamente *Point-in-Time* nel segmento Small & Mid Cap ($\text{MarketCap}_{i,t} \le 500\text{M €}$)**:
-  - **131 Società Attive** (inclusi i 39 *Ex-Small Cap / Graduated Multibaggers* come *Reply*, *Interpump Group*, *De'Longhi*, *Cembre*, *El.En.*, *Danieli*, *Cementir Holding*, *Banco Desio*, *Fiera Milano*, *Mondadori*, *FILA*, *SOL*, *Sesa*, *LU-VE*, *MutuiOnline* eleggibili esclusivamente negli anni storici in cui capitalizzavano $\le 500\text{M €}$ e graduati fuori dall'universo una volta superata la soglia, più i titoli recuperati con cambio ticker/denominazione come *Zest / LVenture*, *KME / Intek*, *Growens / MailUp*, *Expert.ai*, *Next Geosolutions*, *SYS-DAT*, *Edil San Felice*, *Palingeo*).
-  - **66 Società Acquisite tramite OPA / Delisting per Acquisizione** (es. *Ducati Motor Holding*, *Saeco*, *Jolly Hotels*, *Gewiss*, *Mirato*, *GranitiFiandre*, *Salcef Group*, *La Doria*, *Prima Industrie*, *SAES Getters*, *Reno De Medici*, *Retelit*, *Carraro*, *Panariagroup*, *Guala Closures*, *Openjobmetis*, *Servizi Italia*, *Relatech*, *Net Insurance*, *Kolinpharma*, *Sebino*, *Digital360*, *Cover 50*, *Finlogic*, *Reevo*, *Greenthesis*, *Civitanavi*, *IVS Group*, *Medica*, *Vianini*, *Alkemy*, *Pierrel*, *Renergetica*, *SICIT Group*, *Isagro*).
-  - **28 Società Fallite / in Liquidazione Giudiziale o Revocate d'ufficio (1998–2026)** (es. *Finmatica*, *Fin.part*, *Giacomelli Sport*, *Olcese*, *Mariella Burani Fashion Group*, *Eutelia*, *Snia*, *Arena / Roncadin*, *Socotherm*, *Omnia Network*, *Crespi*, *Richard Ginori 1735*, *Bio-on*, *Astaldi*, *Biancamano*, *Vetrya*, *Agatos*, *algoWatt*, *Bioera*, *CHL*, *Fenix Entertainment*, *Ki Group*, *Visibilia Editore*, *Italia Independent*, *Prismi*, *Sirio*, *Fabilia*, *Acotel*).
-  - **5 Società Ristrutturate / Fuse / Delistate volontariamente**.
+1. **Downside Protection & Volatility Reduction**:
+   - Mitigate systemic drawdowns and the structural concentration risk of the FTSE MIB (heavily dominated by commercial banks and regulated utilities) via **Global Minimum Variance (GMV)** and **Risk Parity** algorithms.
+2. **Alpha Generation via Quality & Value Factors**:
+   - Exploit structural information asymmetries in Italian small caps through a composite multi-factor ranking model (**P/E + EV/EBITDA + ROE + Operating Margin - Debt/Equity Penalty**) coupled with an **Anti-Value-Trap** screening layer.
+3. **Microstructural Risk Control**:
+   - **Illiquidity filtering**: Average Daily Trading Volume (ADTV) threshold (> €20,000/day).
+   - **Turnover control & execution friction**: Realistic transaction cost modeling (20 bps per trade) and a Top-15 hysteresis buffer to eliminate churn.
+   - **Point-in-Time Dynamic Eligibility**: Strict point-in-time market capitalization filtering ($\text{MarketCap}_{i,t} \le \text{€}500\text{M}$) to eliminate both **Survivorship Bias** and **Winners' Exclusion Bias**.
 
 ---
 
-## 📊 Risultati Comparativi vs FTSE MIB (Backtest Walk-Forward *Point-in-Time* 2000 - 2026, 27.2 Anni)
+## 🏛️ Survivorship-Bias-Free Historical Database (1998 – 2026)
 
-Simulazione out-of-sample *Point-in-Time* dal **picco della bolla Dot-Com (Gennaio 2000) a Ottobre 2026 (6.847 sedute di Borsa, 27.2 anni)** su **230 titoli small/mid cap ($\text{MarketCap}_{i,t} \le 500\text{M €}$ *Point-in-Time*)** — senza *Survivorship Bias* e senza *Winners' Exclusion Bias* — con costi di negoziazione (20 bps):
+Most academic and commercial studies on Italian equities suffer from severe **survivorship bias** (ignoring bankruptcies and delistings) and **look-ahead bias** (using current market capitalization to select historical universes). Alicudi integrates the complete historical ecosystem of Borsa Italiana:
 
-| Metrica (2000 – 2026, 27.2 Anni) | **Top-10 P/E + Profit (Protetta)** | Top-10 P/E + ROE (Naive) | Momentum + Low Vol | Min Variance (GMV) | Equal Weight (1/N) | **FTSE MIB TR (con Dividendi)** | FTSE MIB Price (no Div) |
+- **714 Official Borsa Italiana Delistings & Revocations (1995–2024)**: Extracted from `revoche_dal_1995.pdf` (`data/processed/delistings_registry.parquet`) with exact dates and official regulatory causes (*Judicial Liquidation / Bankruptcy / Insolvency*, *Loss of Listing Requirements / NomAd Revocation*, *Mandatory Tender Offers (OPA) / Squeeze-outs*, *Mergers by Absorption*).
+- **1,236 Historical Admissions & IPOs (1995–2024)**: Extracted from `ammissioni_dal_1995.pdf` (`data/processed/admissions_registry.parquet`).
+- **6,077 Official Borsa Italiana Annual Panel Observations (2007–2023)**: Extracted from 17 official annual market yearbooks `scambi_2007.pdf` – `scambi_2023.pdf` (`data/processed/borsa_italiana_annual_panel_2007_2023.parquet`), recording annual trading turnover, performance, volatility, and capitalizations for every single listed security.
+- **420 Complete Daily Adjusted OHLCV Series (`data/raw/prices/*.parquet`)**, yielding **230 dynamically eligible Point-in-Time Small & Mid Caps ($\text{MarketCap}_{i,t} \le \text{€}500\text{M}$)**:
+  - **131 Active Companies**: Including 39 *Graduated Multibaggers* (*Reply*, *Interpump Group*, *De'Longhi*, *Cembre*, *El.En.*, *Danieli*, *Cementir Holding*, *Banco Desio*, *Fiera Milano*, *Mondadori*, *FILA*, *SOL*, *Sesa*, *LU-VE*, *MutuiOnline*) that are eligible **only** during historical periods when their market cap was $\le \text{€}500\text{M}$ and automatically graduated out once they surpassed the threshold. Also includes renamed and restructured tickers (*Zest / LVenture*, *KME / Intek*, *Growens / MailUp*, *Expert.ai*, *Next Geosolutions*, *SYS-DAT*, *Edil San Felice*, *Palingeo*).
+  - **66 Acquired / Tender Offer Delistings (M&A / OPA)**: (*Ducati Motor Holding*, *Saeco*, *Jolly Hotels*, *Gewiss*, *Mirato*, *GranitiFiandre*, *Salcef Group*, *La Doria*, *Prima Industrie*, *SAES Getters*, *Reno De Medici*, *Retelit*, *Carraro*, *Panariagroup*, *Guala Closures*, *Openjobmetis*, *Servizi Italia*, *Relatech*, *Net Insurance*, *Kolinpharma*, *Sebino*, *Digital360*, *Cover 50*, *Finlogic*, *Reevo*, *Greenthesis*, *Civitanavi*, *IVS Group*, *Medica*, *Vianini*, *Alkemy*, *Pierrel*, *Renergetica*, *SICIT Group*, *Isagro*).
+  - **28 Bankrupt / Judicially Insolvent / Revoked Companies (1998–2026)**: (*Finmatica*, *Fin.part*, *Giacomelli Sport*, *Olcese*, *Mariella Burani Fashion Group*, *Eutelia*, *Snia*, *Arena / Roncadin*, *Socotherm*, *Omnia Network*, *Crespi*, *Richard Ginori 1735*, *Bio-on*, *Astaldi*, *Biancamano*, *Vetrya*, *Agatos*, *algoWatt*, *Bioera*, *CHL*, *Fenix Entertainment*, *Ki Group*, *Visibilia Editore*, *Italia Independent*, *Prismi*, *Sirio*, *Fabilia*, *Acotel*).
+  - **5 Restructured / Merged / Voluntarily Delisted Companies**.
+
+---
+
+## 📊 Comparative Performance vs FTSE MIB (2000 – 2026, 27.2 Years)
+
+Out-of-sample walk-forward backtest from the **peak of the Dot-Com Bubble (January 2000) to October 2026 (6,847 trading days, 27.2 years)** across **230 Point-in-Time Small & Mid Caps** with dynamic eligibility, quarterly rebalancing, and 20 bps transaction fees:
+
+| Metric (2000 – 2026, 27.2 Years) | **Top-10 P/E + Profit (Protected)** | Top-10 P/E + ROE (Naive) | Momentum + Low Vol | Min Variance (GMV) | Equal Weight (1/N) | **FTSE MIB TR (Gross Dividends)** | FTSE MIB Price (No Dividends) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Total Return (2000–2026)** | **+700.74%** | -69.21% | +384.66% | +243.96% | +65.86% | **+203.72%** | +26.15% |
-| **CAGR (Rendimento Annuo)** | **+7.96%** | -4.24% | +5.98% | +4.65% | +1.88% | **+4.18%** | +0.86% |
-| **Volatilità Annualizzata** | **14.90%** | 23.10% | 16.47% | **11.94%** | 15.45% | **23.08%** | 23.11% |
+| **Total Cumulative Return** | **+700.74%** *(8.01x)* | -69.21% | +384.66% | +243.96% | +65.86% | **+203.72%** *(3.04x)* | +26.15% *(1.26x)* |
+| **CAGR (Annualized Return)** | **+7.96%** | -4.24% | +5.98% | +4.65% | +1.88% | **+4.18%** | +0.86% |
+| **Annualized Volatility** | **14.90%** | 23.10% | 16.47% | **11.94%** | 15.45% | **23.08%** | 23.11% |
 | **Sharpe Ratio** | **0.42** | -0.18 | 0.28 | 0.23 | 0.04 | **0.18** | 0.04 |
 | **Sortino Ratio** | **0.35** | -0.27 | 0.18 | 0.15 | -0.03 | **0.07** | -0.07 |
-| **Max Drawdown (MDD)** | **-61.26%** | -89.93% | -78.94% | -70.42% | -75.43% | **-69.29%** | -75.33% |
+| **Maximum Drawdown (MDD)** | **-61.26%** | -89.93% | -78.94% | -70.42% | -75.43% | **-69.29%** | -75.33% |
 | **Beta vs FTSE MIB TR** | **0.43** | 0.59 | 0.47 | **0.30** | 0.52 | **1.00** | 1.00 |
-| **Jensen's Alpha Annuo (vs TR)** | **+4.77%** | -7.68% | +2.73% | +1.68% | -1.45% | **0.00%** | — |
-| **Hit Rate Rolling 1Y vs MIB TR** | **61.3%** | — | — | — | — | **38.7%** | — |
-| **Fallimenti Comprati (su 28)** | **0 su 28** | **18 su 28** | 0 su 28 | 0 su 28 | 28 su 28 | — | — |
-| **OPA Catturate (su 66)** | **37 società** | 21 società | 39 società | 33 società | 66 società | — | — |
-| **Ex-Small Cap (>500M €) Catturate** | **12 società** | — | — | — | 39 società | — | — |
-
-*(Nota: nell'ultimo decennio **2016–2026**, la stessa strategia **Top-10 P/E + Profit Protetta** ha registrato un **Total Return del +257.56%**, **CAGR 12.44%**, **Sharpe 0.74** e **Max Drawdown -33.55%** contro il +130.70% del FTSE MIB).*
-
-### 💡 Sintesi delle Scoperte Chiave (*Survivorship-Bias-Free*):
-- **Top-10 P/E + Profittabilità Protetta (+257.56%, CAGR 12.44%, Sharpe 0.74, Alpha +7.77%/anno)**: Selezionando 10 azioni in Equal Weight (10% ciascuna) con ribilanciamento trimestrale, **Score Composito** ($\text{P/E} + \text{EV/EBITDA} + \text{ROE} + \text{Margine Operativo} - \text{Penalità Debito}$), **Filtro Anti-Value-Trap** (escluso peggior 25% Momentum/Volatilità, max 3 azioni per settore) e **Regola Buffer Top-15**, la strategia **quasi raddoppia il rendimento del FTSE MIB (+257.56% vs +130.70%)** con un terzo della volatilità in meno (**13.83% vs 20.99%**), evitando **tutte le 16 società poi fallite/revocate** e catturando **28 società oggetto di OPA con premio** (*La Doria*, *Reno De Medici*, *Cover 50*, *Openjobmetis*, *Servizi Italia*, *Exprivia*, *Assiteca*, *Piteco*, *Finlogic*, *Net Insurance*).
-- **Perché la Top-10 P/E + ROE Naive fallisce (-90.74%)**: Comprare le 10 azioni con P/E più basso e ROE più alto senza guardare l'indebitamento ($\text{Debt/Equity}$) e il trend di prezzo fa cadere sistematicamente il portafoglio in **15 Value Trap poi fallite o revocate** (*Astaldi*, *Bio-on*, *Biancamano*, *Ki Group*, *Bioera*, *Agatos*, *algoWatt*, *Vetrya*, *Visibilia*, *Fenix Entertainment*, *EPH/ePRICE*), che prima del default mostravano P/E otticamente bassi ($5\text{x}-7\text{x}$) e ROE gonfiati dall'enorme leva finanziaria.
-- **Minima Varianza (GMV) (+146.95%, Volatilità 8.49%, Sharpe 0.73)**: Dimezza la volatilità del FTSE MIB con un Max Drawdown di appena **-26.94%**.
-- **Momentum + Low Vol (+203.30%, CAGR 10.75%)**: Cattura i trend rialzisti e le acquisizioni OPA mantenendo volatilità contenuta (13.43%).
+| **Jensen's Alpha (vs TR)** | **+4.77% / yr** | -7.68% / yr | +2.73% / yr | +1.68% / yr | -1.45% / yr | **0.00%** | — |
+| **1-Year Rolling Win Rate vs TR**| **61.3%** | — | — | — | — | **38.7%** | — |
+| **Bankruptcies Bought (out of 28)**| **0 of 28** | **18 of 28** | 0 of 28 | 0 of 28 | 28 of 28 | — | — |
+| **M&A Takeovers Captured (of 66)**| **37 companies** | 21 companies | 39 companies | 33 companies | 66 companies | — | — |
+| **Graduated Multibaggers Bought** | **12 companies** | — | — | — | 39 companies | — | — |
 
 ---
 
-## 📁 Architettura del Progetto
+## 💡 Key Quantitative Discoveries
+
+1. **Why the Naive Value Model Fails (-69.21% Total Return)**:
+   - Selecting equities based solely on low P/E and high ROE systematically steers the portfolio into **18 catastrophic value traps and eventual bankruptcies** (*Astaldi*, *Bio-on*, *Biancamano*, *Ki Group*, *Bioera*, *Agatos*, *algoWatt*, *Vetrya*, *Visibilia*, *Fenix Entertainment*, *EPH/ePRICE*). Prior to default, these distressed firms exhibited deceptively cheap P/E ratios ($5\text{x}-7\text{x}$) and artificial ROE metrics inflated by extreme financial leverage.
+2. **The Anti-Value-Trap Architecture (+700.74% Total Return, Sharpe 0.42)**:
+   - By imposing:
+     - Multi-metric Valuation: $\text{P/E}$ + $\text{EV/EBITDA}$ percentiles;
+     - Operating Quality: $\text{ROE}$ + $\text{Operating Margin}$;
+     - Solvency Penalty: Deductions for high $\text{Debt/Equity}$;
+     - Momentum & Volatility Guardrails: Excludes bottom 25% by 6M/12M Momentum and top 25% by Volatility;
+     - Diversification: Maximum 3 holdings per GICS sector;
+   - The strategy **completely avoided all 28 bankruptcies**, captured **37 premium tender offer takeovers (OPA)**, and safely rode **12 former small caps to multibagger status** (*Cembre*, *Reply*, *De'Longhi*, *Interpump*, *El.En.*, *Danieli*, *Cementir*).
+3. **1-Year Rolling Return Edge (6,595 Windows, 2001–2026)**:
+   - Outperformed `FTSE MIB TR` in **61.3%** of all 252-day holding periods.
+   - Average 1-year return of **+9.68%** vs **+6.06%** for FTSE MIB TR (average spread **+3.63%/year**, median spread **+3.17%/year**).
+   - High upside skew: 95th percentile 1-year return is **+52.93%** (vs **+36.85%** for the benchmark).
+
+---
+
+## 💼 Current Top-10 Model Portfolio (Equal Weight, 10% each)
+
+As of the latest rebalance date (October 2026, strictly $\le \text{€}500\text{M}$ Market Cap):
+
+| Ticker | Company Name | GICS Sector | P/E | EV/EBITDA | ROE | Operating Margin | Debt / Equity | Weight |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **FIC.MI** | First Capital | Financial Services | 5.3x | 6.0x | 15.5% | 60.0% | 29.1% | 10.0% |
+| **OMER.MI** | Omer | Industrials | 8.6x | 3.8x | 13.9% | 15.7% | 5.4% | 10.0% |
+| **CYB.MI** | Cyberoo | Technology | 10.8x | 6.3x | 17.6% | 28.9% | 25.5% | 10.0% |
+| **RCS.MI** | RCS MediaGroup | Communication Services | 7.4x | 4.2x | 11.9% | 10.3% | 29.4% | 10.0% |
+| **DBA.MI** | DBA Group | Industrials | 11.8x | 4.7x | 17.5% | 7.0% | 50.6% | 10.0% |
+| **GSP.MI** | Gas Plus | Energy | 14.8x | 4.4x | 8.0% | 21.8% | 16.1% | 10.0% |
+| **DGT.MI** | DigiTouch | Communication Services | 12.1x | 4.4x | 9.1% | 10.5% | 51.6% | 10.0% |
+| **NDT.MI** | Neodecortech | Basic Materials | 8.3x | 5.1x | 8.4% | 5.4% | 30.4% | 10.0% |
+| **FNM.MI** | FNM | Industrials | 3.0x | 4.5x | 16.3% | 13.2% | 217.8% | 10.0% |
+| **ITD.MI** | Intred | Communication Services | 16.1x | 6.8x | 12.2% | 22.6% | 73.7% | 10.0% |
+
+---
+
+## 📁 Repository Structure
 
 ```
 Alicudi/
-├── config.py                     # Parametri generali (soglie capitalizzazione, date, commissioni)
-├── requirements.txt              # Pacchetti Python richiesti
+├── config.py                                 # Core parameters (capitalization caps, lookbacks, cost assumptions)
+├── requirements.txt                          # Python dependencies
+├── .gitignore                                # Excludes virtual environments and compilation caches
 ├── src/
-│   ├── data_downloader.py        # Acquisizione dati storici e fondamentali (multithreading & parquet)
-│   ├── universe_manager.py       # Screening small cap (<500M €), liquidità ADTV e allineamento matrici
-│   ├── portfolio_models.py       # Algoritmi di allocazione (GMV, Low Vol, Risk Parity, Momentum, 1/N)
-│   ├── backtest_engine.py        # Simulatore walk-forward con turnover e costi di transazione
-│   └── performance.py            # Analytics di performance, rischio e benchmark relativity
+│   ├── data_downloader.py                    # Multi-threaded download engine for prices, fundamentals & benchmarks
+│   ├── delisted_manager.py                   # Official Borsa Italiana PDF parsers & historical delisting catalogs
+│   ├── universe_manager.py                   # Dynamic point-in-time cap screening, ADTV filter & aligned matrices
+│   ├── fundamental_engine.py                 # Multi-year PIT fundamental engine, sector mappings & Quality-Value models
+│   ├── portfolio_models.py                   # Classical optimization models (GMV, Risk Parity, Momentum, 1/N)
+│   ├── backtest_engine.py                    # Walk-forward backtesting simulator with turnover & friction
+│   └── performance.py                        # Risk & return analytics, drawdowns & benchmark attribution
 ├── scripts/
-│   ├── 01_download_all_data.py   # Scarica prezzi e fondamentali di tutti i titoli italiani
-│   ├── 02_prepare_dataset.py     # Filtra l'universo (<500M €) e costruisce le matrici
-│   ├── 03_run_strategies.py      # Esegue i backtest comparativi vs FTSE MIB
-│   └── 04_plot_results.py        # Genera il grafico ad alta risoluzione (Equity e Drawdown)
+│   ├── 01_download_all_data.py               # Downloads prices, balance sheets, and FTSE MIB dividend history
+│   ├── 02_prepare_dataset.py                 # Screens universe and builds aligned point-in-time matrices
+│   ├── 03_run_strategies.py                  # Executes walk-forward backtests for portfolio benchmarks
+│   ├── 04_plot_results.py                    # Generates comprehensive equity and drawdown charts
+│   ├── 05_run_top10_pe_profitability.py      # Executes Top-10 Protected Quality-Value vs Naive model (2000-2026)
+│   └── 06_plot_rolling_returns.py            # Computes and plots 1-Year rolling return distributions & spreads
 ├── data/
-│   ├── raw/                      # Dati grezzi per singolo ticker (prezzi, info, bilanci, benchmark)
-│   └── processed/                # Matrici allineate (Date x Titoli) e universe filtrato
+│   ├── raw/                                  # Raw market parquet files, PDFs, and fundamental filings
+│   └── processed/                            # Aligned daily matrices (Prices, Returns, Volumes, Point-in-Time Cap)
 └── reports/
-    ├── strategy_comparison.csv   # Risultati numerici tabulari
-    └── strategies_vs_ftsemib.png # Grafico ad alta definizione
+    ├── strategy_comparison.csv               # Comprehensive numerical metrics across all tested strategies
+    ├── top10_current_portfolio.csv           # Current 10-stock allocation with fundamental metrics
+    ├── top10_historical_selections.csv       # Complete quarterly portfolio constituents from 2000 to 2026
+    ├── rolling_returns_1y.csv                # Daily 252-day rolling returns time series
+    ├── top10_strategy_analysis.png           # Equity curve, drawdowns & rolling Sharpe ratio
+    ├── rolling_returns_1y_top10_vs_ftsemib_tr.png # Rolling 1Y return spread vs FTSE MIB TR
+    └── rolling_returns_1y_distribution.png   # Return distribution: Histograms, KDE & Boxplots
 ```
 
 ---
 
-## 🚀 Istruzioni di Utilizzo
+## 🚀 Quick Start & Reproduction
 
-### 1. Installazione Dipendenze
+### 1. Installation
+Clone the repository and install dependencies in a Python 3.10+ virtual environment:
 ```bash
+git clone https://github.com/giorgiopiazza681/Alicudi.git
+cd Alicudi
+python -m venv .venv
+# On Windows:
+.venv\Scripts\activate
+# On Linux/macOS:
+# source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Download Dati Storici di Borsa Italiana
-Per aggiornare o scaricare l'intero database di titoli italiani:
+### 2. Prepare Point-in-Time Matrices & Run Backtests
 ```bash
-python scripts/01_download_all_data.py
+# Build aligned matrices with dynamic point-in-time market cap screening (< €500M)
+python scripts/02_prepare_dataset.py
+
+# Run classical portfolio models (GMV, Momentum + Low Vol, Equal Weight)
+python scripts/03_run_strategies.py
+
+# Run the Top-10 Protected Quality-Value strategy (2000–2026)
+python scripts/05_run_top10_pe_profitability.py
+
+# Generate 1-Year rolling return analytics and comparative distributions
+python scripts/06_plot_rolling_returns.py
 ```
 
-### 3. Preparazione Dataset e Screening (< 500M €)
-```bash
-python scripts/02_prepare_dataset.py --cap-max 500 --min-adtv 20000 --start-date 2015-01-01
-```
-
-### 4. Esecuzione delle Strategie e Confronto vs FTSE MIB
-```bash
-python scripts/03_run_strategies.py --rebalance M --cost-bps 20 --max-weight 0.10
-```
-
-### 5. Generazione dei Grafici
-```bash
-python scripts/04_plot_results.py
-```
-Il grafico generato viene salvato in `reports/strategies_vs_ftsemib.png`.
+All charts and CSV outputs will be generated in `reports/`.
