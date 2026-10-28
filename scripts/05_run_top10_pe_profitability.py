@@ -88,7 +88,7 @@ def main():
     )
     res_top10_prot = engine_q.run(
         model=top10_protected_model,
-        strategy_name="Top-10 P/E + Profit (Protetta)",
+        strategy_name="My Strategy",
         returns_matrix=returns_matrix,
         prices_matrix=prices_matrix,
         min_assets=10,
@@ -133,7 +133,7 @@ def main():
 
     all_metrics = {}
     nav_dict = {
-        "Top-10 P/E + Profit (Protetta)": res_top10_prot.nav_series,
+        "My Strategy": res_top10_prot.nav_series,
         "Top-10 P/E + ROE (Naive)": res_top10_naive.nav_series,
         "Momentum + Low Vol": res_mom.nav_series,
         "Min Variance (GMV)": res_gmv.nav_series,
@@ -141,7 +141,7 @@ def main():
     }
 
     for name, res_obj in [
-        ("Top-10 P/E + Profit (Protetta)", res_top10_prot),
+        ("My Strategy", res_top10_prot),
         ("Top-10 P/E + ROE (Naive)", res_top10_naive),
         ("Momentum + Low Vol", res_mom),
         ("Min Variance (GMV)", res_gmv),
@@ -234,56 +234,59 @@ def main():
         if len(bankrupt_picks_naive) > 0:
             print("  -> Value Trap comprate dalla Naive: " + ", ".join(bankrupt_picks_naive))
 
-    # Plot comprehensive visual comparison
-    all_nav = pd.DataFrame(nav_dict).dropna()
-    nav_name_map = {
-        "Top-10 P/E + Profit (Protetta)": "Top-10 P/E + Profit (Protected)",
-        "Top-10 P/E + ROE (Naive)": "Top-10 P/E + ROE (Naive)",
-        "Momentum + Low Vol": "Momentum + Low Vol",
-        "Min Variance (GMV)": "Min Variance (GMV)",
-        "Equal Weight (1/N)": "Equal Weight (1/N)",
-        "FTSE MIB TR (con Dividendi)": "FTSE MIB TR (Gross Dividends)",
-        "FTSE MIB Price (no Div)": "FTSE MIB Price (No Dividends)",
-    }
-    all_nav = all_nav.rename(columns=nav_name_map)
+    # Plot clean visual comparison: ONLY "My Strategy" vs "FTSE MIB TR (Gross Dividends)"
+    bench_sub = benchmark_ret.reindex(res_top10_prot.nav_series.index).dropna()
+    bench_tr_nav = (1.0 + bench_sub).cumprod() * 100.0
+    plot_nav = pd.DataFrame({
+        "My Strategy": res_top10_prot.nav_series,
+        "FTSE MIB TR (Gross Dividends)": bench_tr_nav,
+    }).dropna()
+
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(14, 10), sharex=True, gridspec_kw={"height_ratios": [2.4, 1.2]})
 
     colors = {
-        "Top-10 P/E + Profit (Protected)": "#e31a1c",
-        "Top-10 P/E + ROE (Naive)": "#fb9a99",
-        "Momentum + Low Vol": "#1f77b4",
-        "Min Variance (GMV)": "#2ca02c",
-        "Equal Weight (1/N)": "#9467bd",
+        "My Strategy": "#e31a1c",
         "FTSE MIB TR (Gross Dividends)": "#111111",
-        "FTSE MIB Price (No Dividends)": "#7f7f7f",
     }
 
-    for col in all_nav.columns:
-        lw = 2.8 if "Protected" in col else (2.3 if "FTSE MIB TR" in col or col in ("Momentum + Low Vol", "Min Variance (GMV)") else 1.4)
-        ls = "--" if "FTSE MIB TR" in col else (":" if "FTSE MIB Price" in col else ("-." if "Naive" in col else "-"))
-        ax1.plot(all_nav.index, all_nav[col], label=col, color=colors.get(col, "gray"), linewidth=lw, linestyle=ls)
+    ax1.plot(
+        plot_nav.index,
+        plot_nav["My Strategy"],
+        label="My Strategy (CAGR: +7.96% | Sharpe: 0.42 | Total: +700.74%)",
+        color="#e31a1c",
+        linewidth=2.8,
+    )
+    ax1.plot(
+        plot_nav.index,
+        plot_nav["FTSE MIB TR (Gross Dividends)"],
+        label="FTSE MIB TR (Gross Dividends) (CAGR: +4.18% | Sharpe: 0.18 | Total: +203.72%)",
+        color="#111111",
+        linewidth=2.2,
+        linestyle="--",
+    )
 
     ax1.set_title(
-        "Top-10 Strategy (P/E + Profitability + Anti-Value-Trap) vs. FTSE MIB (2000 - 2026)\n"
-        f"Survivorship-Bias-Free Point-in-Time Small & Mid Cap Universe (< €500M) — {prices_matrix.shape[1]} stocks (incl. bankruptcies & takeovers)",
-        fontsize=13,
+        "My Strategy vs. FTSE MIB Total Return (2000 - 2026)\n"
+        f"Survivorship-Bias-Free Point-in-Time Small & Mid Cap Universe (< €500M) — {prices_matrix.shape[1]} stocks",
+        fontsize=13.5,
         fontweight="bold"
     )
     ax1.set_ylabel("Portfolio Value (Base = 100)", fontsize=12)
     ax1.grid(True, linestyle=":", alpha=0.6)
-    ax1.legend(loc="upper left", frameon=True, fontsize=10)
+    ax1.legend(loc="upper left", frameon=True, fontsize=11)
 
-    for col in all_nav.columns:
-        peak = all_nav[col].cummax()
-        dd = (all_nav[col] - peak) / peak * 100.0
-        lw = 2.4 if "Protected" in col else 1.4
-        ls = "--" if "FTSE MIB" in col else ("-." if "Naive" in col else "-")
-        ax2.plot(all_nav.index, dd, label=col, color=colors.get(col, "gray"), linewidth=lw, linestyle=ls)
+    for col in plot_nav.columns:
+        peak = plot_nav[col].cummax()
+        dd = (plot_nav[col] - peak) / peak * 100.0
+        lw = 2.4 if col == "My Strategy" else 1.8
+        ls = "-" if col == "My Strategy" else "--"
+        ax2.plot(plot_nav.index, dd, label=f"{col} (MDD: {dd.min():.1f}%)", color=colors[col], linewidth=lw, linestyle=ls)
 
     ax2.set_title("Historical Drawdown (%)", fontsize=12, fontweight="bold")
     ax2.set_xlabel("Date", fontsize=12)
     ax2.set_ylabel("Drawdown (%)", fontsize=12)
     ax2.grid(True, linestyle=":", alpha=0.6)
+    ax2.legend(loc="lower left", frameon=True, fontsize=10.5)
 
     plt.tight_layout()
     out_chart1 = config.REPORTS_DIR / "top10_strategy_analysis.png"

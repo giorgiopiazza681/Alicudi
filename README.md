@@ -36,7 +36,7 @@ Most academic and commercial studies on Italian equities suffer from severe **su
 
 Out-of-sample walk-forward backtest from the **peak of the Dot-Com Bubble (January 2000) to October 2026 (6,847 trading days, 27.2 years)** across **230 Point-in-Time Small & Mid Caps** with dynamic eligibility, quarterly rebalancing, and 20 bps transaction fees:
 
-| Metric (2000 – 2026, 27.2 Years) | **Top-10 P/E + Profit (Protected)** | **FTSE MIB TR (Gross Dividends)** | Spread / Advantage |
+| Metric (2000 – 2026, 27.2 Years) | **My Strategy** | **FTSE MIB TR (Gross Dividends)** | Spread / Advantage |
 | :--- | :---: | :---: | :---: |
 | **Total Cumulative Return** | **+700.74%** *(8.01x)* | **+203.72%** *(3.04x)* | **+497.02%** |
 | **CAGR (Annualized Return)** | **+7.96%** | **+4.18%** | **+3.78% / yr** |
@@ -56,12 +56,12 @@ Out-of-sample walk-forward backtest from the **peak of the Dot-Com Bubble (Janua
 ## 📈 Performance Charts & Empirical Visualizations
 
 ### 1. Cumulative Equity Curve & Drawdown Profile (2000 – 2026)
-*Walk-forward out-of-sample portfolio growth (linear & logarithmic scales) alongside historical drawdown dynamics and rolling Sharpe/volatility ratios vs. FTSE MIB TR.*
+*Walk-forward out-of-sample portfolio growth alongside historical drawdown dynamics: My Strategy vs. FTSE MIB TR.*
 
 ![Cumulative Performance and Drawdowns](reports/top10_strategy_analysis.png)
 
 ### 2. 1-Year Rolling Returns & Alpha Spread (6,595 Holding Windows)
-*252-day annual rolling return trajectories comparing Top-10 Protected against FTSE MIB TR, displaying persistent positive outperformance spreads across market regimes.*
+*252-day annual rolling return trajectories comparing My Strategy against FTSE MIB TR, displaying persistent positive outperformance spreads across market regimes.*
 
 ![1-Year Rolling Returns vs FTSE MIB TR](reports/rolling_returns_1y_top10_vs_ftsemib_tr.png)
 
@@ -76,14 +76,14 @@ Out-of-sample walk-forward backtest from the **peak of the Dot-Com Bubble (Janua
 
 1. **Why the Naive Value Model Fails (-69.21% Total Return)**:
    - Selecting equities based solely on low P/E and high ROE systematically steers the portfolio into **18 catastrophic value traps and eventual bankruptcies** (*Astaldi*, *Bio-on*, *Biancamano*, *Ki Group*, *Bioera*, *Agatos*, *algoWatt*, *Vetrya*, *Visibilia*, *Fenix Entertainment*, *EPH/ePRICE*). Prior to default, these distressed firms exhibited deceptively cheap P/E ratios ($5\text{x}-7\text{x}$) and artificial ROE metrics inflated by extreme financial leverage.
-2. **The Anti-Value-Trap Architecture (+700.74% Total Return, Sharpe 0.42)**:
+2. **The Anti-Value-Trap Architecture (My Strategy: +700.74% Total Return, Sharpe 0.42)**:
    - By imposing:
      - Multi-metric Valuation: $\text{P/E}$ + $\text{EV/EBITDA}$ percentiles;
      - Operating Quality: $\text{ROE}$ + $\text{Operating Margin}$;
      - Solvency Penalty: Deductions for high $\text{Debt/Equity}$;
      - Momentum & Volatility Guardrails: Excludes bottom 25% by 6M/12M Momentum and top 25% by Volatility;
      - Diversification: Maximum 3 holdings per GICS sector;
-   - The strategy **completely avoided all 28 bankruptcies**, captured **37 premium tender offer takeovers (OPA)**, and safely rode **12 former small caps to multibagger status** (*Cembre*, *Reply*, *De'Longhi*, *Interpump*, *El.En.*, *Danieli*, *Cementir*).
+   - **My Strategy** completely avoided all 28 bankruptcies, captured **37 premium tender offer takeovers (OPA)**, and safely rode **12 former small caps to multibagger status** (*Cembre*, *Reply*, *De'Longhi*, *Interpump*, *El.En.*, *Danieli*, *Cementir*).
 3. **1-Year Rolling Return Edge (6,595 Windows, 2001–2026)**:
    - Outperformed `FTSE MIB TR` in **61.3%** of all 252-day holding periods.
    - Average 1-year return of **+9.68%** vs **+6.06%** for FTSE MIB TR (average spread **+3.63%/year**, median spread **+3.17%/year**).
@@ -170,7 +170,7 @@ python scripts/02_prepare_dataset.py
 # Run classical portfolio models (GMV, Momentum + Low Vol, Equal Weight)
 python scripts/03_run_strategies.py
 
-# Run the Top-10 Protected Quality-Value strategy (2000–2026)
+# Run My Strategy (2000–2026)
 python scripts/05_run_top10_pe_profitability.py
 
 # Generate 1-Year rolling return analytics and comparative distributions

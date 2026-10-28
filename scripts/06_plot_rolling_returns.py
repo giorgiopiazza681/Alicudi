@@ -63,7 +63,7 @@ def main():
     )
     res_top10 = engine_q.run(
         model=top10_model,
-        strategy_name="Top-10 P/E + Profit (Protetta)",
+        strategy_name="My Strategy",
         returns_matrix=returns_matrix,
         prices_matrix=prices_matrix,
         min_assets=10,
@@ -97,15 +97,15 @@ def main():
     print("STATISTICHE ROLLING RETURNS A 1 ANNO (252 GIORNI DI BORSA, 2001 - 2026)")
     print("=" * 84)
     print(f"Numero finestre rolling 1Y analizzate:        {len(common_idx):,}")
-    print(f"Rendimento Medio 1Y - Top-10 P/E + Profit:    {mean_top10:+.2f}% ( Finestre > 0%: {pos_rate_top10:.1f}% )")
+    print(f"Rendimento Medio 1Y - My Strategy:            {mean_top10:+.2f}% ( Finestre > 0%: {pos_rate_top10:.1f}% )")
     print(f"Rendimento Medio 1Y - FTSE MIB TR (con Div):  {mean_bench:+.2f}% ( Finestre > 0%: {pos_rate_bench:.1f}% )")
     print(f"Extra-Rendimento Medio 1Y (Spread):           {mean_excess:+.2f}% ( Mediana: {median_excess:+.2f}% )")
-    print(f"Hit Rate (% Finestre 1Y in cui Top-10 batte FTSE MIB TR): {win_rate_vs_bench:.1f}%")
+    print(f"Hit Rate (% Finestre 1Y in cui My Strategy batte FTSE MIB TR): {win_rate_vs_bench:.1f}%")
 
     # Save rolling returns CSV
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     roll_df = pd.DataFrame({
-        "Top10_PE_Profit_1Y_Pct": roll_top10,
+        "My_Strategy_1Y_Pct": roll_top10,
         "FTSEMIB_TR_1Y_Pct": roll_bench,
         "Excess_Return_1Y_Pct": excess_1y,
     })
@@ -130,13 +130,13 @@ def main():
     ax1.plot(
         roll_top10.index,
         roll_top10.values,
-        label=f"Top-10 P/E + Profit Protected (1Y Mean: {mean_top10:+.1f}% | Positive Windows: {pos_rate_top10:.1f}%)",
+        label=f"My Strategy (1Y Mean: {mean_top10:+.1f}% | Positive Windows: {pos_rate_top10:.1f}%)",
         color="#e31a1c",
         linewidth=2.2,
     )
 
     ax1.set_title(
-        "1-Year Rolling Returns (252 Trading Days): Top-10 Protected vs. FTSE MIB Total Return (2001 - 2026)",
+        "1-Year Rolling Returns (252 Trading Days): My Strategy vs. FTSE MIB Total Return (2001 - 2026)",
         fontsize=13.5,
         fontweight="bold",
         pad=10,
@@ -145,7 +145,7 @@ def main():
     ax1.grid(True, linestyle=":", alpha=0.6)
     ax1.legend(loc="upper left", frameon=True, fontsize=10.5)
 
-    # Panel 2: Rolling 1Y Excess Return (Spread = Top-10 - FTSE MIB TR)
+    # Panel 2: Rolling 1Y Excess Return (Spread = My Strategy - FTSE MIB TR)
     ax2.axhline(0.0, color="#222222", linewidth=1.1, linestyle="-")
     ax2.axhline(mean_excess, color="#006d2c", linewidth=1.2, linestyle="--", label=f"1Y Mean Spread: {mean_excess:+.2f}%/yr")
     ax2.plot(excess_1y.index, excess_1y.values, color="#1f78b4", linewidth=1.3, alpha=0.9)
@@ -157,7 +157,7 @@ def main():
         color="#2ca02c",
         alpha=0.35,
         interpolate=True,
-        label=f"Top-10 beats FTSE MIB TR ({win_rate_vs_bench:.1f}% of 1Y windows)",
+        label=f"My Strategy beats FTSE MIB TR ({win_rate_vs_bench:.1f}% of 1Y windows)",
     )
     ax2.fill_between(
         excess_1y.index,
@@ -167,11 +167,11 @@ def main():
         color="#d62728",
         alpha=0.30,
         interpolate=True,
-        label=f"FTSE MIB TR beats Top-10 ({100.0 - win_rate_vs_bench:.1f}% of 1Y windows)",
+        label=f"FTSE MIB TR beats My Strategy ({100.0 - win_rate_vs_bench:.1f}% of 1Y windows)",
     )
 
     ax2.set_title(
-        f"1-Year Rolling Excess Return (Top-10 minus FTSE MIB TR) — Win Rate: {win_rate_vs_bench:.1f}%",
+        f"1-Year Rolling Excess Return (My Strategy minus FTSE MIB TR) — Win Rate: {win_rate_vs_bench:.1f}%",
         fontsize=12.5,
         fontweight="bold",
     )
@@ -220,7 +220,7 @@ def main():
         alpha=0.38,
         edgecolor="#99000d",
         linewidth=0.5,
-        label=f"Top-10 P/E + Profit Protected (Mean: {mean_top10:+.2f}% | Median: {roll_top10.median():+.2f}% | Std: {roll_top10.std():.1f}%)",
+        label=f"My Strategy (Mean: {mean_top10:+.2f}% | Median: {roll_top10.median():+.2f}% | Std: {roll_top10.std():.1f}%)",
     )
 
     ax_hist.plot(x_grid, kde_bench, color="#1a1a1a", linewidth=2.2, linestyle="--")
@@ -234,13 +234,13 @@ def main():
 
     ax_hist.axvline(0.0, color="#111111", linewidth=1.3, linestyle="-", alpha=0.8, label="0% Threshold (1-Year Breakeven)")
     ax_hist.axvline(mean_bench, color="#2b2b2b", linewidth=1.8, linestyle=":", label=f"Mean FTSE MIB TR ({mean_bench:+.2f}%)")
-    ax_hist.axvline(mean_top10, color="#e31a1c", linewidth=2.0, linestyle=":", label=f"Mean Top-10 P/E + Profit ({mean_top10:+.2f}%)")
+    ax_hist.axvline(mean_top10, color="#e31a1c", linewidth=2.0, linestyle=":", label=f"Mean My Strategy ({mean_top10:+.2f}%)")
     ax_hist.axvline(p5_bench, color="#636363", linewidth=1.4, linestyle="-.", label=f"5th Percentile (1Y 95% VaR) FTSE MIB TR ({p5_bench:+.1f}%)")
-    ax_hist.axvline(p5_top10, color="#a50f15", linewidth=1.5, linestyle="-.", label=f"5th Percentile (1Y 95% VaR) Top-10 ({p5_top10:+.1f}%)")
+    ax_hist.axvline(p5_top10, color="#a50f15", linewidth=1.5, linestyle="-.", label=f"5th Percentile (1Y 95% VaR) My Strategy ({p5_top10:+.1f}%)")
 
     ax_hist.set_title(
         "Probability Distribution of 1-Year Rolling Returns (6,595 Windows, 2001 - 2026)\n"
-        "Top-10 P/E + Profitability (Protected) vs. FTSE MIB Total Return (Gross Dividends)",
+        "My Strategy vs. FTSE MIB Total Return (Gross Dividends)",
         fontsize=13.5,
         fontweight="bold",
         pad=10,
@@ -268,7 +268,7 @@ def main():
 
     ax_box.axvline(0.0, color="#111111", linewidth=1.2, linestyle="-", alpha=0.8)
     ax_box.set_yticks([1, 2])
-    ax_box.set_yticklabels(["FTSE MIB TR\n(Gross Dividends)", "Top-10 P/E + Profit\n(Protected)"], fontsize=11, fontweight="bold")
+    ax_box.set_yticklabels(["FTSE MIB TR\n(Gross Dividends)", "My Strategy"], fontsize=11, fontweight="bold")
     ax_box.set_title(
         "Boxplot & Quantile Comparison (Box = 25th–75th Percentile | Black Line = Median | Green Dashed = Mean)",
         fontsize=11.5,
