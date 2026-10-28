@@ -36,20 +36,20 @@ Most academic and commercial studies on Italian equities suffer from severe **su
 
 Out-of-sample walk-forward backtest from the **peak of the Dot-Com Bubble (January 2000) to October 2026 (6,847 trading days, 27.2 years)** across **230 Point-in-Time Small & Mid Caps** with dynamic eligibility, quarterly rebalancing, and 20 bps transaction fees:
 
-| Metric (2000 – 2026, 27.2 Years) | **Top-10 P/E + Profit (Protected)** | Top-10 P/E + ROE (Naive) | Momentum + Low Vol | Min Variance (GMV) | Equal Weight (1/N) | **FTSE MIB TR (Gross Dividends)** | FTSE MIB Price (No Dividends) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Total Cumulative Return** | **+700.74%** *(8.01x)* | -69.21% | +384.66% | +243.96% | +65.86% | **+203.72%** *(3.04x)* | +26.15% *(1.26x)* |
-| **CAGR (Annualized Return)** | **+7.96%** | -4.24% | +5.98% | +4.65% | +1.88% | **+4.18%** | +0.86% |
-| **Annualized Volatility** | **14.90%** | 23.10% | 16.47% | **11.94%** | 15.45% | **23.08%** | 23.11% |
-| **Sharpe Ratio** | **0.42** | -0.18 | 0.28 | 0.23 | 0.04 | **0.18** | 0.04 |
-| **Sortino Ratio** | **0.35** | -0.27 | 0.18 | 0.15 | -0.03 | **0.07** | -0.07 |
-| **Maximum Drawdown (MDD)** | **-61.26%** | -89.93% | -78.94% | -70.42% | -75.43% | **-69.29%** | -75.33% |
-| **Beta vs FTSE MIB TR** | **0.43** | 0.59 | 0.47 | **0.30** | 0.52 | **1.00** | 1.00 |
-| **Jensen's Alpha (vs TR)** | **+4.77% / yr** | -7.68% / yr | +2.73% / yr | +1.68% / yr | -1.45% / yr | **0.00%** | — |
-| **1-Year Rolling Win Rate vs TR**| **61.3%** | — | — | — | — | **38.7%** | — |
-| **Bankruptcies Bought (out of 28)**| **0 of 28** | **18 of 28** | 0 of 28 | 0 of 28 | 28 of 28 | — | — |
-| **M&A Takeovers Captured (of 66)**| **37 companies** | 21 companies | 39 companies | 33 companies | 66 companies | — | — |
-| **Graduated Multibaggers Bought** | **12 companies** | — | — | — | 39 companies | — | — |
+| Metric (2000 – 2026, 27.2 Years) | **Top-10 P/E + Profit (Protected)** | **FTSE MIB TR (Gross Dividends)** | Spread / Advantage |
+| :--- | :---: | :---: | :---: |
+| **Total Cumulative Return** | **+700.74%** *(8.01x)* | **+203.72%** *(3.04x)* | **+497.02%** |
+| **CAGR (Annualized Return)** | **+7.96%** | **+4.18%** | **+3.78% / yr** |
+| **Annualized Volatility** | **14.90%** | **23.08%** | **-8.18%** *(35% lower risk)* |
+| **Sharpe Ratio** | **0.42** | **0.18** | **+0.24** *(2.3x higher)* |
+| **Sortino Ratio** | **0.35** | **0.07** | **+0.28** *(5.0x higher)* |
+| **Maximum Drawdown (MDD)** | **-61.26%** | **-69.29%** | **+8.03%** *(reduced drawdown)* |
+| **Beta vs FTSE MIB TR** | **0.43** | **1.00** | **-0.57** *(defensive profile)* |
+| **Jensen's Alpha (vs TR)** | **+4.77% / yr** | **0.00%** | **+4.77% / yr** |
+| **1-Year Rolling Win Rate vs TR** | **61.3%** | **38.7%** | **+22.6%** |
+| **Bankruptcies Bought (out of 28)** | **0 of 28** | — | **0 value traps** |
+| **M&A Takeovers Captured (of 66)** | **37 companies** | — | **+37 premium exits** |
+| **Graduated Multibaggers Bought** | **12 companies** | — | **12 compounders** |
 
 ---
 
