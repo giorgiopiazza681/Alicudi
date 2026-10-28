@@ -53,6 +53,25 @@ Out-of-sample walk-forward backtest from the **peak of the Dot-Com Bubble (Janua
 
 ---
 
+## 📈 Performance Charts & Empirical Visualizations
+
+### 1. Cumulative Equity Curve & Drawdown Profile (2000 – 2026)
+*Walk-forward out-of-sample portfolio growth (linear & logarithmic scales) alongside historical drawdown dynamics and rolling Sharpe/volatility ratios vs. FTSE MIB TR.*
+
+![Cumulative Performance and Drawdowns](reports/top10_strategy_analysis.png)
+
+### 2. 1-Year Rolling Returns & Alpha Spread (6,595 Holding Windows)
+*252-day annual rolling return trajectories comparing Top-10 Protected against FTSE MIB TR, displaying persistent positive outperformance spreads across market regimes.*
+
+![1-Year Rolling Returns vs FTSE MIB TR](reports/rolling_returns_1y_top10_vs_ftsemib_tr.png)
+
+### 3. Empirical Distribution of 1-Year Rolling Returns
+*Kernel Density Estimation (KDE), frequency histograms, and quantile boxplots illustrating significant downside risk reduction and positive right-tail skewness (+70.25% vs +46.46% 99th percentile).*
+
+![1-Year Rolling Return Distributions](reports/rolling_returns_1y_distribution.png)
+
+---
+
 ## 💡 Key Quantitative Discoveries
 
 1. **Why the Naive Value Model Fails (-69.21% Total Return)**:
