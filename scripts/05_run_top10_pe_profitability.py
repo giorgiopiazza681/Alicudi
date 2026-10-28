@@ -236,43 +236,53 @@ def main():
 
     # Plot comprehensive visual comparison
     all_nav = pd.DataFrame(nav_dict).dropna()
+    nav_name_map = {
+        "Top-10 P/E + Profit (Protetta)": "Top-10 P/E + Profit (Protected)",
+        "Top-10 P/E + ROE (Naive)": "Top-10 P/E + ROE (Naive)",
+        "Momentum + Low Vol": "Momentum + Low Vol",
+        "Min Variance (GMV)": "Min Variance (GMV)",
+        "Equal Weight (1/N)": "Equal Weight (1/N)",
+        "FTSE MIB TR (con Dividendi)": "FTSE MIB TR (Gross Dividends)",
+        "FTSE MIB Price (no Div)": "FTSE MIB Price (No Dividends)",
+    }
+    all_nav = all_nav.rename(columns=nav_name_map)
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(14, 10), sharex=True, gridspec_kw={"height_ratios": [2.4, 1.2]})
 
     colors = {
-        "Top-10 P/E + Profit (Protetta)": "#e31a1c",
+        "Top-10 P/E + Profit (Protected)": "#e31a1c",
         "Top-10 P/E + ROE (Naive)": "#fb9a99",
         "Momentum + Low Vol": "#1f77b4",
         "Min Variance (GMV)": "#2ca02c",
         "Equal Weight (1/N)": "#9467bd",
-        "FTSE MIB TR (con Dividendi)": "#111111",
-        "FTSE MIB Price (no Div)": "#7f7f7f",
+        "FTSE MIB TR (Gross Dividends)": "#111111",
+        "FTSE MIB Price (No Dividends)": "#7f7f7f",
     }
 
     for col in all_nav.columns:
-        lw = 2.8 if "Protetta" in col else (2.3 if "FTSE MIB TR" in col or col in ("Momentum + Low Vol", "Min Variance (GMV)") else 1.4)
+        lw = 2.8 if "Protected" in col else (2.3 if "FTSE MIB TR" in col or col in ("Momentum + Low Vol", "Min Variance (GMV)") else 1.4)
         ls = "--" if "FTSE MIB TR" in col else (":" if "FTSE MIB Price" in col else ("-." if "Naive" in col else "-"))
         ax1.plot(all_nav.index, all_nav[col], label=col, color=colors.get(col, "gray"), linewidth=lw, linestyle=ls)
 
     ax1.set_title(
-        "Strategia Top-10 (P/E + Profittabilità + Filtro Anti-Value-Trap) vs FTSE MIB (2000 - 2026)\n"
-        f"Universo Small & Mid Cap (<500M €) Survivorship-Bias-Free ({prices_matrix.shape[1]} società incluse fallite e OPA)",
+        "Top-10 Strategy (P/E + Profitability + Anti-Value-Trap) vs. FTSE MIB (2000 - 2026)\n"
+        f"Survivorship-Bias-Free Point-in-Time Small & Mid Cap Universe (< €500M) — {prices_matrix.shape[1]} stocks (incl. bankruptcies & takeovers)",
         fontsize=13,
         fontweight="bold"
     )
-    ax1.set_ylabel("Valore Portafoglio (Base = 100)", fontsize=12)
+    ax1.set_ylabel("Portfolio Value (Base = 100)", fontsize=12)
     ax1.grid(True, linestyle=":", alpha=0.6)
     ax1.legend(loc="upper left", frameon=True, fontsize=10)
 
     for col in all_nav.columns:
         peak = all_nav[col].cummax()
         dd = (all_nav[col] - peak) / peak * 100.0
-        lw = 2.4 if "Protetta" in col else 1.4
+        lw = 2.4 if "Protected" in col else 1.4
         ls = "--" if "FTSE MIB" in col else ("-." if "Naive" in col else "-")
         ax2.plot(all_nav.index, dd, label=col, color=colors.get(col, "gray"), linewidth=lw, linestyle=ls)
 
-    ax2.set_title("Drawdown Storico (%)", fontsize=12, fontweight="bold")
-    ax2.set_xlabel("Data", fontsize=12)
-    ax2.set_ylabel("Drawdown %", fontsize=12)
+    ax2.set_title("Historical Drawdown (%)", fontsize=12, fontweight="bold")
+    ax2.set_xlabel("Date", fontsize=12)
+    ax2.set_ylabel("Drawdown (%)", fontsize=12)
     ax2.grid(True, linestyle=":", alpha=0.6)
 
     plt.tight_layout()
