@@ -2,13 +2,12 @@
 """
 
 import logging
-from typing import Dict, List, Optional, Tuple, Type
+from typing import Any, List, Optional
 
 import numpy as np
 import pandas as pd
 
 import config
-from src.portfolio_models import PortfolioModel
 
 logger = logging.getLogger(__name__)
 
@@ -62,7 +61,7 @@ class BacktestEngine:
 
     def run(
         self,
-        model: PortfolioModel,
+        model: Any,
         strategy_name: str,
         returns_matrix: pd.DataFrame,
         prices_matrix: pd.DataFrame,
@@ -72,7 +71,7 @@ class BacktestEngine:
         """Executes walk-forward backtest.
 
         Args:
-            model: Instance of PortfolioModel.
+            model: Portfolio strategy model implementing `calculate_weights(returns_window)`.
             strategy_name: Label for reports.
             returns_matrix: Synchronized matrix of daily returns.
             prices_matrix: Synchronized matrix of adjusted prices.

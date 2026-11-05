@@ -29,7 +29,6 @@ import pandas as pd
 import yfinance as yf
 
 import config
-from src.portfolio_models import PortfolioModel
 
 logger = logging.getLogger(__name__)
 
@@ -497,9 +496,35 @@ class FundamentalEngine:
             "metadata": meta_df,
         }
 
+    def load_or_build_pit_matrices(
+        self,
+        prices_matrix: pd.DataFrame,
+        returns_matrix: pd.DataFrame,
+        reporting_lag_days: int = 90,
+    ) -> Dict[str, pd.DataFrame]:
+        """Loads cached PIT fundamental matrices if aligned with `prices_matrix`, otherwise builds them."""
+        pe_path = self.pit_dir / "pe_matrix.parquet"
+        meta_path = self.pit_dir / "fundamental_metadata.parquet"
+        if pe_path.exists() and meta_path.exists():
+            pe_df = pd.read_parquet(pe_path)
+            if pe_df.shape[1] == prices_matrix.shape[1]:
+                return {
+                    "pe": pe_df,
+                    "ev_ebitda": pd.read_parquet(self.pit_dir / "ev_ebitda_matrix.parquet"),
+                    "roe": pd.read_parquet(self.pit_dir / "roe_matrix.parquet"),
+                    "op_margin": pd.read_parquet(self.pit_dir / "op_margin_matrix.parquet"),
+                    "debt_equity": pd.read_parquet(self.pit_dir / "debt_equity_matrix.parquet"),
+                    "metadata": pd.read_parquet(meta_path).set_index("ticker"),
+                }
+        return self.build_pit_fundamental_matrices(
+            prices_matrix=prices_matrix,
+            returns_matrix=returns_matrix,
+            reporting_lag_days=reporting_lag_days,
+        )
 
-class Top10QualityValueModel(PortfolioModel):
-    """Selects 10 stocks based on a Composite Score of Valuation (P/E + EV/EBITDA),
+
+class QualityValueModel:
+    """Selects `top_n` stocks based on a Composite Score of Valuation (P/E + EV/EBITDA),
     Profitability (ROE + Operating Margin), and Leverage Penalty (Debt/Equity).
 
     Features:
@@ -508,31 +533,31 @@ class Top10QualityValueModel(PortfolioModel):
           (penalizes negative P/E and suspiciously low P/E < 3.0x distress traps)
         * Profitability (40%): 55% ROE Rank + 45% Operating Margin Rank
         * Debt Penalty (15%): Cross-sectional low-debt score (penalizes high Debt/Equity)
-    - Anti-Value-Trap Filter (optional, enabled by default):
+    - Anti-Value-Trap Filter (enabled by default):
         * Excludes bottom 25% of stocks by 6-12M Momentum
         * Excludes top 25% of stocks by Annualized Volatility
-        * Requires positive profitability (ROE > 0 and Operating Margin > 0) and positive P/E (> 3.0x)
+        * Requires positive profitability (ROE > 2% and Operating Margin > 2%) and positive P/E (> 3.0x)
     - Sector Diversification Cap:
-        * Maximum `max_per_sector` (default 3) stocks per GICS sector out of 10
-    - Top-15 Hysteresis Buffer Rule:
-        * Existing portfolio holdings that remain in the Top `buffer_rank` (default 15)
+        * Maximum `max_per_sector` (default 4) stocks per GICS sector out of 15
+    - Hysteresis Buffer Rule:
+        * Existing portfolio holdings that remain in the Top `buffer_rank` (default 22)
           and pass safety filters are retained to minimize unnecessary turnover
     - Equal Weight Allocation:
-        * Exact 10.0% weight (1/10) on each of the 10 selected stocks
+        * Exact `1 / top_n` weight (6.67% for 15 stocks) on each selected holding
     """
 
     def __init__(
         self,
         pit_data: Dict[str, pd.DataFrame],
-        top_n: int = 10,
-        buffer_rank: int = 15,
-        max_per_sector: int = 3,
+        top_n: int = config.PORTFOLIO_TOP_N,
+        buffer_rank: int = config.PORTFOLIO_BUFFER_RANK,
+        max_per_sector: int = config.MAX_STOCKS_PER_SECTOR,
         use_safety_filter: bool = True,
         use_debt_penalty: bool = True,
         momentum_exclude_quantile: float = 0.25,
         volatility_exclude_quantile: float = 0.75,
     ):
-        super().__init__(max_weight=1.0 / top_n)
+        self.max_weight = 1.0 / top_n
         self.pe_mat = pit_data["pe"]
         self.ev_mat = pit_data["ev_ebitda"]
         self.roe_mat = pit_data["roe"]
@@ -724,3 +749,8 @@ class Top10QualityValueModel(PortfolioModel):
             weights.loc[selected] = w_val
 
         return weights
+
+
+# Backward-compatible alias
+Top10QualityValueModel = QualityValueModel
+

@@ -121,7 +121,8 @@ def format_metrics_table(metrics_dict: Dict[str, Dict[str, float]]) -> pd.DataFr
 
     pct_rows = [
         "Total Return", "CAGR", "Annualized Volatility", "Max Drawdown",
-        "Daily Win Rate", "Alpha vs FTSE MIB", "Tracking Error", "FTSE MIB CAGR"
+        "Daily Win Rate", "Alpha vs FTSE MIB", "Tracking Error", "FTSE MIB CAGR",
+        "Avg Quarterly Turnover", "Avg Quarterly/Monthly Turnover",
     ]
     ratio_rows = [
         "Sharpe Ratio", "Sortino Ratio", "Calmar Ratio",
