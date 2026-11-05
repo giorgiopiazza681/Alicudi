@@ -58,11 +58,7 @@ Out-of-sample walk-forward backtest from **January 2000 to February 2026 (6,847 
 ### 1. Cumulative Equity Curve & Drawdown Profile (2000 – 2026)
 ![Cumulative Performance and Drawdowns](reports/strategy_performance.png)
 
-### 2. 1-Year Rolling Returns (252 Trading Days, 2001 – 2026)
-![1-Year Rolling Returns Trajectory](reports/rolling_returns_1y_trajectory.png)
-![1-Year Rolling Returns Distribution](reports/rolling_returns_1y_distribution.png)
-
-### 3. 5-Year Rolling Returns (1,260 Trading Days, 2005 – 2026)
+### 2. 5-Year Rolling Returns (1,260 Trading Days, 2005 – 2026)
 ![5-Year Rolling Returns Trajectory](reports/rolling_returns_5y_trajectory.png)
 ![5-Year Rolling Returns Distribution](reports/rolling_returns_5y_distribution.png)
 
