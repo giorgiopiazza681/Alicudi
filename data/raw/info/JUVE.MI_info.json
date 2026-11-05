@@ -16,7 +16,8 @@
   "profitMargins": -0.13902001,
   "operatingMargins": -0.22223,
   "returnOnEquity": -5.34,
-  "debtToEquity": 3159.981,
+  "debtToEquity": 31.59981,
   "totalDebt": 362671008,
-  "dividendYield": 0.0
+  "dividendYield": 0.0,
+  "trailingPE": -28.846792
 }

@@ -77,12 +77,12 @@ def main():
     # Monthly engine for standard reference strategies
     engine_m = BacktestEngine(rebalance_freq="M", lookback_days=252, cost_bps=20.0)
 
-    # 1. User-configured Strategy: Top-10 Magic Formula + Safety Filter + Sector Cap + Top-15 Buffer (Quarterly, 10% EW)
+    # 1. User Strategy: My Strategy (Top-15 Quality/Value + Safety Filter + Sector Cap + Buffer, Cap <= €1.0B, Quarterly, 6.67% EW)
     top10_protected_model = Top10QualityValueModel(
         pit_data=pit_data,
-        top_n=10,
-        buffer_rank=15,
-        max_per_sector=3,
+        top_n=15,
+        buffer_rank=22,
+        max_per_sector=4,
         use_safety_filter=True,
         use_debt_penalty=True,
     )
@@ -192,12 +192,14 @@ def main():
 
         currently_active = prices_matrix.loc[last_dt].notna() & under_500m_now
         window_now = returns_matrix.iloc[-252:].loc[:, currently_active].dropna(axis=1, thresh=189)
+        top10_protected_model.current_holdings = []
         top10_protected_model.calculate_weights(window_now)
         current_top10_df = top10_protected_model.selection_logs[-1].copy()
         current_top10_df.to_csv(config.REPORTS_DIR / "top10_current_portfolio.csv", index=False)
+        current_top10_df.to_csv(config.REPORTS_DIR / "current_portfolio.csv", index=False)
 
         print("\n" + "=" * 88)
-        print(f"PORTAFOGLIO ATTUALE TOP-10 SMALL/MID CAP ITALIANE (10% Equal Weight - Data: {last_dt.date()})")
+        print(f"PORTAFOGLIO ATTUALE TOP-15 SMALL/MID CAP ITALIANE (< 1.0B EUR, Data: {last_dt.date()})")
         print("=" * 88)
         display_cols = [
             "ticker", "company_name", "sector", "composite_score",
@@ -210,7 +212,7 @@ def main():
         disp["roe"] = disp["roe"].map(lambda x: f"{x*100:.1f}%")
         disp["operating_margin"] = disp["operating_margin"].map(lambda x: f"{x*100:.1f}%")
         disp["debt_to_equity"] = disp["debt_to_equity"].map(lambda x: f"{x:.0f}%")
-        disp["weight"] = disp["weight"].map(lambda x: f"{x*100:.0f}%")
+        disp["weight"] = disp["weight"].map(lambda x: f"{x*100:.2f}%")
         print(disp.to_string(index=False))
 
         # Check how many OPA-acquired companies were captured by the Top-10 strategy over time
@@ -225,7 +227,7 @@ def main():
         if mcap_matrix is not None:
             graduated_tks = mcap_matrix.columns[mcap_matrix.iloc[-1] > config.MARKET_CAP_THRESHOLD_EUR]
             multibaggers_picked = hist_sel_df[hist_sel_df["ticker"].isin(graduated_tks)]["company_name"].unique()
-            print(f"Ex-Small Cap (<500M € all'acquisto) poi cresciute >500M € catturate ({len(multibaggers_picked)} società):")
+            print(f"Ex-Small Cap (<1.0B € all'acquisto) poi cresciute >1.0B € catturate ({len(multibaggers_picked)} società):")
             print("  -> " + ", ".join(multibaggers_picked[:25]))
         print(f"Società poi acquisite tramite OPA selezionate dalla strategia ({len(opa_picks)} società):")
         print("  -> " + ", ".join(opa_picks[:18]))
@@ -249,17 +251,25 @@ def main():
         "FTSE MIB TR (Gross Dividends)": "#111111",
     }
 
+    tot_s = (plot_nav["My Strategy"].iloc[-1] / plot_nav["My Strategy"].iloc[0] - 1.0) * 100.0
+    cagr_s = ((1.0 + tot_s / 100.0) ** (252.0 / len(plot_nav)) - 1.0) * 100.0
+    sharpe_s = (plot_nav["My Strategy"].pct_change().mean() * 252.0 - 0.025) / (plot_nav["My Strategy"].pct_change().std() * np.sqrt(252.0))
+
+    tot_b = (plot_nav["FTSE MIB TR (Gross Dividends)"].iloc[-1] / plot_nav["FTSE MIB TR (Gross Dividends)"].iloc[0] - 1.0) * 100.0
+    cagr_b = ((1.0 + tot_b / 100.0) ** (252.0 / len(plot_nav)) - 1.0) * 100.0
+    sharpe_b = (plot_nav["FTSE MIB TR (Gross Dividends)"].pct_change().mean() * 252.0 - 0.025) / (plot_nav["FTSE MIB TR (Gross Dividends)"].pct_change().std() * np.sqrt(252.0))
+
     ax1.plot(
         plot_nav.index,
         plot_nav["My Strategy"],
-        label="My Strategy (CAGR: +7.96% | Sharpe: 0.42 | Total: +700.74%)",
+        label=f"My Strategy (CAGR: +{cagr_s:.2f}% | Sharpe: {sharpe_s:.2f} | Total: +{tot_s:.1f}%)",
         color="#e31a1c",
         linewidth=2.8,
     )
     ax1.plot(
         plot_nav.index,
         plot_nav["FTSE MIB TR (Gross Dividends)"],
-        label="FTSE MIB TR (Gross Dividends) (CAGR: +4.18% | Sharpe: 0.18 | Total: +203.72%)",
+        label=f"FTSE MIB TR (Gross Dividends) (CAGR: +{cagr_b:.2f}% | Sharpe: {sharpe_b:.2f} | Total: +{tot_b:.1f}%)",
         color="#111111",
         linewidth=2.2,
         linestyle="--",
@@ -267,7 +277,7 @@ def main():
 
     ax1.set_title(
         "My Strategy vs. FTSE MIB Total Return (2000 - 2026)\n"
-        f"Survivorship-Bias-Free Point-in-Time Small & Mid Cap Universe (< €500M) — {prices_matrix.shape[1]} stocks",
+        f"Survivorship-Bias-Free Point-in-Time Small & Mid Cap Universe (< €1.0B) — {prices_matrix.shape[1]} stocks",
         fontsize=13.5,
         fontweight="bold"
     )

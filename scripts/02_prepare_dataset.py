@@ -20,8 +20,8 @@ def main():
     parser.add_argument(
         "--cap-max",
         type=float,
-        default=500.0,
-        help="Max Market Capitalization in Millions of EUR (default: 500M)."
+        default=1000.0,
+        help="Max Market Capitalization in Millions of EUR (default: 1000M = 1.0B EUR)."
     )
     parser.add_argument(
         "--min-adtv",

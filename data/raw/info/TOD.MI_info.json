@@ -7,5 +7,11 @@
   "status": "DELISTED_OPA",
   "delisted": true,
   "delisting_date": "2024-06-07",
-  "data_source": "euronext_encrypted_archive"
+  "data_source": "euronext_encrypted_archive",
+  "sector": "Industrials",
+  "trailingPE": 11.504389388719957,
+  "enterpriseToEbitda": 6.063429719833095,
+  "returnOnEquity": 0.16076516893575898,
+  "operatingMargins": 0.1390252843565703,
+  "debtToEquity": 36.884151654887035
 }

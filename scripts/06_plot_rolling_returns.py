@@ -55,9 +55,9 @@ def main():
     engine_q = BacktestEngine(rebalance_freq="Q", lookback_days=252, cost_bps=20.0)
     top10_model = Top10QualityValueModel(
         pit_data=pit_data,
-        top_n=10,
-        buffer_rank=15,
-        max_per_sector=3,
+        top_n=15,
+        buffer_rank=22,
+        max_per_sector=4,
         use_safety_filter=True,
         use_debt_penalty=True,
     )

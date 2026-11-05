@@ -17,5 +17,7 @@
   "operatingMargins": 0.52107,
   "returnOnEquity": 0.12286,
   "totalDebt": 8855019520,
-  "dividendYield": 3.58
+  "dividendYield": 3.58,
+  "enterpriseToEbitda": 6.966988419999999,
+  "debtToEquity": 65.0
 }
